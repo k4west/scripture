@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:1 그러므로 오 사람아 그렇 게 판단하는 너가 누구이든 너는 변명 할 수 없나니 이는 판단하는 너가 바로 그 일을 하므로 너가 다른 사람을 판단 하는 그 일에서 너 자신을 정죄함이라 
+      <b>Rom.롬2:1 그러므로 오 사람아 그렇게 판단하는 너가 누구이든 너는 변명할 수 없나니 이는 판단하는 너가 바로 그 일을 하므로 너가 다른 사람을 판단하는 그 일에서 너 자신을 정죄함이라 
       </b>
     </div>
     <br>
@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:2 그런 일을 범하는 자들에 게는 진리에 따라 하나님의 심판이 있 을 것을 우리가 확신하노라 
+      <b>Rom.롬2:2 그런 일을 범하는 자들에게는 진리에 따라 하나님의 심판이 있을 것을 우리가 확신하노라 
       </b>
     </div>
     <br>
@@ -81,7 +81,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:3 오 사람아 그런 일을 하 는 자들을 판단하고도 같은 일을 하는 너는 하나님의 심판을 피할 것으로 생 각하느냐 
+      <b>Rom.롬2:3 오 사람아 그런 일을 하는 자들을 판단하고도 같은 일을 하는 너는 하나님의 심판을 피할 것으로 생각하느냐 
       </b>
     </div>
     <br>
@@ -99,7 +99,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:4 너는 하나님의 선하심이 너를 회개로 이끄는 것을 알지 못하고 그의 넘치는 선함과 관대함과 오래 참 음을 멸시하느냐 
+      <b>Rom.롬2:4 너는 하나님의 선하심이 너를 회개로 이끄는 것을 알지 못하고 그의 넘치는 선함과 관대함과 오래 참음을 멸시하느냐 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:5 그러나 너의 완악함과 회 개하지 않는 마음을 좇아 진노와 하나 님의 의로운 심판이 내려지는 그날을 위해 너 자신에게 진노를 쌓는도다 
+      <b>Rom.롬2:5 그러나 너의 완악함과 회개하지 않는 마음을 좇아 진노와 하나님의 의로운 심판이 내려지는 그날을 위해 너 자신에게 진노를 쌓는도다 
       </b>
     </div>
     <br>
@@ -133,7 +133,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:6 그는 각 사람에게 그 행 위에 따라 갚으리니 
+      <b>Rom.롬2:6 그는 각 사람에게 그 행위에 따라 갚으리니 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:7 계속하여 인내로 올바르 게 행하는 가운데 영광과 존귀와 불멸 을 구하는 자에게는 영생으로 갚되 
+      <b>Rom.롬2:7 계속하여 인내로 올바르게 행하는 가운데 영광과 존귀와 불멸을 구하는 자에게는 영생으로 갚되 
       </b>
     </div>
     <br>
@@ -159,7 +159,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:8 논쟁을 좋아하며 진리에 순종하지 않고 불의에 순종하는 자들에 게는 분노와 진노로 갚으리라 
+      <b>Rom.롬2:8 논쟁을 좋아하며 진리에 순종하지 않고 불의에 순종하는 자들에게는 분노와 진노로 갚으리라 
       </b>
     </div>
     <br>
@@ -177,7 +177,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:9 악을 행하는 사람의 모든 영혼 위에 환난과 괴로움이 닥치리니 먼저는 유대인 에 속한 자에게요 또한 이방인 에 속한 자에게라 
+      <b>Rom.롬2:9 악을 행하는 사람의 모든 영혼 위에 환난과 괴로움이 닥치리니 먼저는 유대인에 속한 자에게요 또한 이방인에 속한 자에게라 
       </b>
     </div>
     <br>
@@ -185,7 +185,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:10 그러나 선을 행하는 모 든 사람에게는 영광과 존귀와 평강이 있으리니 먼저는 유대인에게요 또한 이 방인에게 니 
+      <b>Rom.롬2:10 그러나 선을 행하는 모든 사람에게는 영광과 존귀와 평강이 있으리니 먼저는 유대인에게요 또한 이방인에게니 
       </b>
     </div>
     <br>
@@ -203,7 +203,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:11 하나님은 사람을 차별하 여 대하지 않느니라 
+      <b>Rom.롬2:11 하나님은 사람을 차별하여 대하지 않느니라 
       </b>
     </div>
     <br>
@@ -229,11 +229,11 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:13 (율법을 듣는 자가 하나 님 앞에서 의로운 것이 아니요 율법을 행하는 자라야 의롭게 되느니 라 (
+      <b>Rom.롬2:13 (율법을 듣는 자가 하나 님 앞에서 의로운 것이 아니요 율법을 행하는 자라야 의롭게 되느니라
       </b>
     </div>
     <br>
-    <div class="scripture">For not the hearers of the law are just before God, but the doers of the law shall be justified. 
+    <div class="scripture">(For not the hearers of the law are just before God, but the doers of the law shall be justified. 
     </div>
     <br>
     <div class="scripture">
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:14 율법을 갖지 않은 이방 인이 본성적으로 율법에 들어있는 것을 행하면 율법을 갖지 않아도 이것이 그 들에게 율법이 되나니 
+      <b>Rom.롬2:14 율법을 갖지 않은 이방인이 본성적으로 율법에 들어있는 것을 행하면 율법을 갖지 않아도 이것이 그들에게 율법이 되나니 
       </b>
     </div>
     <br>
@@ -281,7 +281,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:15, JST2:15 그들이 자기 마음속에 기록된 율법에 속한 행위를 보이면 그들의 양심이 증언하고 그와 동시에 그들의 생각이 서로 고소하거나 변호하느니라 ) 
+      <b>Rom.롬2:15, JST2:15 그들이 자기 마음속에 기록된 율법에 속한 행위를 보이면 그들의 양심이 증언하고 그와 동시에 그들의 생각이 서로 고소하거나 변호하느니라) 
       </b>
     </div>
     <br>
@@ -307,7 +307,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:16, JST2:16 그날에 하나님 이 사람의 은밀한 행위를 복음에 따라 예수 그리스도를 통해 심판하리라 
+      <b>Rom.롬2:16, JST2:16 그날에 하나님이 사람의 은밀한 행위를 복음에 따라 예수 그리스도를 통해 심판하리라 
       </b>
     </div>
     <br>
@@ -315,7 +315,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:17 보라 유대인이라 하는 너는 율법 안에 안주하고 하나님을 자 랑으로 삼으며 
+      <b>Rom.롬2:17 보라 유대인이라 하는 너는 율법 안에 안주하고 하나님을 자랑으로 삼으며 
       </b>
     </div>
     <br>
@@ -341,7 +341,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:19 너 스스로 눈먼 자의 안 내자요 어둠 속에 있는 자의 빛이요 
+      <b>Rom.롬2:19 너 스스로 눈먼 자의 안내자요 어둠 속에 있는 자의 빛이요 
       </b>
     </div>
     <br>
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:20 어리석은 자의 선생이요 아기들의 교사요 율법 안에서 지식과 진리의 틀을 갖춘 자라고 확신하 거니와 
+      <b>Rom.롬2:20 어리석은 자의 선생이요 아기들의 교사요 율법 안에서 지식과 진리의 틀을 갖춘 자라고 확신하거니와 
       </b>
     </div>
     <br>
@@ -367,7 +367,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:21 다른 사람을 가르치는 너가 너 자신은 가르치지 않느냐 사람 이 도둑질 해서는 안 된다고 설교하는 너가 훔치느냐 
+      <b>Rom.롬2:21 다른 사람을 가르치는 너가 너 자신은 가르치지 않느냐 사람이 도둑질 해서는 안 된다고 설교하는 너가 훔치느냐 
       </b>
     </div>
     <br>
@@ -375,7 +375,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_34.jpg'>
+    <img src='../../pictures/picture_154.jpg'>
   </div>
 </div>
 
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:22 사람이 간음을 범하면 안 된다고 말하는 너가 간음을 범하느 냐 우상들을 혐오하는 너가 신성모독을 범하느냐 
+      <b>Rom.롬2:22 사람이 간음을 범하면 안 된다고 말하는 너가 간음을 범하느냐 우상들을 혐오하는 너가 신성모독을 범하느냐 
       </b>
     </div>
     <br>
@@ -393,7 +393,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:23, JST2:23 율법을 자랑으 로 여기는 너가 율법을 깨뜨림으로 하 나님을 욕되게 하느냐 
+      <b>Rom.롬2:23, JST2:23 율법을 자랑으로 여기는 너가 율법을 깨뜨림으로 하나님을 욕되게 하느냐 
       </b>
     </div>
     <br>
@@ -411,7 +411,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:24 기록된 대로 하나님 의 이름이 너희를 통해 이방인 가운데 모 독받는도다 
+      <b>Rom.롬2:24 기록된 대로 하나님의 이름이 너희를 통해 이방인 가운데 모독받는도다 
       </b>
     </div>
     <br>
@@ -419,7 +419,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:25 너가 율법을 지키면 할 례가 참으로 유익하나 너가 율법을 깨 뜨리는 자가 되면 너의 할례는 무할례 가 되나니 
+      <b>Rom.롬2:25 너가 율법을 지키면 할례가 참으로 유익하나 너가 율법을 깨뜨리는 자가 되면 너의 할례는 무할례가 되나니 
       </b>
     </div>
     <br>
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:26 그러므로 무할례자가 율 법의 의로움을 지키면 그의 무할례를 할례로 여겨야 하지 않겠느냐 
+      <b>Rom.롬2:26 그러므로 무할례자가 율법의 의로움을 지키면 그의 무할례를 할례로 여겨야 하지 않겠느냐 
       </b>
     </div>
     <br>
@@ -453,7 +453,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_154.jpg'>
+    <img src='../../pictures/picture_34.jpg'>
   </div>
 </div>
 
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:27 또한 본래 무할례자가 율법을 성취하 면 율법 조문과 할례를 가지고 있으면서 율법을 범하는 너를 심판하지 않겠느냐 
+      <b>Rom.롬2:27 또한 본래 무할례자가 율법을 성취하면 율법 조문과 할례를 가지고 있으면서 율법을 범하는 너를 심판하지 않겠느냐 
       </b>
     </div>
     <br>
@@ -471,7 +471,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬2:28 겉으로 된 사람이 유대 인이 아니요 겉으로 육신에 행하는 것 이 할례도 아니라 
+      <b>Rom.롬2:28 겉으로 된 사람이 유대인이 아니요 겉으로 육신에 행하는 것이 할례도 아니라 
       </b>
     </div>
     <br>
@@ -489,7 +489,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬2:29 속으로 된 사람이 유대 인이요 할례는 영으로 마음에 하는 것 이요 율법 조문으로 하는 것이 아니니 그의 칭찬은 사람에게 서 나지 않고 하 나님에게서 나느니라 
+      <b>Rom.롬2:29 속으로 된 사람이 유대인이요 할례는 영으로 마음에 하는 것이요 율법 조문으로 하는 것이 아니니 그의 칭찬은 사람에게서 나지 않고 하나님에게서 나느니라 
       </b>
     </div>
     <br>
