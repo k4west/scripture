@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬14:6 날을 중히 여기는 자가 그것을 중히 여기는 것은 주를 위한 것이요 날을 중히 여기지 않는 자가 그것을 중히 여기지 않는 것도 주를 위한 것이라 먹는 자가 먹는 것은 주를 위해 하나님께 감사하는 것이요 먹지 않는 자가 먹지 않는 것도 주를 위해 하나님 께 감사하는 것이니 
+      <b>Rom.롬14:6 날을 중히 여기는 자가 그것을 중히 여기는 것은 주를 위한 것이요 날을 중히 여기지 않는 자가 그것을 중히 여기지 않는 것도 주를 위한 것이라 먹는 자가 먹는 것은 주를 위해 하나님께 감사하는 것이요 먹지 않는 자가 먹지 않는 것도 주를 위해 하나님께 감사하는 것이니 
       </b>
     </div>
     <br>
@@ -167,7 +167,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_168.jpg'>
+    <img src='../../pictures/picture_68.jpg'>
   </div>
 </div>
 
@@ -193,7 +193,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_176.jpg'>
+    <img src='../../pictures/picture_76.jpg'>
   </div>
 </div>
 
@@ -271,7 +271,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_12.jpg'>
   </div>
 </div>
 
@@ -453,7 +453,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_148.jpg'>
+    <img src='../../pictures/picture_18.jpg'>
   </div>
 </div>
 
@@ -479,7 +479,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_108.jpg'>
+    <img src='../../pictures/picture_8.jpg'>
   </div>
 </div>
 

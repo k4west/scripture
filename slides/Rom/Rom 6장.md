@@ -63,7 +63,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_157.jpg'>
+    <img src='../../pictures/picture_158.jpg'>
   </div>
 </div>
 
@@ -115,7 +115,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_88.jpg'>
+    <img src='../../pictures/picture_89.jpg'>
   </div>
 </div>
 
@@ -271,7 +271,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_161.jpg'>
+    <img src='../../pictures/picture_61.jpg'>
   </div>
 </div>
 
@@ -297,7 +297,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_15.jpg'>
+    <img src='../../pictures/picture_62.jpg'>
   </div>
 </div>
 
@@ -427,33 +427,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_62.jpg'>
-  </div>
-</div>
-
----
-
-<div class="columns">
-  <div class="scriptures">
-    <br>
-    <div class="scripture">
-      <b>Rom.롬7:1 형제들아 (율법을 아는 자들에게 말하노라) 너희는 사람이 살아있는 동안에만 율법이 그를 지배하는 것을 알지 못하느냐 
-      </b>
-    </div>
-    <br>
-    <div class="scripture">Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man only as long as he liveth?
-    </div>
-    <br>
-    <div class="scripture">
-      <b>
-      </b>
-    </div>
-    <br>
-    <div class="scripture">
-    </div>         
-  </div>
-  <div class="image-container">
-    <img src='../../pictures/picture_86.jpg'>
+    <img src='../../pictures/picture_64.jpg'>
   </div>
 </div>
 

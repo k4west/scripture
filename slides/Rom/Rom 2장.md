@@ -193,7 +193,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_168.jpg'>
+    <img src='../../pictures/picture_174.jpg'>
   </div>
 </div>
 
@@ -297,7 +297,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_141.jpg'>
+    <img src='../../pictures/picture_142.jpg'>
   </div>
 </div>
 

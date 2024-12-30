@@ -219,7 +219,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_127.jpg'>
+    <img src='../../pictures/picture_111.jpg'>
   </div>
 </div>
 
@@ -271,7 +271,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_99.jpg'>
   </div>
 </div>
 
@@ -323,7 +323,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_139.jpg'>
+    <img src='../../pictures/picture_102.jpg'>
   </div>
 </div>
 
@@ -557,7 +557,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_13.jpg'>
+    <img src='../../pictures/picture_103.jpg'>
   </div>
 </div>
 

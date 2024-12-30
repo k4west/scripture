@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:1 이에 아그립바가 바울에 게 이르되 너 자신을 위해 말할 것을 허락하노라 하니 바울이 손을 펴서 자 기를 위해 대답하되 
+      <b>Acts행26:1 이에 아그립바가 바울에게 이르되 너 자신을 위해 말할 것을 허락하노라 하니 바울이 손을 펴서 자기를 위해 대답하되 
       </b>
     </div>
     <br>
@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:2 아그립바 왕이여 오늘 당신 앞에서 내가 유대인 에게 고소당하 는 모든 일에 관해 나를 위해 답변하게 된 것을 기쁘게 생각하나이다 
+      <b>Acts 행26:2 아그립바 왕이여 오늘 당신 앞에서 내가 유대인에게 고소당하는 모든 일에 관해 나를 위해 답변하게 된 것을 기쁘게 생각하나이다 
       </b>
     </div>
     <br>
@@ -99,7 +99,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:3 특히 당신은 유대인 가 운데 있는 모든 관습과 문제에 능통함 을 내가 알기에 나의 말을 끝까지 들어 줄 것을 간청하나이다 
+      <b>Acts 행26:3 특히 당신은 유대인 가운데 있는 모든 관습과 문제에 능통함을 내가 알기에 나의 말을 끝까지 들어줄 것을 간청하나이다 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:4 내가 처음 예루살렘에서 나의 민족 가운데 있을 때 젊은 시절부 터의 나의 삶의 방식은 모든 유대인이 아나이다 
+      <b>Acts행26:4 내가 처음 예루살렘에서 나의 민족 가운데 있을 때 젊은 시절부터의 나의 삶의 방식은 모든 유대인이 아나이다 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:5 나를 처음부터 아는 자 들은 내가 우리 종교의 가장 엄한 종파 를 따라 바리새인으로 살았다 는 것을 증언할 수도 있으려니와 
+      <b>Acts 행26:5 나를 처음부터 아는 자 들은 내가 우리 종교의 가장 엄한 종파를 따라 바리새인으로 살았다는 것을 증언할 수도 있으려니와 
       </b>
     </div>
     <br>
@@ -159,7 +159,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행26:6 지금 내가 서서 재판받 는 것은 하나님이 우리 조상에게 맺은 약속에 관한 소망으로 인함이니 
+      <b>Acts 행26:6 지금 내가 서서 재판받는 것은 하나님이 우리 조상에게 맺은 약속에 관한 소망으로 인함이니 
       </b>
     </div>
     <br>
@@ -177,7 +177,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:7 이 약속은 우리 열두 지 파가 밤낮으로 간절히 하나님을 섬기면 서 이루어지기를 소망하는 바인데 아그 립바 왕이여 이 소망으로 인해 내가 유 대인들에게서 고소당하나이다 
+      <b>Acts행26:7 이 약속은 우리 열두 지파가 밤낮으로 간절히 하나님을 섬기면서 이루어지기를 소망하는 바인데 아그립바 왕이여 이 소망으로 인해 내가 유대인들에게서 고소당하나이다 
       </b>
     </div>
     <br>
@@ -203,7 +203,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:8 당신들은 어찌하여 하나 님이 죽은 자 살리는 것을 믿지 못할 것으로 생각하 나이까 
+      <b>Acts행26:8 당신들은 어찌하여 하나님이 죽은 자 살리는 것을 믿지 못할 것으로 생각하나이까 
       </b>
     </div>
     <br>
@@ -211,7 +211,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행26:9 참으로 나도 나사렛 예 수의 이름을 대적하 여 많은 일을 하는 것이 마땅한 것으로 생각하고 
+      <b>Acts 행26:9 참으로 나도 나사렛 예수의 이름을 대적하여 많은 일을 하는 것이 마땅한 것으로 생각하고 
       </b>
     </div>
     <br>
@@ -219,7 +219,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_7.jpg'>
+    <img src='../../pictures/picture_11.jpg'>
   </div>
 </div>
 
@@ -229,7 +229,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:10 예루살렘에서 도 그런 일을 했나니 제사장들 로부터 권세를 받 아 성도들 가운데 많은 자를 옥에 가두 고 저들을 죽이는 것에 찬성했으며 
+      <b>Acts 행26:10 예루살렘에서도 그런 일을 했나니 제사장들로부터 권세를 받아 성도들 가운데 많은 자를 옥에 가두고 저들을 죽이는 것에 찬성했으며 
       </b>
     </div>
     <br>
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:11 모든 회당에서 자주 저 들을 징벌하여 강제로 신성모독 하는 말을 하게 하고 저들에게 심히 격분하 여 타국 성읍에까지 가서 박해했나이다 
+      <b>Acts행26:11 모든 회당에서 자주 저들을 징벌하여 강제로 신성모독 하는 말을 하게 하고 저들에게 심히 격분하여 타국 성읍에까지 가서 박해했나이다 
       </b>
     </div>
     <br>
@@ -281,7 +281,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:12 내가 그 일로 제사장 들 로부터 권세와 위임을 받아 다메섹으로 가는데 
+      <b>Acts행26:12 내가 그 일로 제사장들로부터 권세와 위임을 받아 다메섹으로 가는데 
       </b>
     </div>
     <br>
@@ -289,7 +289,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행26:13 오 왕이여 내가 길을 가다가 한낮에 하늘로부터 해보다 밝은 빛이 함께 여행하는 자들과 나의 주위 를 비추는 것을 보았나이다 
+      <b>Acts 행26:13 오 왕이여 내가 길을 가다가 한낮에 하늘로부터 해보다 밝은 빛이 함께 여행하는 자들과 나의 주위를 비추는 것을 보았나이다 
       </b>
     </div>
     <br>
@@ -307,7 +307,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:14 우리는 모두 땅에 엎드 러지고 나는 나에게 말하는 한 음성을 들었는데 히브리 말로 이르되 사울아 사울아 어찌하여 나를 박해하느냐 가시 채에 발길질 하기가 너에게 힘든 일이 로다 했나이다 
+      <b>Acts행26:14 우리는 모두 땅에 엎드러지고 나는 나에게 말하는 한 음성을 들었는데 히브리 말로 이르되 사울아 사울아 어찌하여 나를 박해하느냐 가시채에 발길질 하기가 너에게 힘든 일이로다 했나이다 
       </b>
     </div>
     <br>
@@ -333,7 +333,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:15 내가 이르되 주여 당신 은 누구니이까 하니 그가 이르되 나는 너가 박해하는 예수니라 
+      <b>Acts행26:15 내가 이르되 주여 당신은 누구니이까 하니 그가 이르되 나는 너가 박해하는 예수니라 
       </b>
     </div>
     <br>
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:16 일어서라 내가 너에게 나타난 목적은 너로 하여금 너가 본 이 일들과 앞으로 내가 너에게 드러낼 그 일들에 관한 성역자와 증인이 되게 하 려 함이니라 
+      <b>Acts 행26:16 일어서라 내가 너에게 나타난 목적은 너로 하여금 너가 본 이 일들과 앞으로 내가 너에게 드러낼 그 일들에 관한 성역자와 증인이 되게 하려 함이니라 
       </b>
     </div>
     <br>
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:17 내가 너를 이 백성과 이방인 으로부터 건져내어 이제 저들에 게 보내는 것은 
+      <b>Acts 행26:17 내가 너를 이 백성과 이방인으로부터 건져내어 이제 저들에게 보내는 것은 
       </b>
     </div>
     <br>
@@ -401,7 +401,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_161.jpg'>
+    <img src='../../pictures/picture_89.jpg'>
   </div>
 </div>
 
@@ -411,7 +411,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:18 저들의 눈을 뜨게 하여 저들로 하여금 어둠으로부터 빛으로 돌 아오게 하고 사탄의 세력으로부터 하나 님께 돌아오게 하여 죄 사함을 받게 하 고 나에 대한 신앙을 통해 성결하게 된 자들 가운데 유업을 얻게 하려 함이라 했나이다 
+      <b>Acts행26:18 저들의 눈을 뜨게 하여 저들로 하여금 어둠으로부터 빛으로 돌아오게 하고 사탄의 세력으로부터 하나님께 돌아오게 하여 죄 사함을 받게 하고 나에 대한 신앙을 통해 성결하게 된 자들 가운데 유업을 얻게 하려 함이라 했나이다 
       </b>
     </div>
     <br>
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:19 그러므로 오 아그립바 왕이여 내가 하늘 시현을 거역하지 않 고 
+      <b>Acts 행26:19 그러므로 오 아그립바 왕이여 내가 하늘 시현을 거역하지 않고 
       </b>
     </div>
     <br>
@@ -453,7 +453,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_175.jpg'>
+    <img src='../../pictures/picture_76.jpg'>
   </div>
 </div>
 
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:20, JST26:20 먼저 다메 섹과 예루살렘과 유대 온 지역에 있는 사람들에게 보였으며 그다음에는 이방 인에게도 보임으 로써 그들로 하여금 회 개하여 하나님께 돌이키게 하고 회개에 합당한 일을 하게 했으니 
+      <b>Acts 행26:20, JST26:20 먼저 다메섹과 예루살렘과 유대 온 지역에 있는 사람들에게 보였으며 그다음에는 이방 인에게도 보임으로써 그들로 하여금 회개하여 하나님께 돌이키게 하고 회개에 합당한 일을 하게 했으니 
       </b>
     </div>
     <br>
@@ -479,7 +479,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_74.jpg'>
+    <img src='../../pictures/picture_71.jpg'>
   </div>
 </div>
 
@@ -489,7 +489,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:21 이런 이유로 유대인 들 이 성전에서 나를 붙잡아 죽이려 했나 이다 
+      <b>Acts 행26:21 이런 이유로 유대인들이 성전에서 나를 붙잡아 죽이려 했나이다 
       </b>
     </div>
     <br>
@@ -515,7 +515,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:22 그러므로 나는 하나님 의 도움을 받아 오늘까지 계속하여 작 은 자와 큰 자에게 증언하기를 선지자 들과 모세가 말한 일들이 이루어지리라 고 한 것 외에 다른 것은 말하지 않았 나니 
+      <b>Acts 행26:22 그러므로 나는 하나님의 도움을 받아 오늘까지 계속하여 작은 자와 큰 자에게 증언하기를 선지자들과 모세가 말한 일들이 이루어지리라고 한 것 외에 다른 것은 말하지 않았나니 
       </b>
     </div>
     <br>
@@ -541,7 +541,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:23, JST26:23 그것은 그 리스도가 고난받 아야 하는 것과 그가 죽음으로부터 살아나는 첫 열매가 되어 이 백성과 이방인에게 빛을 보여야 한 다는 것이니이다 하더라 
+      <b>Acts 행26:23, JST26:23 그것은 그리스도가 고난받아야 하는 것과 그가 죽음으로부터 살아나는 첫 열매가 되어 이 백성과 이방인에게 빛을 보여야 한다는 것이니이다 하더라 
       </b>
     </div>
     <br>
@@ -557,7 +557,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_48.jpg'>
+    <img src='../../pictures/picture_46.jpg'>
   </div>
 </div>
 
@@ -567,7 +567,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:24 그가 이렇게 자기를 위 해 말하매 베스도가 큰소리 로 이르되 바울아 너는 제정신이 아니니 많은 학 문이 너를 미치게 했도다 하는지라 
+      <b>Acts행26:24 그가 이렇게 자기를 위해 말하매 베스도가 큰소리로 이르되 바울아 너는 제정신이 아니니 많은 학문이 너를 미치게 했도다 하는지라 
       </b>
     </div>
     <br>
@@ -575,7 +575,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행26:25 그가 이르되 지극히 고 귀한 베스도 여 나는 미치지 않았으며 참되고 진지한 말을 하나이다 
+      <b>Acts행26:25 그가 이르되 지극히 고귀한 베스도여 나는 미치지 않았으며 참되고 진지한 말을 하나이다 
       </b>
     </div>
     <br>
@@ -593,7 +593,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:26 왕이 이 일들을 알기에 나도 왕 앞에서 거리낌 없이 말하는 것 이니 이 일들 가운데 그로부터 감추어 진 것이 하나도 없음을 확신하는 것은 이 일이 한쪽 구석에서 행해지지 않았 기 때문이니이다 
+      <b>Acts행26:26 왕이 이 일들을 알기에 나도 왕 앞에서 거리낌 없이 말하는 것이니 이 일들 가운데 그로부터 감추어진 것이 하나도 없음을 확신하는 것은 이 일이 한쪽 구석에서 행해지지 않았기 때문이니이다 
       </b>
     </div>
     <br>
@@ -619,7 +619,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:27 아그립바 왕이여 당신 은 선지자 들의 글을 믿나이까 나는 당 신이 믿는 것을 아나이다 하니 
+      <b>Acts 행26:27 아그립바 왕이여 당신은 선지자들의 글을 믿나이까 나는 당신이 믿는 것을 아나이다 하니 
       </b>
     </div>
     <br>
@@ -627,7 +627,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행26:28 아그립바가 바울에게 이르되 너가 나를 설득하여 거의 그리 스도인이 되게 하는도다 하매 
+      <b>Acts 행26:28 아그립바가 바울에게 이르되 너가 나를 설득하여 거의 그리스도인이 되게 하는도다 하매 
       </b>
     </div>
     <br>
@@ -645,7 +645,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행26:29 바울이 이르되 당신뿐 만 아니라 오늘 나의 말을 듣는 모든 사람도 이렇게 감금당한 것 말고는 거 의 전적으로 나와 같이 되기를 하나님 께 원하나이다 하더라 
+      <b>Acts 행26:29 바울이 이르되 당신뿐만 아니라 오늘 나의 말을 듣는 모든 사람도 이렇게 감금당한 것 말고는 거의 전적으로 나와 같이 되기를 하나님께 원하나이다 하더라 
       </b>
     </div>
     <br>
@@ -661,7 +661,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_101.jpg'>
+    <img src='../../pictures/picture_111.jpg'>
   </div>
 </div>
 
@@ -671,7 +671,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:30 그가 이렇게 말하매 왕 과 총독과 버니게 와 그들과 함께 앉은 자들이 일어나 
+      <b>Acts행26:30 그가 이렇게 말하매 왕과 총독과 버니게와 그들과 함께 앉은 자들이 일어나 
       </b>
     </div>
     <br>
@@ -679,7 +679,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행26:31 한쪽으로 가서 서로 말 하여 이르되 이 사람은 사형에 처하거 나 감금할 만한 일을 한 것이 아무것도 없도다 했으며 
+      <b>Acts행26:31 한쪽으로 가서 서로 말하여 이르되 이 사람은 사형에 처하거나 감금할 만한 일을 한 것이 아무것도 없도다 했으며 
       </b>
     </div>
     <br>
@@ -697,7 +697,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행26:32 아그립바가 베스도에게 이르되 이 사람이 가이사에게 상소하지 않았다면 석방될 수 있을 뻔 했도다 하 더라 
+      <b>Acts행26:32 아그립바가 베스도에게 이르되 이 사람이 가이사에게 상소하지 않았다면 석방될 수 있을 뻔 했도다 하더라 
       </b>
     </div>
     <br>

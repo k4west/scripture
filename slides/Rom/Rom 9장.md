@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:1 나는 그리스도 안에서 진 실을 말하고 거짓말하지 않노라 나의 양심 또한 성령 안에서 증언하는 것은 
+      <b>Rom.롬9:1 나는 그리스도 안에서 진실을 말하고 거짓말하지 않노라 나의 양심 또한 성령 안에서 증언하는 것은 
       </b>
     </div>
     <br>
@@ -63,7 +63,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_177.jpg'>
+    <img src='../../pictures/picture_19.jpg'>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:3, JST9:3 (한때 나 자신은 그리스도 로부터 저주받기를 원할 뻔 했 노라) 이는 나의 형제들과 육신에 따라 친척된 (
+      <b>Rom.롬9:3, JST9:3 (한때 나 자신은 그리스도로부터 저주받기를 원할 뻔 했노라) 이는 나의 형제들과 육신에 따라 친척된 
       </b>
     </div>
     <br>
@@ -89,7 +89,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_107.jpg'>
+    <img src='../../pictures/picture_37.jpg'>
   </div>
 </div>
 
@@ -99,7 +99,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:4, JST9:4 이스라엘 사람으 로 인한 것이라 그들에게서 입양되는 것과 영광과 성약과 율법을 주는 것과 하나님 을 섬기는 것과 
+      <b>Rom.롬9:4, JST9:4 이스라엘 사람으로 인한 것이라 그들에게서 입양되는 것과 영광과 성약과 율법을 주는 것과 하나님을 섬기는 것과 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:5, JST9:5 조상에게 맺어진 약속이 나왔고 그들에게서 육신으로 그 리스도가 났나니 그는 모든 것 위에 있 으며 영원히 복되신 하나님이 라 아멘 
+      <b>Rom.롬9:5, JST9:5 조상에게 맺어진 약속이 나왔고 그들에게서 육신으로 그리스도가 났나니 그는 모든 것 위에 있으며 영원히 복되신 하나님이라 아멘 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:6 하나님의 말씀이 무효화 된 것 같지 않나니 이는 이스라엘에게 서 난 자가 모두 이스라엘이 아니요 
+      <b>Rom.롬9:6 하나님의 말씀이 무효화 된 것 같지 않나니 이는 이스라엘에게서 난 자가 모두 이스라엘이 아니요 
       </b>
     </div>
     <br>
@@ -177,7 +177,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:8 다시 말하면 육신의 자녀 가 하나님의 자녀가 아니요 약속의 자 녀가 그 씨로 헤아려지느니라 
+      <b>Rom.롬9:8 다시 말하면 육신의 자녀가 하나님의 자녀가 아니요 약속의 자녀가 그 씨로 헤아려지느니라 
       </b>
     </div>
     <br>
@@ -185,7 +185,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬9:9 그 약속의 말씀은 이것이 니 이 무렵에 내가 오겠고 사라에게 아 들이 있으리라 한 것이라 
+      <b>Rom.롬9:9 그 약속의 말씀은 이것이니 이 무렵에 내가 오겠고 사라에게 아들이 있으리라 한 것이라 
       </b>
     </div>
     <br>
@@ -193,7 +193,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_22.jpg'>
+    <img src='../../pictures/picture_28.jpg'>
   </div>
 </div>
 
@@ -203,7 +203,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:10, JST9:10 사라뿐만 아니 라 리브가도 우리 조상 이삭 한 사람을 통해 잉태했을 때 
+      <b>Rom.롬9:10, JST9:10 사라뿐만 아니라 리브가도 우리 조상 이삭 한 사람을 통해 잉태했을 때 
       </b>
     </div>
     <br>
@@ -229,7 +229,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:11 (이는 아직 아이들이 태 어나지 않았고 선이나 악을 행하지도 않았으되 행위를 통해서가 아니라 부르 시는 그를 통해서 택함에 따라 하나님 의 목적을 세우려 함이라 ) (
+      <b>Rom.롬9:11 (이는 아직 아이들이 태어나지 않았고 선이나 악을 행하지도 않았으되 행위를 통해서가 아니라 부르시는 그를 통해서 택함에 따라 하나님 의 목적을 세우려 함이라 ) 
       </b>
     </div>
     <br>
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:13 기록된 바 내가 야곱은 사랑했으되 에서는 미워했노라 함과 같 으니라 
+      <b>Rom.롬9:13 기록된 바 내가 야곱은 사랑했으되 에서는 미워했노라 함과 같으니라 
       </b>
     </div>
     <br>
@@ -263,7 +263,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬9:14 그러면 우리가 무슨 말 을 하겠느냐 하나님께 불의함이 있느냐 결코 그럴 수 없느니라 
+      <b>Rom.롬9:14 그러면 우리가 무슨 말을 하겠느냐 하나님께 불의함이 있느냐 결코 그럴 수 없느니라 
       </b>
     </div>
     <br>
@@ -281,7 +281,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:15 이는 그가 모세에게 이 르되 나는 자비를 베풀 자에게 자비를 베풀고 불쌍히 여길 자를 불쌍히 여기 리라 했음이라 
+      <b>Rom.롬9:15 이는 그가 모세에게 이르되 나는 자비를 베풀 자에게 자비를 베풀고 불쌍히 여길 자를 불쌍히 여기리라 했음이라 
       </b>
     </div>
     <br>
@@ -307,7 +307,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:16, JST9:16 그러므로 그것 은 원하는 자로 인해서 가 아니요 달리 는 자로 인해서도 아니요 오직 자비를 보이시는 하나님으로 인한 것이라 
+      <b>Rom.롬9:16, JST9:16 그러므로 그것은 원하는 자로 인해서가 아니요 달리는 자로 인해서도 아니요 오직 자비를 보이시는 하나님으로 인한 것이라 
       </b>
     </div>
     <br>
@@ -333,7 +333,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:17, JST9:17 경전이 파라오 에게 이르되 내가 너를 일으킨 것은 이 와 같은 목적이니 너의 안에서 나의 능 력을 보여 나의 이름이 온 땅에 널리 선포되게 하려 함이라 했으므로 
+      <b>Rom.롬9:17, JST9:17 경전이 파라오에게 이르되 내가 너를 일으킨 것은 이와 같은 목적이니 너의 안에서 나의 능력을 보여 나의 이름이 온 땅에 널리 선포되게 하려 함이라 했으므로 
       </b>
     </div>
     <br>
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:18 그는 자비를 베풀 자에 게 자비를 베풀고 그가 원하는 자를 완 악하게 하느니라 
+      <b>Rom.롬9:18 그는 자비를 베풀 자에게 자비를 베풀고 그가 원하는 자를 완악하게 하느니라 
       </b>
     </div>
     <br>
@@ -367,7 +367,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬9:19 그러면 너가 나에게 이 르기를 어찌하여 그가 여전히 허물을 찾느냐 누가 그의 뜻을 거역했느냐 하 겠으나 
+      <b>Rom.롬9:19 그러면 너가 나에게 이르기를 어찌하여 그가 여전히 허물을 찾느냐 누가 그의 뜻을 거역했느냐 하겠으나 
       </b>
     </div>
     <br>
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:20 그렇지 않으니 라 오 사 람아 하나님께 대답하는 너는 누구냐 지음 받은 것이 지은 자에게 이르기를 어찌하여 너가 나를 이렇게 만들었느냐 하겠느냐 
+      <b>Rom.롬9:20 그렇지 않으니라 오 사람아 하나님께 대답하는 너는 누구냐 지음 받은 것이 지은 자에게 이르기를 어찌하여 너가 나를 이렇게 만들었느냐 하겠느냐 
       </b>
     </div>
     <br>
@@ -427,7 +427,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_166.jpg'>
+    <img src='../../pictures/picture_4.jpg'>
   </div>
 </div>
 
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:22, JST9:22 그의 진노를 보이고 그의 권능을 알리기 원하는 하 나님이 멸망에 합당한 진노의 그릇에 대해 심히 오래 참음으로 인내하는 것 은 
+      <b>Rom.롬9:22, JST9:22 그의 진노를 보이고 그의 권능을 알리기 원하는 하나님이 멸망에 합당한 진노의 그릇에 대해 심히 오래 참음으로 인내하는 것은 
       </b>
     </div>
     <br>
@@ -453,7 +453,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_133.jpg'>
+    <img src='../../pictures/picture_25.jpg'>
   </div>
 </div>
 
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:23, JST9:23 영광에 이르도 록 미리 예비한 자비의 그릇 위에 그의 영광의 풍성함을 알리려 함이니 
+      <b>Rom.롬9:23, JST9:23 영광에 이르도록 미리 예비한 자비의 그릇 위에 그의 영광의 풍성함을 알리려 함이니 
       </b>
     </div>
     <br>
@@ -471,7 +471,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬9:24 그가 우리 유대인 에 속 한 자뿐만 아니라 이방인 에 속한 자도 불렀으면 어찌하겠느냐 
+      <b>Rom.롬9:24 그가 우리 유대인에 속한 자뿐만 아니라 이방인에 속한 자도 불렀으면 어찌하겠느냐 
       </b>
     </div>
     <br>
@@ -489,7 +489,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:25, JST9:25 호세아의 글에 도 그가 이르되 내가 나의 백성이 아니 었던 자들을 나의 백성이라 부르고 사 랑받지 못하던 그녀를 사랑하 는 이라 부르리라 
+      <b>Rom.롬9:25, JST9:25 호세아의 글에도 그가 이르되 내가 나의 백성이 아니었던 자들을 나의 백성이라 부르고 사랑받지 못하던 그녀를 사랑하는 이라 부르리라 
       </b>
     </div>
     <br>
@@ -515,7 +515,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:26 그리고 이렇게 되리니 그들에게 일러 너희는 나의 백성이 아 니라 하던 그곳에서 그들은 살아계신 하나님의 자녀라 불리리라 한 것과 같 으니라 
+      <b>Rom.롬9:26 그리고 이렇게 되리니 그들에게 일러 너희는 나의 백성이 아니라 하던 그곳에서 그들은 살아계신 하나님의 자녀라 불리리라 한 것과 같으니라 
       </b>
     </div>
     <br>
@@ -541,7 +541,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:27 이사야도 이스라엘에 관 해 외치되 이스라엘 자손의 수효가 바 다의 모래와 같을지라도 남은 무리만 구원받 으리라 
+      <b>Rom.롬9:27 이사야도 이스라엘에 관해 외치되 이스라엘 자손의 수효가 바다의 모래와 같을지라도 남은 무리만 구원받으리라 
       </b>
     </div>
     <br>
@@ -567,7 +567,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:28 그가 의로움 가운데 그 일을 단축하여 마치리니 이는 주가 땅 위에 한 가지 단축된 일을 이룰 것임이 라 했느니라 
+      <b>Rom.롬9:28 그가 의로움 가운데 그 일을 단축하여 마치리니 이는 주가 땅 위에 한 가지 단축된 일을 이룰 것임이라 했느니라 
       </b>
     </div>
     <br>
@@ -583,7 +583,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_163.jpg'>
+    <img src='../../pictures/picture_23.jpg'>
   </div>
 </div>
 
@@ -593,7 +593,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:29 또 이사야가 미리 말한 대로 사바오스의 주가 우리에게 씨 하 나를 남기지 않았다면 우리는 소돔과 같았을 것이요 고모라 처럼 되었으 리라 
+      <b>Rom.롬9:29 또 이사야가 미리 말한 대로 사바오스의 주가 우리에게 씨 하나를 남기지 않았다면 우리는 소돔과 같았을 것이요 고모라처럼 되었으리라 
       </b>
     </div>
     <br>
@@ -609,7 +609,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_21.jpg'>
   </div>
 </div>
 
@@ -619,7 +619,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:30 그러면 우리가 무슨 말 을 하겠느냐 의로움을 따르지 않았던 이방인은 의로움 곧 신앙에서 난 의로 움에 이르렀으나 
+      <b>Rom.롬9:30 그러면 우리가 무슨 말을 하겠느냐 의로움을 따르지 않았던 이방인은 의로움 곧 신앙에서 난 의로움에 이르렀으나 
       </b>
     </div>
     <br>
@@ -645,7 +645,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:31 의로움의 율법을 따랐던 이스라엘은 의로움의 율법에 이르지 못 했느니라 
+      <b>Rom.롬9:31 의로움의 율법을 따랐던 이스라엘은 의로움의 율법에 이르지 못했느니라 
       </b>
     </div>
     <br>
@@ -653,7 +653,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬9:32, JST9:32 그러므로 그들 이 그 걸림돌에 걸려 넘어진 것은 신앙 에 의해서가 아니라 율법의 행위에 의 해서 넘어진 것과 같으니 
+      <b>Rom.롬9:32, JST9:32 그러므로 그들이 그 걸림돌에 걸려 넘어진 것은 신앙에 의해서가 아니라 율법의 행위에 의해서 넘어진 것과 같으니 
       </b>
     </div>
     <br>
@@ -671,7 +671,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬9:33, JST9:33 그것은 기록된 바 보라 내가 걸림돌과 실족하게 하는 반석을 시온에 두거니와 누구든지 그를 믿는 자는 수치를 당하지 않으리라 함 과 같으니라 
+      <b>Rom.롬9:33, JST9:33 그것은 기록된 바 보라 내가 걸림돌과 실족하게 하는 반석을 시온에 두거니와 누구든지 그를 믿는 자는 수치를 당하지 않으리라 함과 같으니라 
       </b>
     </div>
     <br>

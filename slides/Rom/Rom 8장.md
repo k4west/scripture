@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:1 그러므로 이제 예수 그리 스도 안에서 육신을 좇아 행하지 않고 성령을 좇아 행하는 자들에게는 정죄함 이 없나니 
+      <b>Rom.롬8:1 그러므로 이제 예수 그리스도 안에서 육신을 좇아 행하지 않고 성령을 좇아 행하는 자들에게는 정죄함이 없나니 
       </b>
     </div>
     <br>
@@ -55,7 +55,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:2 이는 예수 그리스도 안에 있는 생명의 성령의 율법이 나를 죄와 죽음의 율법으로부터 자유롭게 했기 때 문이라 
+      <b>Rom.롬8:2 이는 예수 그리스도 안에 있는 생명의 성령의 율법이 나를 죄와 죽음의 율법으로부터 자유롭게 했기 때문이라 
       </b>
     </div>
     <br>
@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:3 육신을 통해서는 그 안에 서 연약하여 율법이 행할 수 없는 것을 위해 하나님이 자기 아들을 죄 있는 육 신의 모습으로 보내어 죄를 위해 육신 안에서 죄를 정죄했나니 
+      <b>Rom.롬8:3 육신을 통해서는 그 안에서 연약하여 율법이 행할 수 없는 것을 위해 하나님이 자기 아들을 죄 있는 육신의 모습으로 보내어 죄를 위해 육신 안에서 죄를 정죄했나니 
       </b>
     </div>
     <br>
@@ -89,7 +89,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_71.jpg'>
+    <img src='../../pictures/picture_36.jpg'>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:5 육신을 좇는 자들은 육에 속한 일을 마음에 두거니와 성령을 좇 는 자들은 성령에 속한 일을 마음에 두 느니라 
+      <b>Rom.롬8:5 육신을 좇는 자들은 육에 속한 일을 마음에 두거니와 성령을 좇는 자들은 성령에 속한 일을 마음에 두느니라 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:6 육에 속한 마음이 되는 것은 죽음이요 영적인 마음이 되는 것 은 생명과 평강이 니 
+      <b>Rom.롬8:6 육에 속한 마음이 되는 것은 죽음이요 영적인 마음이 되는 것 은 생명과 평강이니 
       </b>
     </div>
     <br>
@@ -133,7 +133,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:7 육에 속한 마음은 하나님 을 대적하는 적대감 이라 육에 속한 마 음은 하나님의 율법에 복종하지 않고 진정으로 복종할 수도 없으므로 
+      <b>Rom.롬8:7 육에 속한 마음은 하나님을 대적하는 적대감이라 육에 속한 마음은 하나님의 율법에 복종하지 않고 진정으로 복종할 수도 없으므로 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:8, JST8:8 육신을 좇는 자 들은 하나님을 기쁘게 할 수 없느니라 
+      <b>Rom.롬8:8, JST8:8 육신을 좇는 자들은 하나님을 기쁘게 할 수 없느니라 
       </b>
     </div>
     <br>
@@ -177,7 +177,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:9, JST8:9 그러나 너희 안 에 하나님의 성령이 거하면 너희는 육 신을 좇지 않고 성령을 좇는 것이니 누 구든지 그리스도의 성령을 지니지 않으 면 그는 그리스도 에게 속한 자가 아니 니라 
+      <b>Rom.롬8:9, JST8:9 그러나 너희 안에 하나님의 성령이 거하면 너희는 육신을 좇지 않고 성령을 좇는 것이니 누구든지 그리스도의 성령을 지니지 않으면 그는 그리스도에게 속한 자가 아니니라 
       </b>
     </div>
     <br>
@@ -203,7 +203,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:10, JST8:10 그리스도가 너 희 안에 있으면 몸은 죄로 인해 죽을지 라도 성령은 의로움으로 인한 생명이 니 
+      <b>Rom.롬8:10, JST8:10 그리스도가 너희 안에 있으면 몸은 죄로 인해 죽을지라도 성령은 의로움으로 인한 생명이니 
       </b>
     </div>
     <br>
@@ -229,7 +229,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:11, JST8:11 예수를 죽음으 로부터 살리신 그의 성령이 너희 안에 거하면 그리스도를 죽음으로부터 살리 신 이가 너희 안에 거하는 그의 성령을 통해 너희 필멸의 몸도 살리리라 
+      <b>Rom.롬8:11, JST8:11 예수를 죽음으로부터 살리신 그의 성령이 너희 안에 거하면 그리스도를 죽음으로부터 살리신 이가 너희 안에 거하는 그의 성령을 통해 너희 필멸의 몸도 살리리라 
       </b>
     </div>
     <br>
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:12 그러므로 형제들아 우리 가 빚진 자로되 육신을 좇아 살기 위해 육신에 빚진 것이 아니니 
+      <b>Rom.롬8:12 그러므로 형제들아 우리가 빚진 자로되 육신을 좇아 살기 위해 육신에 빚진 것이 아니니 
       </b>
     </div>
     <br>
@@ -263,7 +263,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:13, JST8:13 너희가 육신을 좇아 살면 죄에 이르러 죽을 것이나 성 령을 통해 몸의 행위를 통제하 면 그리 스도에게 이르러 살리라 
+      <b>Rom.롬8:13, JST8:13 너희가 육신을 좇아 살면 죄에 이르러 죽을 것이나 성령을 통해 몸의 행위를 통제하면 그리스도에게 이르러 살리라 
       </b>
     </div>
     <br>
@@ -289,7 +289,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:15 너희가 다시는 속박하는 영을 받아 두려워하 지 않고 입양하는 성령을 받아 그것으로 우리가 아바 아 버지라 고 외치느 니라 
+      <b>Rom.롬8:15 너희가 다시는 속박하는 영을 받아 두려워하지 않고 입양하는 성령을 받아 그것으로 우리가 아바 아버지라고 외치느니라 
       </b>
     </div>
     <br>
@@ -307,7 +307,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:16 성령이 친히 우리 영에 게 우리가 하나님의 자녀인 것을 증언 하나니 
+      <b>Rom.롬8:16 성령이 친히 우리 영에게 우리가 하나님의 자녀인 것을 증언 하나니 
       </b>
     </div>
     <br>
@@ -315,7 +315,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:17 자녀이면 상속자 곧 하 나님의 상속자요 그리스도와 공동 상속 자니라 우리가 그와 함께 고난받 는다면 그것은 우리도 함께 영화롭게 되기 위 함이라 
+      <b>Rom.롬8:17 자녀이면 상속자 곧 하나님의 상속자요 그리스도와 공동 상속자니라 우리가 그와 함께 고난받는다면 그것은 우리도 함께 영화롭게 되기 위함이라 
       </b>
     </div>
     <br>
@@ -333,7 +333,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:18, JST8:18 현재의 고난은 장차 우리 안에 나타날 영광과 함께 거 명되기에 합당하지 않은 것으로 여기노 니 
+      <b>Rom.롬8:18, JST8:18 현재의 고난은 장차 우리 안에 나타날 영광과 함께 거명되기에 합당하지 않은 것으로 여기노니 
       </b>
     </div>
     <br>
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:20, JST8:20 피조물이 환난 에 복종하는 것은 자진해서가 아니요 소망 안에서 그것을 복종하 게 하시는 이로 인한 것이니 
+      <b>Rom.롬8:20, JST8:20 피조물이 환난에 복종하는 것은 자진해서가 아니요 소망 안에서 그것을 복종하게 하시는 이로 인한 것이니 
       </b>
     </div>
     <br>
@@ -375,7 +375,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_105.jpg'>
+    <img src='../../pictures/picture_45.jpg'>
   </div>
 </div>
 
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:21 이는 피조물 자신도 부 패의 속박으로부터 구출되어 하나님 의 자녀의 영광스러운 자유에 들어가기 때 문이라 
+      <b>Rom.롬8:21 이는 피조물 자신도 부패의 속박으로부터 구출되어 하나님 의 자녀의 영광스러운 자유에 들어가기 때문이라 
       </b>
     </div>
     <br>
@@ -393,7 +393,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:22 온 피조물 이 함께 괴로 워하며 지금까지 진통하는 것을 우리가 알거니와 
+      <b>Rom.롬8:22 온 피조물이 함께 괴로워하며 지금까지 진통하는 것을 우리가 알거니와 
       </b>
     </div>
     <br>
@@ -401,7 +401,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_43.jpg'>
+    <img src='../../pictures/picture_3.jpg'>
   </div>
 </div>
 
@@ -411,7 +411,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:23 그것들뿐만 아니라 성령 의 첫 열매를 받은 우리도 속으로 괴로 워하며 입양 되는 것 다시 말하면 우리 몸의 대속을 기다리느니라 
+      <b>Rom.롬8:23 그것들뿐만 아니라 성령의 첫 열매를 받은 우리도 속으로 괴로워하며 입양 되는 것 다시 말하면 우리 몸의 대속을 기다리느니라 
       </b>
     </div>
     <br>
@@ -427,7 +427,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_176.jpg'>
+    <img src='../../pictures/picture_44.jpg'>
   </div>
 </div>
 
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:24 우리가 소망을 통해 구 원받았으나 보이는 소망은 소망이 아니 라 사람이 보는 것을 어찌하여 그가 여 전히 소망하겠느냐 
+      <b>Rom.롬8:24 우리가 소망을 통해 구원받았으나 보이는 소망은 소망이 아니라 사람이 보는 것을 어찌하여 그가 여전히 소망하겠느냐 
       </b>
     </div>
     <br>
@@ -445,7 +445,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:25, JST8:25 그러나 우리가 보지 못하는 것을 소망하 면 우리는 인 내로 그것을 기다리느니라 
+      <b>Rom.롬8:25, JST8:25 그러나 우리가 보지 못하는 것을 소망하면 우리는 인내로 그것을 기다리느니라 
       </b>
     </div>
     <br>
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:26 이렇게 성령도 우리의 연약함을 돕나니 우리가 마땅히 기도할 바를 알지 못하나 성령이 말로 표현할 수 없는 탄식으로 우리를 위해 친히 중 재하고 
+      <b>Rom.롬8:26 이렇게 성령도 우리의 연약함을 돕나니 우리가 마땅히 기도할 바를 알지 못하나 성령이 말로 표현할 수 없는 탄식으로 우리를 위해 친히 중재하고 
       </b>
     </div>
     <br>
@@ -515,7 +515,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:28 우리가 알거니와 하나님 을 사랑하는 자들 곧 그의 목적에 따라 부름 받은 자들에게는 모든 일이 함께 역사하 여 선을 이루나니 
+      <b>Rom.롬8:28 우리가 알거니와 하나님을 사랑하는 자들 곧 그의 목적에 따라 부름 받은 자들에게는 모든 일이 함께 역사하여 선을 이루나니 
       </b>
     </div>
     <br>
@@ -531,7 +531,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_13.jpg'>
+    <img src='../../pictures/picture_43.jpg'>
   </div>
 </div>
 
@@ -541,7 +541,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:29, JST8:29 그가 미리 알 았던 그를 자신의 형상과 일치하도록 예임하여 많은 형제 가운데서 장자가 되게 했으며 
+      <b>Rom.롬8:29, JST8:29 그가 미리 알았던 그를 자신의 형상과 일치하도록 예임하여 많은 형제 가운데서 장자가 되게 했으며 
       </b>
     </div>
     <br>
@@ -567,7 +567,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:30, JST8:30 그뿐만 아니라 그가 예임한 그를 불렀으며 부른 그를 성결하게 했으며 성결하게 한 그를 영 화롭게 했느니라 
+      <b>Rom.롬8:30, JST8:30 그뿐만 아니라 그가 예임한 그를 불렀으며 부른 그를 성결하게 했으며 성결하게 한 그를 영화롭게 했느니라 
       </b>
     </div>
     <br>
@@ -593,7 +593,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:31, JST8:31 그러면 이런 일에 대해 우리가 무슨 말을 하겠느냐 하나님이 우리 편에 있다면 누가 우리 를 대적하여 이길 수 있겠느냐 
+      <b>Rom.롬8:31, JST8:31 그러면 이런 일에 대해 우리가 무슨 말을 하겠느냐 하나님이 우리 편에 있다면 누가 우리를 대적하여 이길 수 있겠느냐 
       </b>
     </div>
     <br>
@@ -601,7 +601,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:32 우리 모두를 위해 자기 아들을 아끼지 않고 넘겨주신 이가 어 찌 그와 함께 모든 것을 우리에게 값없 이 주지 않겠느냐 
+      <b>Rom.롬8:32 우리 모두를 위해 자기 아들을 아끼지 않고 넘겨주신 이가 어찌 그와 함께 모든 것을 우리에게 값없이 주지 않겠느냐 
       </b>
     </div>
     <br>
@@ -609,7 +609,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_148.jpg'>
+    <img src='../../pictures/picture_52.jpg'>
   </div>
 </div>
 
@@ -619,7 +619,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:33 누가 무슨 일로 하나님 이 택한 자들을 고소하겠느냐 의롭게 하시는 이는 하나님 이라 
+      <b>Rom.롬8:33 누가 무슨 일로 하나님이 택한 자들을 고소하겠느냐 의롭게 하시는 이는 하나님이라 
       </b>
     </div>
     <br>
@@ -627,7 +627,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬8:34 정죄하는 자가 누구냐 죽었으나 오히려 다시 살아나 하나님의 오른편 에 계시는 그리스도 가 우리를 위 해 중재하 느니라 
+      <b>Rom.롬8:34 정죄하는 자가 누구냐 죽었으나 오히려 다시 살아나 하나님의 오른편에 계시는 그리스도가 우리를 위해 중재하느니라 
       </b>
     </div>
     <br>
@@ -671,7 +671,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:36 기록된 바 우리가 온종 일 당신을 위해 죽임당 하며 도살할 양 처럼 여김 받았나이다 함과 같으나 
+      <b>Rom.롬8:36 기록된 바 우리가 온종일 당신을 위해 죽임당하며 도살할 양처럼 여김 받았나이다 함과 같으나 
       </b>
     </div>
     <br>
@@ -697,7 +697,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:38 내가 확신하노니 죽음이 나 생명이나 천사나 주권이나 권능이나 현재 일이나 장래 일이나 
+      <b>Rom.롬8:38 내가 확신하노니 죽음이나 생명이나 천사나 주권이나 권능이나 현재 일이나 장래 일이나 
       </b>
     </div>
     <br>
@@ -723,7 +723,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬8:39 높음이나 깊음이나 다른 어떤 피조물도 우리 주 예수 그리스도 안에 있는 하나님의 사랑으로부터 우리 를 갈라놓지 못하리라 
+      <b>Rom.롬8:39 높음이나 깊음이나 다른 어떤 피조물도 우리 주 예수 그리스도 안에 있는 하나님의 사랑으로부터 우리를 갈라놓지 못하리라 
       </b>
     </div>
     <br>

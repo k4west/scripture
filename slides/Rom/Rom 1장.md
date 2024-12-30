@@ -55,7 +55,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Rom.롬1:2, JST1:2 (이 복음은 그가 선지자 들을 통해 거룩한 경전에 미리 약속한 것이라)
+      <b>Rom.롬1:2, JST1:2 (이 복음은 그가 선지자들을 통해 거룩한 경전에 미리 약속한 것이라)
       </b>
     </div>
     <br>
@@ -89,7 +89,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_92.jpg'>
+    <img src='../../pictures/picture_93.jpg'>
   </div>
 </div>
 
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬1:13, JST1:13 이제 형제들아 내가 여러 번 너희에게 가려고 한 것을 너희가 알기 원하노니 (그러나 지금까 지 막혔도다) 이는 다른 이방인 가운데서처럼 너희 가운데서도 얼마간의 열매를 얻으려 함이라 
+      <b>Rom.롬1:13, JST1:13 이제 형제들아 내가 여러 번 너희에게 가려고 한 것을 너희가 알기 원하노니 (그러나 지금까지 막혔도다) 이는 다른 이방인 가운데서처럼 너희 가운데서도 얼마간의 열매를 얻으려 함이라 
       </b>
     </div>
     <br>
@@ -557,7 +557,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_166.jpg'>
   </div>
 </div>
 
@@ -609,7 +609,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_49.jpg'>
+    <img src='../../pictures/picture_50.jpg'>
   </div>
 </div>
 
@@ -661,7 +661,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_176.jpg'>
+    <img src='../../pictures/picture_165.jpg'>
   </div>
 </div>
 

@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:1 그리고 이렇게 되었나니 아볼로가 고린도에 있는 동안 바울은 윗 지방을 지나서 에베소에 이르러 어 떤 제자들을 만나 
+      <b>Acts행19:1 그리고 이렇게 되었나니 아볼로가 고린도에 있는 동안 바울은 윗 지방을 지나서 에베소에 이르러 어떤 제자들을 만나 
       </b>
     </div>
     <br>
@@ -63,7 +63,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_63.jpg'>
+    <img src='../../pictures/picture_6.jpg'>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:2 그들에게 이르되 너희가 믿은 이래로 성령을 받은 적이 있느냐 하니 그들이 이르되 우리는 성령이 있 다는 말도 듣지 못했다 하는지라 
+      <b>Acts행19:2 그들에게 이르되 너희가 믿은 이래로 성령을 받은 적이 있느냐 하니 그들이 이르되 우리는 성령이 있다는 말도 듣지 못했다 하는지라 
       </b>
     </div>
     <br>
@@ -99,7 +99,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:3 그가 이르되 그러면 너 희는 무슨 침례를 받았느냐 하니 그들 이 이르되 요한의 침례라 하더라 
+      <b>Acts 행19:3 그가 이르되 그러면 너희는 무슨 침례를 받았느냐 하니 그들이 이르되 요한의 침례라 하더라 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:4 이에 바울이 이르되 진 실로 요한은 회개의 침례로 침례하 면서 자기 뒤에 오는 자 곧 예수 그리스도를 믿으라고 말했느니라 하니 
+      <b>Acts 행19:4 이에 바울이 이르되 진실로 요한은 회개의 침례로 침례하 면서 자기 뒤에 오는 자 곧 예수 그리스도를 믿으라고 말했느니라 하니 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:6 바울이 그들에게 안수하 매 성령이 그들 위에 임하여 방언도 하 고 예언도 하니 
+      <b>Acts행19:6 바울이 그들에게 안수하매 성령이 그들 위에 임하여 방언도 하고 예언도 하니 
       </b>
     </div>
     <br>
@@ -159,7 +159,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행19:7 모두 열두 사람 정도 되 더라 And 
+      <b>Acts행19:7 모두 열두 사람 정도 되더라 
       </b>
     </div>
     <br>
@@ -167,7 +167,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_135.jpg'>
+    <img src='../../pictures/picture_35.jpg'>
   </div>
 </div>
 
@@ -177,7 +177,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:8 그가 회당에 들어가 석 달 동안 담대히 말하며 하나님의 왕국 에 관한 것을 토론하고 설득했으나 
+      <b>Acts 행19:8 그가 회당에 들어가 석달 동안 담대히 말하며 하나님의 왕국에 관한 것을 토론하고 설득했으나 
       </b>
     </div>
     <br>
@@ -203,7 +203,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:9 여러 사람이 완악해져서 믿지 않고 무리 앞에서 그 종교를 비난 하니 그가 그들로부터 떠나 제자들을 따로 모으고 두란노라 하는 자의 학교 에서 날마다 토론하니라 
+      <b>Acts행19:9 여러 사람이 완악해져서 믿지않고 무리 앞에서 그 종교를 비난하니 그가 그들로부터 떠나 제자들을 따로 모으고 두란노라 하는 자의 학교에서 날마다 토론하니라 
       </b>
     </div>
     <br>
@@ -229,7 +229,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:10 두 해 동안 이렇게 하 니 아시아에 거하는 자는 유대인과 그 리스인 모두가 주 예수의 말씀을 들었 더라 
+      <b>Acts 행19:10 두 해 동안 이렇게 하니 아시아에 거하는 자는 유대인과 그리스인 모두가 주 예수의 말씀을 들었더라 
       </b>
     </div>
     <br>
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:12 그의 몸으로부터 손수 건이나 앞치마를 가져다 병든 사람에게 얹으면 질병이 그들로부터 떠나가고 악 한 영도 그들에게서 나가더라 
+      <b>Acts 행19:12 그의 몸으로부터 손수건이나 앞치마를 가져다 병든 사람에게 얹으면 질병이 그들로부터 떠나가고 악한 영도 그들에게서 나가더라 
       </b>
     </div>
     <br>
@@ -281,7 +281,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:13 그때 돌아다니며 귀신 을 쫓는 어떤 유대인 들이 악한 영에 들 린 자들을 붙들고 주 예수의 이름을 불 러 이르되 바울이 전파하는 예수를 의 지하여 너희에게 명하노라 하더니 
+      <b>Acts 행19:13 그때 돌아다니며 귀신을 쫓는 어떤 유대인들이 악한 영에 들린 자들을 붙들고 주 예수의 이름을 불러 이르되 바울이 전파하는 예수를 의지하여 너희에게 명하노라 하더니 
       </b>
     </div>
     <br>
@@ -297,7 +297,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_97.jpg'>
+    <img src='../../pictures/picture_70.jpg'>
   </div>
 </div>
 
@@ -307,7 +307,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:14 유대인 제사장 스게와 라 하는 자에게 아들 일곱이 있는데 그 들도 그렇게 하매 
+      <b>Acts 행19:14 유대인 제사장 스게와라 하는 자에게 아들 일곱이 있는데 그들도 그렇게 하매 
       </b>
     </div>
     <br>
@@ -315,7 +315,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행19:15 그 악한 영이 대답하여 이르되 내가 예수를 알고 바울도 알거 니와 너희는 누구냐 하며 
+      <b>Acts행19:15 그 악한 영이 대답하여 이르되 내가 예수를 알고 바울도 알거니와 너희는 누구냐 하며 
       </b>
     </div>
     <br>
@@ -333,7 +333,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:16 그 악한 영에 들린 사 람이 그들에게 뛰어올라 그들을 이기고 제압하니 그들이 상처를 입고 벗은 몸 으로 그 집에서 나와 도망하더 라 
+      <b>Acts 행19:16 그 악한 영에 들린 사람이 그들에게 뛰어올라 그들을 이기고 제압하니 그들이 상처를 입고 벗은 몸으로 그 집에서 나와 도망하더라 
       </b>
     </div>
     <br>
@@ -349,7 +349,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_106.jpg'>
+    <img src='../../pictures/picture_16.jpg'>
   </div>
 </div>
 
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:17 이 일이 에베소에 거하 던 모든 유대인과 그리스인에게 알려지 매 그들 모두에게 두려움이 임하고 주 예수 이름이 크게 되었으니 
+      <b>Acts행19:17 이 일이 에베소에 거하던 모든 유대인과 그리스인에게 알려지매 그들 모두에게 두려움이 임하고 주 예수 이름이 크게 되었으니 
       </b>
     </div>
     <br>
@@ -367,7 +367,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행19:18, JST19:18 믿는 사람 이 많이 와서 고백하 고 자기 행위를 드 러내 보였으며 
+      <b>Acts 행19:18, JST19:18 믿는 사람이 많이 와서 고백하고 자기 행위를 드러내 보였으며 
       </b>
     </div>
     <br>
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:19 교묘한 술수를 사용하 던 많은 사람도 자기들의 책을 모아 모 든 사람 앞에서 불사르고 그 값을 계산 해보니 은화 오만 개의 가치더라 
+      <b>Acts 행19:19 교묘한 술수를 사용하던 많은 사람도 자기들의 책을 모아 모든 사람 앞에서 불사르고 그 값을 계산 해보니 은화 오만 개의 가치더라 
       </b>
     </div>
     <br>
@@ -393,7 +393,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행19:20 이렇게 하나님의 말씀 이 힘있게 성장하 며 세력을 얻더라 
+      <b>Acts 행19:20 이렇게 하나님의 말씀이 힘있게 성장하며 세력을 얻더라 
       </b>
     </div>
     <br>
@@ -401,7 +401,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_83.jpg'>
+    <img src='../../pictures/picture_22.jpg'>
   </div>
 </div>
 
@@ -411,7 +411,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:21 이런 일이 끝난 후에 바울이 마케도니아 와 아가야를 통과할 때 예루살렘에 가기로 영으로 작정하여 이르되 내가 그곳에 있다가 반드시 로 마도 보아야 하리라 하고 
+      <b>Acts 행19:21 이런 일이 끝난 후에 바울이 마케도니아와 아가야를 통과할 때 예루살렘에 가기로 영으로 작정하여 이르되 내가 그곳에 있다가 반드시 로마도 보아야 하리라 하고 
       </b>
     </div>
     <br>
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:22 자기를 시중하던 자 가 운데 디모데와 에라스도 두 사람을 마 케도니아 로 보냈으나 자신은 아시아에 잠시 머무니라 
+      <b>Acts행19:22 자기를 시중하던 자 가운데 디모데와 에라스도 두 사람을 마케도니아로 보냈으나 자신은 아시아에 잠시 머무니라 
       </b>
     </div>
     <br>
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:24 데메드리오라 하는 어 떤 은 세공업자가 은으로 다이아나를 위한 모형 제단을 만들어 장인들에게 적지 않은 이익을 가져다 주더니 
+      <b>Acts 행19:24 데메드리오라 하는 어떤 은 세공업자가 은으로 다이아나를 위한 모형 제단을 만들어 장인들에게 적지 않은 이익을 가져다 주더니 
       </b>
     </div>
     <br>
@@ -479,7 +479,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_174.jpg'>
+    <img src='../../pictures/picture_54.jpg'>
   </div>
 </div>
 
@@ -489,7 +489,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:25 같은 직업을 가진 직공 들을 불러모아 이르되 선생들아 너희도 알거니와 우리가 이 기술로 재물을 얻 었는데 
+      <b>Acts행19:25 같은 직업을 가진 직공들을 불러모아 이르되 선생들아 너희도 알거니와 우리가 이 기술로 재물을 얻었는데 
       </b>
     </div>
     <br>
@@ -515,7 +515,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:26 너희가 보고 들은 바 이 바울이 에베소뿐만 아니라 아시아 거의 모든 지역에서 많은 백성을 설득 하고 돌아서게 하며 이르기를 손으로 만든 것들은 신이 아니라 하므로 
+      <b>Acts 행19:26 너희가 보고 들은 바 이 바울이 에베소뿐만 아니라 아시아 거의 모든 지역에서 많은 백성을 설득하고 돌아서게 하며 이르기를 손으로 만든 것들은 신이 아니라 하므로 
       </b>
     </div>
     <br>
@@ -531,7 +531,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_128.jpg'>
+    <img src='../../pictures/picture_23.jpg'>
   </div>
 </div>
 
@@ -541,7 +541,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:27, JST19:27 우리의 이 기술이 무시당할 위험에 놓였을 뿐만 아니라 모든 아시아와 세상이 숭배하는 큰 여신 다이아나의 신전도 멸시당하고 그녀의 위엄도 무너지게 되었느니라 하 매 
+      <b>Acts 행19:27, JST19:27 우리의 이 기술이 무시당할 위험에 놓였을 뿐만 아니라 모든 아시아와 세상이 숭배하는 큰 여신 다이아나의 신전도 멸시당하고 그녀의 위엄도 무너지게 되었느니라 하매 
       </b>
     </div>
     <br>
@@ -567,7 +567,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:28 그들이 이 말을 듣고 분노가 가득하여 소리 질러 이르되 위 대하다 에베소 사람의 다이아나 여 하더 라 
+      <b>Acts 행19:28 그들이 이 말을 듣고 분노가 가득하여 소리질러 이르되 위대하다 에베소 사람의 다이아나여 하더라 
       </b>
     </div>
     <br>
@@ -583,7 +583,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_105.jpg'>
+    <img src='../../pictures/picture_10.jpg'>
   </div>
 </div>
 
@@ -593,7 +593,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:29 온 성읍이 혼란에 빠지 고 바울의 여행 동반자 요 마케도니아 사람들인 가이오와 아리스다고를 그들 이 붙들어 일제히 극장으로 몰려가니 
+      <b>Acts행19:29 온 성읍이 혼란에 빠지고 바울의 여행 동반자요 마케도니아 사람들인 가이오와 아리스다고를 그들이 붙들어 일제히 극장으로 몰려가니 
       </b>
     </div>
     <br>
@@ -609,7 +609,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_137.jpg'>
+    <img src='../../pictures/picture_37.jpg'>
   </div>
 </div>
 
@@ -619,7 +619,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:30 바울이 백성에게 들어 가려 했으나 제자들이 만류하고 
+      <b>Acts 행19:30 바울이 백성에게 들어가려 했으나 제자들이 만류하고 
       </b>
     </div>
     <br>
@@ -627,7 +627,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행19:31 아시아의 유력자 가운 데 그의 친구인 어떤 이들이 그에게 사 람을 보내어 그가 위험을 무릅쓰고 극 장에 들어가지 말 것을 권하더라 
+      <b>Acts 행19:31 아시아의 유력자 가운데 그의 친구인 어떤 이들이 그에게 사람을 보내어 그가 위험을 무릅쓰고 극장에 들어가지 말 것을 권하더라 
       </b>
     </div>
     <br>
@@ -645,7 +645,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:32 그리하여 어떤 이들이 하나를 외치면 어떤 이들은 다른 것을 외치니 모인 무리가 혼란에 빠져 대부 분의 사람들은 무슨 까닭으로 모였는지 알지 못하고 
+      <b>Acts 행19:32 그리하여 어떤 이들이 하나를 외치면 어떤 이들은 다른 것을 외치니 모인 무리가 혼란에 빠져 대부분의 사람들은 무슨 까닭으로 모였는지 알지 못하고 
       </b>
     </div>
     <br>
@@ -661,7 +661,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_136.jpg'>
+    <img src='../../pictures/picture_134.jpg'>
   </div>
 </div>
 
@@ -671,7 +671,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:33 그들이 알렉산더를 무 리에서 끌어내매 유대인 들이 그를 앞으 로 밀어내더라 알렉산더가 손짓하 여 백 성에게 자신을 변호하려 했으나 
+      <b>Acts 행19:33 그들이 알렉산더를 무리에서 끌어내매 유대인들이 그를 앞으로 밀어내더라 알렉산더가 손짓하여 백성에게 자신을 변호하려 했으나 
       </b>
     </div>
     <br>
@@ -697,7 +697,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:34 그들은 그가 유대인 임 을 알고 모두 한목소리로 두 시간쯤 소 리 질러 이르되 위대하다 에베소 사람 의 다이아나 여 하더라 
+      <b>Acts 행19:34 그들은 그가 유대인임을 알고 모두 한목소리로 두 시간쯤 소리 질러 이르되 위대하다 에베소 사람의 다이아나여 하더라 
       </b>
     </div>
     <br>
@@ -723,7 +723,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:35, JST19:35 이에 그 마 을의 서기가 백성을 진정시 켜 이르되 에베소 사람들아 에베소 성읍이 위대한 여신 다이아나 를 숭배하고 주피터 로부 터 떨어져 나온 우상을 숭배하는 것을 알지 못하는 사람이 누가 있느냐 
+      <b>Acts행19:35, JST19:35 이에 그 마을의 서기가 백성을 진정시켜 이르되 에베소 사람들아 에베소 성읍이 위대한 여신 다이아나를 숭배하고 주피터로부터 떨어져 나온 우상을 숭배하는 것을 알지 못하는 사람이 누가 있느냐 
       </b>
     </div>
     <br>
@@ -749,7 +749,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:36 그러므로 이 일은 반박 할 수 없으니 너희는 조용히 하고 아무 것도 경솔히 해서는 안 되느니라 
+      <b>Acts행19:36 그러므로 이 일은 반박 할 수 없으니 너희는 조용히 하고 아무것도 경솔히 해서는 안되느니라 
       </b>
     </div>
     <br>
@@ -757,7 +757,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행19:37 이는 신전을 강탈하지 도 않고 너희 여신을 모독하지도 않은 이 사람들을 너희가 이곳으 로 끌고 왔 음이라 
+      <b>Acts 행19:37 이는 신전을 강탈하지도 않고 너희 여신을 모독하지도 않은 이 사람들을 너희가 이곳으로 끌고 왔음이라 
       </b>
     </div>
     <br>
@@ -775,7 +775,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:38 그러므로 데메드리오와 그와 함께한 장인들이 누구를 고소할 일이 있으면 법이 열려 있고 지방관 들 도 있으니 서로 고소하라 
+      <b>Acts행19:38 그러므로 데메드리오와 그와 함께한 장인들이 누구를 고소할 일이 있으면 법이 열려 있고 지방관들도 있으니 서로 고소하라 
       </b>
     </div>
     <br>
@@ -791,7 +791,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_92.jpg'>
+    <img src='../../pictures/picture_97.jpg'>
   </div>
 </div>
 
@@ -801,7 +801,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행19:39, JST19:39 그러나 너 희가 다른 일에 관해 무엇이든 물으려 면 적법한 민회에서 결정하라 
+      <b>Acts 행19:39, JST19:39 그러나 너희가 다른 일에 관해 무엇이든 물으려면 적법한 민회에서 결정하라 
       </b>
     </div>
     <br>
@@ -827,7 +827,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행19:40 오늘 소동으로 인해 우 리가 불려 가서 심문받을 위험에 처해 있으나 이 집회에 관해 우리가 보고할 명분이 없느니 라 하고 
+      <b>Acts행19:40 오늘 소동으로 인해 우리가 불려가서 심문받을 위험에 처해 있으나 이 집회에 관해 우리가 보고할 명분이 없느니라 하고 
       </b>
     </div>
     <br>
@@ -835,7 +835,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행19:41 그가 이렇게 말하여 집 회를 해산시키 니라 
+      <b>Acts행19:41 그가 이렇게 말하여 집회를 해산시키니라 
       </b>
     </div>
     <br>

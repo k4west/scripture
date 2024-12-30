@@ -47,6 +47,32 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
+      <b>Rom.롬7:1 형제들아 (율법을 아는 자들에게 말하노라) 너희는 사람이 살아있는 동안에만 율법이 그를 지배하는 것을 알지 못하느냐 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man only as long as he liveth?
+    </div>
+    <br>
+    <div class="scripture">
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_86.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
       <b>Rom.롬7:2, JST7:2 남편 있는 여자는 그가 살아있는 동안에만 율법을 통해 남편에게 매이나니 남편이 죽으면 그녀는 자기 남편의 율법에서 놓이느니라 
       </b>
     </div>
@@ -297,7 +323,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_47.jpg'>
+    <img src='../../pictures/picture_48.jpg'>
   </div>
 </div>
 
@@ -375,7 +401,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_32.jpg'>
   </div>
 </div>
 
@@ -401,7 +427,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_161.jpg'>
+    <img src='../../pictures/picture_17.jpg'>
   </div>
 </div>
 

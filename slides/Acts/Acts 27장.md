@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:1 우리가 배를 타고 이탈 리아에 들어가는 것으로 결정되어 그들 이 바울과 어떤 다른 죄수들을 아구스 도 군대의 율리오라 하는 백부장에게 넘겨주니 
+      <b>Acts 행27:1 우리가 배를 타고 이탈리아에 들어가는 것으로 결정되어 그들이 바울과 어떤 다른 죄수들을 아구스도 군대의 율리오라 하는 백부장에게 넘겨주니 
       </b>
     </div>
     <br>
@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:2 우리가 아시아 해안을 따라 항해하는 아드라뭇디움 배에 타고 출발할 때 데살로니가 출신인 마케도니 아 사람 아리스다고가 우리와 함께했으 며 
+      <b>Acts 행27:2 우리가 아시아 해안을 따라 항해하는 아드라뭇디움 배에 타고 출발할 때 데살로니가 출신인 마케도니아 사람 아리스다고가 우리와 함께했으며 
       </b>
     </div>
     <br>
@@ -107,7 +107,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행27:4 또 그곳으로부터 출항하 여 구브로 아래쪽으로 항해했나니 이는 바람이 반대로 불었기 때문이라 
+      <b>Acts행27:4 또 그곳으로부터 출항하여 구브로 아래쪽으로 항해했나니 이는 바람이 반대로 불었기 때문이라 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:5 우리가 길리기아와 밤빌 리아 바다를 지나 루기아의 성읍인 무 라에 이르렀더니 
+      <b>Acts행27:5 우리가 길리기아와 밤빌리아 바다를 지나 루기아의 성읍인 무라에 이르렀더니 
       </b>
     </div>
     <br>
@@ -133,7 +133,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행27:6 그곳에서 백부장이 이탈 리아로 항해하는 알렉산드리아 배를 만 나 우리를 그 안에 태우더 라 
+      <b>Acts행27:6 그곳에서 백부장이 이탈리아로 항해하는 알렉산드리아 배를 만나 우리를 그 안에 태우더라 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:7 우리가 여러 날을 천천 히 항해하다가 간신히 니도 맞은편에 이르니 바람이 우리를 허락하지 않으므 로 살모네 맞은편 그레데 아래쪽으로 항해하고 
+      <b>Acts 행27:7 우리가 여러 날을 천천히 항해하다가 간신히 니도 맞은편에 이르니 바람이 우리를 허락하지 않으므로 살모네 맞은편 그레데 아래쪽으로 항해하고 
       </b>
     </div>
     <br>
@@ -185,7 +185,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행27:9 많은 시간이 지나 항해 가 위험하게 되었고 금식이 이미 끝났 으므로 바울이 그들에게 권고하여 
+      <b>Acts 행27:9 많은 시간이 지나 항해가 위험하게 되었고 금식이 이미 끝났으므로 바울이 그들에게 권고하여 
       </b>
     </div>
     <br>
@@ -203,7 +203,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:10 이르되 선생들아 내가 보니 이번 항해에서는 짐과 배뿐만 아 니라 우리의 생명도 다치게 되고 큰 손 실이 있으리라 했으나 
+      <b>Acts 행27:10 이르되 선생들아 내가 보니 이번 항해에서는 짐과 배뿐만 아니라 우리의 생명도 다치게 되고 큰 손실이 있으리라 했으나 
       </b>
     </div>
     <br>
@@ -219,7 +219,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_115.jpg'>
+    <img src='../../pictures/picture_117.jpg'>
   </div>
 </div>
 
@@ -245,7 +245,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_17.jpg'>
+    <img src='../../pictures/picture_36.jpg'>
   </div>
 </div>
 
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:12, JST27:12 그 항구가 겨울을 지내기에 불편하므로 대부분 의 사람들이 그곳을 떠나 어떻게든 그레데 의 항구 뵈닉스 까지 가서 겨울을 지내 자고 권고했나니 그 항구는 남서쪽과 북서쪽을 향해 자리잡 고 있더라 
+      <b>Acts 행27:12, JST27:12 그 항구가 겨울을 지내기에 불편하므로 대부분의 사람들이 그곳을 떠나 어떻게든 그레데의 항구 뵈닉스까지 가서 겨울을 지내자고 권고했나니 그 항구는 남서쪽과 북서쪽을 향해 자리잡고 있더라 
       </b>
     </div>
     <br>
@@ -281,7 +281,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:13 남풍이 순하게 불매 그 들이 목적을 이룬 것으로 생각하고 그 곳에서 출항하여 그레데 가까이 항해하 는데 
+      <b>Acts행27:13 남풍이 순하게 불매 그들이 목적을 이룬 것으로 생각하고 그곳에서 출항하여 그레데 가까이 항해하는데 
       </b>
     </div>
     <br>
@@ -289,7 +289,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행27:14 오래지 않아 섬을 거슬 러 유로글루 돈이라 하는 사나운 바람이 일더니 
+      <b>Acts행27:14 오래지 않아 섬을 거슬러 유로글루돈이라 하는 사나운 바람이 일더니 
       </b>
     </div>
     <br>
@@ -297,7 +297,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_121.jpg'>
+    <img src='../../pictures/picture_124.jpg'>
   </div>
 </div>
 
@@ -315,7 +315,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행27:16 우리가 글라우다라 하 는 어떤 섬 아래로 표류하 다가 많은 노 력을 기울여 거룻배를 붙잡아 
+      <b>Acts 행27:16 우리가 글라우다라 하는 어떤 섬 아래로 표류하다가 많은 노력을 기울여 거룻배를 붙잡아 
       </b>
     </div>
     <br>
@@ -333,7 +333,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:17 그것을 끌어올리고 보 조 기구를 사용하여 배 아래쪽을 단단 히 묶고 흐르는 모래에 빨려들 지 않을 까 두려워하며 조류를 따라 그대로 밀 려갔느니라 
+      <b>Acts 행27:17 그것을 끌어올리고 보조 기구를 사용하여 배 아래쪽을 단단히 묶고 흐르는 모래에 빨려들지 않을까 두려워하며 조류를 따라 그대로 밀려갔느니라 
       </b>
     </div>
     <br>
@@ -349,7 +349,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_85.jpg'>
+    <img src='../../pictures/picture_87.jpg'>
   </div>
 </div>
 
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:18 폭풍으로 심히 요동하 던 우리는 다음 날 짐을 버려 배를 가 볍게 하고 
+      <b>Acts 행27:18 폭풍으로 심히 요동하던 우리는 다음 날 짐을 버려 배를 가볍게 하고 
       </b>
     </div>
     <br>
@@ -367,7 +367,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행27:19 삼 일째 되는 날에는 배의 밧줄 감는 기구를 우리 손으로 버 렸으며 
+      <b>Acts 행27:19 삼 일째 되는 날에는 배의 밧줄 감는 기구를 우리 손으로 버렸으며 
       </b>
     </div>
     <br>
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:20 여러 날 동안 해나 별 이 보이지 않고 큰 폭풍이 우리를 덮치 므로 우리가 구원받으리라는 모든 소망 이 끊어졌느니라 
+      <b>Acts 행27:20 여러 날 동안 해나 별이 보이지 않고 큰 폭풍이 우리를 덮치므로 우리가 구원받으리라는 모든 소망이 끊어졌느니라 
       </b>
     </div>
     <br>
@@ -411,7 +411,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:21 오랫동안 먹지 못한 후 에 바울이 그들 가운데 서서 이르되 선 생들아 너희가 나의 말을 듣고 그레데 로부터 떠나지 않았다면 이런 피해와 손실을 당하지 않았으리라 
+      <b>Acts행27:21 오랫동안 먹지 못한 후에 바울이 그들 가운데 서서 이르되 선생들아 너희가 나의 말을 듣고 그레데로부터 떠나지 않았다면 이런 피해와 손실을 당하지 않았으리라 
       </b>
     </div>
     <br>
@@ -427,7 +427,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_15.jpg'>
+    <img src='../../pictures/picture_24.jpg'>
   </div>
 </div>
 
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:22 이제 내가 권하노니 안 심하라 이는 너희 가운데 아무도 생명 을 잃지 않고 배만 잃을 것임이 라 
+      <b>Acts행27:22 이제 내가 권하노니 안심하라 이는 너희 가운데 아무도 생명을 잃지 않고 배만 잃을 것임이라 
       </b>
     </div>
     <br>
@@ -445,7 +445,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행27:23 나를 주관하고 내가 섬 기는 하나님의 천사가 간밤에 나의 곁 에 서서 
+      <b>Acts행27:23 나를 주관하고 내가 섬기는 하나님의 천사가 간밤에 나의 곁에 서서 
       </b>
     </div>
     <br>
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:24 이르되 바울아 두려워 하지 말라 너가 반드시 가이사 앞에 서 게 되리라 보라 하나님이 너와 함께 항 해하는 모든 사람을 너에게 주었느니라 했느니라 
+      <b>Acts 행27:24 이르되 바울아 두려워하지 말라 너가 반드시 가이사 앞에 서게 되리라 보라 하나님이 너와 함께 항해하는 모든 사람을 너에게 주었느니라 했느니라 
       </b>
     </div>
     <br>
@@ -471,7 +471,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행27:25 그러므로 선생들아 안 심하라 나는 나에게 전해진 대로 되리 라고 하나님을 믿노니 
+      <b>Acts 행27:25 그러므로 선생들아 안심하라 나는 나에게 전해진 대로 되리라고 하나님을 믿노니 
       </b>
     </div>
     <br>
@@ -489,7 +489,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:26 우리는 반드시 어떤 섬 에 상륙하리라 하더라 
+      <b>Acts행27:26 우리는 반드시 어떤 섬에 상륙하리라 하더라 
       </b>
     </div>
     <br>
@@ -497,7 +497,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행27:27 그러나 열나흘째 밤에 우리가 아드리아에서 이러저리 밀려가 다가 자정쯤 되니 선원들은 자기들이 어떤 육지에 가까운 것으로 짐작하 고 
+      <b>Acts 행27:27 그러나 열나흘째 밤에 우리가 아드리아에서 이러저리 밀려가다가 자정쯤 되니 선원들은 자기들이 어떤 육지에 가까운 것으로 짐작하고 
       </b>
     </div>
     <br>
@@ -515,7 +515,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:28 물 깊이를 재어 보니 스무 길이었으며 조금 더 가서 다시 재 어 보니 열다섯 길이더라 
+      <b>Acts 행27:28 물 깊이를 재어 보니 스무 길이었으며 조금 더 가서 다시 재어 보니 열다섯 길이더라 
       </b>
     </div>
     <br>
@@ -523,7 +523,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행27:29 우리는 암초에 걸릴 것 을 두려워 하여 선미에 닻 네 개를 내리 고 날이 밝기를 기다렸 는데 
+      <b>Acts행27:29 우리는 암초에 걸릴 것을 두려워하여 선미에 닻 네 개를 내리고 날이 밝기를 기다렸는데 
       </b>
     </div>
     <br>
@@ -531,7 +531,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_145.jpg'>
+    <img src='../../pictures/picture_149.jpg'>
   </div>
 </div>
 
@@ -557,7 +557,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_16.jpg'>
+    <img src='../../pictures/picture_18.jpg'>
   </div>
 </div>
 
@@ -567,7 +567,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:31 바울이 백부장과 병사 들에게 이르되 이 사람들이 배에 머물 지 않으면 너희가 구원받지 못하리라 하니 
+      <b>Acts 행27:31 바울이 백부장과 병사들에게 이르되 이 사람들이 배에 머물지 않으면 너희가 구원받지 못하리라 하니 
       </b>
     </div>
     <br>
@@ -575,7 +575,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행27:32 병사들이 거룻배 의 밧 줄을 끊어 그것을 떼어버리더라 
+      <b>Acts 행27:32 병사들이 거룻배의 밧줄을 끊어 그것을 떼어버리더라 
       </b>
     </div>
     <br>
@@ -583,7 +583,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_65.jpg'>
+    <img src='../../pictures/picture_67.jpg'>
   </div>
 </div>
 
@@ -593,7 +593,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:33, JST27:33 날이 밝아 오매 바울이 그들 모두에게 음식 먹기 를 청하여 이르되 너희가 머물러 아무 것도 먹지 못하고 계속해서 금식한 지 가 오늘로 열나흘 이라 
+      <b>Acts 행27:33, JST27:33 날이 밝아오매 바울이 그들 모두에게 음식 먹기를 청하여 이르되 너희가 머물러 아무것도 먹지 못하고 계속해서 금식한 지가 오늘로 열나흘이라 
       </b>
     </div>
     <br>
@@ -609,7 +609,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_118.jpg'>
+    <img src='../../pictures/picture_123.jpg'>
   </div>
 </div>
 
@@ -619,7 +619,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:34, JST27:34 그러므로 청하노니 너희 건강을 위해 음식을 조 금 먹으라 너희 가운데 머리털 하나라 도 떨어질 자는 아무도 없느니라 하고 
+      <b>Acts 행27:34, JST27:34 그러므로 청하노니 너희 건강을 위해 음식을 조금 먹으라 너희 가운데 머리털 하나라도 떨어질 자는 아무도 없느니라 하고 
       </b>
     </div>
     <br>
@@ -645,7 +645,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:35 , JST27:35 그가 이렇 게 말한 후에 떡을 취하여 그들 모두가 보는 앞에서 하나님께 감사드리고 그것 을 떼어서 먹기 시작하 매 
+      <b>Acts 행27:35 , JST27:35 그가 이렇게 말한 후에 떡을 취하여 그들 모두가 보는 앞에서 하나님께 감사드리고 그것을 떼어서 먹기 시작하매 
       </b>
     </div>
     <br>
@@ -671,7 +671,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:37 그 배에 있던 우리는 모두 이백칠십육 영혼이었 으며 
+      <b>Acts 행27:37 그 배에 있던 우리는 모두 이백칠십육 영혼이었으며 
       </b>
     </div>
     <br>
@@ -679,7 +679,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행27:38 그들이 배불리 먹고 나 서 밀을 바다에 버려 배를 가볍게 하더 라 
+      <b>Acts행27:38 그들이 배불리 먹고 나서 밀을 바다에 버려 배를 가볍게 하더라 
       </b>
     </div>
     <br>
@@ -697,7 +697,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:39 날이 밝으매 그들이 그 땅을 알지 못했으나 해변이 있는 작은 만을 발견하고 가능하면 배를 그곳에 들이대 기로 작정하 고 
+      <b>Acts행27:39 날이 밝으매 그들이 그 땅을 알지 못했으나 해변이 있는 작은 만을 발견하고 가능하면 배를 그곳에 들이대기로 작정하고 
       </b>
     </div>
     <br>
@@ -723,7 +723,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:40 닻을 끌어올려 자기들 을 바다에 맡긴 채 키 묶은 줄을 늦추 고 큰 돛을 바람에 맞추어 들어 올려 해변을 향해 나아가다가 
+      <b>Acts 행27:40 닻을 끌어올려 자기들을 바다에 맡긴채 키 묶은 줄을 늦추고 큰 돛을 바람에 맞추어 들어올려 해변을 향해 나아가다가 
       </b>
     </div>
     <br>
@@ -749,7 +749,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:41 두 바다가 만나는 곳으 로 빠져 들어가매 그들이 배를 좌초시 키니 앞부분 이 단단히 끼어서 꼼짝 못 하게 되고 뒷부분은 사나운 파도에 부 서졌더라 
+      <b>Acts행27:41 두 바다가 만나는 곳으로 빠져 들어가매 그들이 배를 좌초시키니 앞부분이 단단히 끼어서 꼼짝 못하게 되고 뒷부분은 사나운 파도에 부서졌더라 
       </b>
     </div>
     <br>
@@ -765,7 +765,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_17.jpg'>
   </div>
 </div>
 
@@ -775,7 +775,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:42 병사들은 그들 가운데 아무도 헤엄쳐 도망하지 못하도록 죄수 들을 죽이기로 결의했으나 
+      <b>Acts 행27:42 병사들은 그들 가운데 아무도 헤엄쳐 도망하지 못하도록 죄수들을 죽이기로 결의했으나 
       </b>
     </div>
     <br>
@@ -801,7 +801,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행27:43 백부장이 바울을 구하 려고 그들의 의도를 막아 명령을 내리 되 헤엄칠 줄 아는 자들은 먼저 바다로 뛰어들어 육지로 나아가라 하니 
+      <b>Acts 행27:43 백부장이 바울을 구하려고 그들의 의도를 막아 명령을 내리되 헤엄칠 줄 아는 자들은 먼저 바다로 뛰어들어 육지로 나아가라 하니 
       </b>
     </div>
     <br>
@@ -827,7 +827,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행27:44 남은 자들 가운데 어떤 이들은 널판에 의지하고 어떤 이들은 배의 부서진 조각에 의지하더라 그리하 여 이렇게 되었나니 그들이 모두 탈출 하여 안전하게 상륙하니라 
+      <b>Acts행27:44 남은 자들 가운데 어떤 이들은 널판에 의지하고 어떤 이들은 배의 부서진 조각에 의지하더라 그리하여 이렇게 되었나니 그들이 모두 탈출하여 안전하게 상륙하니라 
       </b>
     </div>
     <br>

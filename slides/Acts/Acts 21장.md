@@ -47,7 +47,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:1 그리고 이렇게 되었나니 우리가 그들로부터 떠나 출발한 후에 직항로를 따라 고스에 가고 다음 날 로 데에 이르러 그곳으로 부터 바다라에 가 서 
+      <b>Acts행21:1 그리고 이렇게 되었나니 우리가 그들로부터 떠나 출발한 후에 직항로를 따라 고스에 가고 다음 날 로데에 이르러 그곳으로부터 바다라에 가서 
       </b>
     </div>
     <br>
@@ -81,7 +81,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행21:3 우리가 구브로 에 이르매 그곳을 왼편에 두고 시리아 로 항해하여 두로에 내렸나니 이는 그곳에서 배가 짐을 풀어야 했기 때문이 라 
+      <b>Acts행21:3 우리가 구브로에 이르매 그곳을 왼편에 두고 시리아로 항해하여 두로에 내렸나니 이는 그곳에서 배가 짐을 풀어야 했기 때문이 라 
       </b>
     </div>
     <br>
@@ -99,7 +99,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:4 우리가 그곳에서 제자들 을 만나 칠 일을 머물매 그들이 성령을 통해 바울에게 예루살렘에 올라가 지 말 라 하더라 
+      <b>Acts행21:4 우리가 그곳에서 제자들을 만나 칠 일을 머물매 그들이 성령을 통해 바울에게 예루살렘에 올라가지 말라 하더라 
       </b>
     </div>
     <br>
@@ -125,7 +125,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:5 날이 다하여 우리가 떠 나 길을 갈 때 그들이 모두 아내와 자 녀와 함께 성읍 밖까지 우리를 전송하 니 우리가 바닷가에서 무릎 꿇어 기도 하고 
+      <b>Acts 행21:5 날이 다하여 우리가 떠나 길을 갈 때 그들이 모두 아내와 자녀와 함께 성읍 밖까지 우리를 전송하니 우리가 바닷가에서 무릎 꿇어 기도하고 
       </b>
     </div>
     <br>
@@ -151,7 +151,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:6 서로 작별한 후에 우리 는 배에 오르고 그들은 집으로 다시 돌 아갔으며 
+      <b>Acts 행21:6 서로 작별한 후에 우리는 배에 오르고 그들은 집으로 다시 돌아갔으며 
       </b>
     </div>
     <br>
@@ -159,7 +159,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행21:7 우리가 두로에서 돌레마 이에 이르는 항해를 마치고 나서 형제 들에게 인사하고 그들과 함께 하루를 지내니라 
+      <b>Acts행21:7 우리가 두로에서 돌레마이에 이르는 항해를 마치고 나서 형제들에게 인사하고 그들과 함께 하루를 지내니라 
       </b>
     </div>
     <br>
@@ -167,7 +167,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_32.jpg'>
+    <img src='../../pictures/picture_2.jpg'>
   </div>
 </div>
 
@@ -177,7 +177,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:8 이튿날 바울의 일행인 우리가 떠나서 가이사랴에 이르러 일곱 가운데 하나인 전도자 빌립의 집에 들 어가 그와 함께 머물렀는데 
+      <b>Acts 행21:8 이튿날 바울의 일행인 우리가 떠나서 가이사랴에 이르러 일곱 가운데 하나인 전도자 빌립의 집에 들어가 그와 함께 머물렀는데 
       </b>
     </div>
     <br>
@@ -185,7 +185,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행21:9 그 사람에게 처녀 딸 넷 이 있어서 그들이 예언하더라 
+      <b>Acts행21:9 그 사람에게 처녀 딸 넷이 있어서 그들이 예언하더라 
       </b>
     </div>
     <br>
@@ -229,7 +229,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:11 그가 우리에게 와서 바 울의 띠를 가져다 자기 손과 발을 묶고 이르되 성령이 이렇게 이르노라 예루살 렘에서 유대인 들이 이 띠의 임자를 이 렇게 묶어 이방인 의 손에 넘기리라 하 매 
+      <b>Acts행21:11 그가 우리에게 와서 바울의 띠를 가져다 자기 손과 발을 묶고 이르되 성령이 이렇게 이르노라 예루살렘에서 유대인들이 이 띠의 임자를 이렇게 묶어 이방인의 손에 넘기리라 하매 
       </b>
     </div>
     <br>
@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:12 우리가 이 말을 듣고 그곳 사람들과 함께 바울에게 예루살렘 으로 올라가지 말 것을 간청했으나 
+      <b>Acts 행21:12 우리가 이 말을 듣고 그곳 사람들과 함께 바울에게 예루살렘으로 올라가지 말 것을 간청했으나 
       </b>
     </div>
     <br>
@@ -281,7 +281,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:13 바울이 대답하되 어찌 하여 너희가 울며 나의 마음을 아프게 하느냐 나는 주 예수의 이름을 위해 예 루살렘에서 결박당하는 것뿐만 아니라 죽는 것도 각오하고 있노라 하고 
+      <b>Acts 행21:13 바울이 대답하되 어찌하여 너희가 울며 나의 마음을 아프게 하느냐 나는 주 예수의 이름을 위해 예루살렘에서 결박당하는 것뿐만 아니라 죽는 것도 각오하고 있노라 하고 
       </b>
     </div>
     <br>
@@ -307,7 +307,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:14 설득되지 않으므로 우 리가 그치고 이르기를 주의 뜻이 이루 어지기를 원하노라 했느니라 
+      <b>Acts 행21:14 설득되지 않으므로 우리가 그치고 이르기를 주의 뜻이 이루어지기를 원하노라 했느니라 
       </b>
     </div>
     <br>
@@ -315,7 +315,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행21:15 그 여러 날 후에 우리 는 여장을 꾸려 예루살렘으로 올라갔는 데 
+      <b>Acts 행21:15 그 여러 날 후에 우리는 여장을 꾸려 예루살렘으로 올라갔는데 
       </b>
     </div>
     <br>
@@ -333,7 +333,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:16 가이사랴 에 있는 제자 몇 명도 우리와 함께 가고 우리가 함께 유숙할 구브로 사람 나손이라 하는 늙 은 제자를 함께 데리고 갔으며 
+      <b>Acts 행21:16 가이사랴에 있는 제자 몇명도 우리와 함께 가고 우리가 함께 유숙할 구브로 사람 나손이라 하는 늙은 제자를 함께 데리고 갔으며 
       </b>
     </div>
     <br>
@@ -341,7 +341,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행21:17 우리가 예루살렘에 이 르니 형제들이 우리를 반갑게 영접하더 라 
+      <b>Acts 행21:17 우리가 예루살렘에 이르니 형제들이 우리를 반갑게 영접하더라 
       </b>
     </div>
     <br>
@@ -359,7 +359,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:18 그 다음 날 바울이 우 리와 함께 야고보 에게 들어가니 모든 장로가 모였더라 
+      <b>Acts 행21:18 그 다음 날 바울이 우리와 함께 야고보에게 들어가니 모든 장로가 모였더라 
       </b>
     </div>
     <br>
@@ -367,7 +367,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행21:19 그가 그들에게 인사하 고 그의 성역을 통해 하나님이 이방인 가운데 행한 일을 자세히 알리니 
+      <b>Acts 행21:19 그가 그들에게 인사하고 그의 성역을 통해 하나님이 이방인 가운데 행한 일을 자세히 알리니 
       </b>
     </div>
     <br>
@@ -385,7 +385,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:20 그들이 그것을 듣고 주 께 영광을 돌리며 그에게 이르되 형제 여 유대인 가운데 수천 명이 믿는 것을 너가 알거니와 그들은 모두 율법에 열 성적이라 
+      <b>Acts행21:20 그들이 그것을 듣고 주께 영광을 돌리며 그에게 이르되 형제여 유대인 가운데 수천 명이 믿는 것을 너가 알거니와 그들은 모두 율법에 열성적이라 
       </b>
     </div>
     <br>
@@ -411,7 +411,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:21 그들은 너가 이방인 가 운데 있는 모든 유대인 에게 모세의 율 법을 버리라고 가르치며 그들의 아이들 을 할례 하지 말고 관습을 좇아 행하지 도 말라 하는 것으로 너에 관해 들었느 니라 
+      <b>Acts행21:21 그들은 너가 이방인 가운데 있는 모든 유대인에게 모세의 율법을 버리라고 가르치며 그들의 아이들을 할례 하지 말고 관습을 좇아 행하지도 말라 하는 것으로 너에 관해 들었느니라 
       </b>
     </div>
     <br>
@@ -437,7 +437,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:22 그러므로 어떻게 하겠 느냐 그 무리가 반드시 함께 오리니 이 는 그들이 너가 온 것을 들을 것임이라 
+      <b>Acts 행21:22 그러므로 어떻게 하겠느냐 그 무리가 반드시 함께 오리니 이는 그들이 너가 온 것을 들을 것임이라 
       </b>
     </div>
     <br>
@@ -445,7 +445,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행21:23 그러므로 우리가 말하 는 대로 하라 스스로 서원한 사람 넷이 우리에게 있으니 
+      <b>Acts 행21:23 그러므로 우리가 말하는 대로 하라 스스로 서원한 사람 넷이 우리에게 있으니 
       </b>
     </div>
     <br>
@@ -463,7 +463,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:24 그들을 데리고 가서 그 들과 함께 너 자신을 정결하게 하고 그 들의 비용을 대서 그들로 하여금 머리 를 밀게 하라 그리하면 너에 관해 들은 그 일이 아무것도 아니요 너도 질서 있 게 행하며 율법을 지키는 것을 모든 사 람이 알리라 
+      <b>Acts행21:24 그들을 데리고 가서 그들과 함께 너 자신을 정결하게 하고 그들의 비용을 대서 그들로 하여금 머리를 밀게 하라 그리하면 너에 관해 들은 그 일이 아무것도 아니요 너도 질서 있게 행하며 율법을 지키는 것을 모든 사람이 알리라 
       </b>
     </div>
     <br>
@@ -489,7 +489,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:25 믿는 이방인에 관해서 는 우리가 편지를 써서 결론 내리기를 그들은 그런 것을 지킬 필요가 없고 단 지 우상에게 바친 것과 피와 목매어 죽 인 것과 간음을 금하라 했느니라 하매 
+      <b>Acts 행21:25 믿는 이방인에 관해서는 우리가 편지를 써서 결론 내리기를 그들은 그런 것을 지킬 필요가 없고 단지 우상에게 바친 것과 피와 목매어 죽인 것과 간음을 금하라 했느니라 하매 
       </b>
     </div>
     <br>
@@ -515,7 +515,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:26 바울이 그 사람들을 데 리고 가서 이튿날 그들과 함께 자신을 정결하게 하고 성전에 들어가 그들 각 사람을 위한 헌물을 바치기까지 정결하 게 하는 날을 채우는 것을 나타내 보이 니라 
+      <b>Acts행21:26 바울이 그 사람들을 데리고 가서 이튿날 그들과 함께 자신을 정결하게 하고 성전에 들어가 그들 각 사람을 위한 헌물을 바치기까지 정결하게 하는 날을 채우는 것을 나타내 보이니라 
       </b>
     </div>
     <br>
@@ -531,7 +531,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_86.jpg'>
+    <img src='../../pictures/picture_26.jpg'>
   </div>
 </div>
 
@@ -541,7 +541,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:27 그 칠 일이 거의 끝나 갈 때 아시아에서 온 유대인 들이 성전 에서 그를 보고 모든 백성을 선동하 며 그를 붙들어 
+      <b>Acts 행21:27 그 칠일이 거의 끝나 갈 때 아시아에서 온 유대인들이 성전에서 그를 보고 모든 백성을 선동하며 그를 붙들어 
       </b>
     </div>
     <br>
@@ -567,7 +567,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:28, JST21:28 외치되 이 스라엘 사람들아 도우라 이 자는 각처 에서 이 백성과 율법과 이곳을 대적하 여 모든 사람을 가르치는 자인데 더 나 아가 그리스 인을 성전 안으로 데리고 들어가 이 성소를 더럽혔느니라 하매 
+      <b>Acts 행21:28, JST21:28 외치되 이스라엘 사람들아 도우라 이 자는 각처에서 이 백성과 율법과 이곳을 대적하여 모든 사람을 가르치는 자인데 더 나아가 그리스인을 성전 안으로 데리고 들어가 이 성소를 더럽혔느니라 하매 
       </b>
     </div>
     <br>
@@ -583,7 +583,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_108.jpg'>
+    <img src='../../pictures/picture_8.jpg'>
   </div>
 </div>
 
@@ -593,7 +593,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:29 (이는 그들이 전에 그 성읍에서 에베소 사람 드로비모가 그와 함께 있는 것을 보고 바울이 그를 성전 에 데리고 들어간 것으로 생각했음이라) (
+      <b>Acts 행21:29 (이는 그들이 전에 그 성읍에서 에베소 사람 드로비모가 그와 함께 있는 것을 보고 바울이 그를 성전에 데리고 들어간 것으로 생각했음이라.)
       </b>
     </div>
     <br>
@@ -645,7 +645,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:31 그들이 가서 그를 죽이 려 할 때 온 예루살렘이 소란하다는 소 식이 군대의 천부장에게 들리매 
+      <b>Acts행21:31 그들이 가서 그를 죽이려 할 때 온 예루살렘이 소란하다는 소식이 군대의 천부장에게 들리매 
       </b>
     </div>
     <br>
@@ -671,7 +671,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:32 그가 즉시 병사들과 백 부장들을 거느리고 그들에게 달려 내려 가니 저들이 천부장과 병사들을 보고 바울 때리기를 그치더라 
+      <b>Acts행21:32 그가 즉시 병사들과 백부장들을 거느리고 그들에게 달려 내려가니 저들이 천부장과 병사들을 보고 바울 때리기를 그치더라 
       </b>
     </div>
     <br>
@@ -697,7 +697,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행21:33 천부장이 가까이 가서 바울을 붙잡아 두 사슬로 결박하라 명 령하고 너는 누구며 무엇을 했느냐 다 그쳐 물었으나 
+      <b>Acts 행21:33 천부장이 가까이 가서 바울을 붙잡아 두 사슬로 결박하라 명령하고 너는 누구며 무엇을 했느냐 다그쳐 물었으나 
       </b>
     </div>
     <br>
@@ -713,7 +713,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_145.jpg'>
+    <img src='../../pictures/picture_45.jpg'>
   </div>
 </div>
 
@@ -723,7 +723,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:34 무리 가운데 어떤 이가 하나를 외치면 어떤 이는 다른 것을 외 치니 소동의 진상을 알 수 없어 그를 영내로 데려가라 명하더 라 
+      <b>Acts행21:34 무리 가운데 어떤 이가 하나를 외치면 어떤 이는 다른 것을 외치니 소동의 진상을 알 수 없어 그를 영내로 데려가라 명하더라 
       </b>
     </div>
     <br>
@@ -749,7 +749,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:35 바울이 계단 위에 이르 렀을 때 백성의 폭력으로 인해 병사들 에게 들려가니 
+      <b>Acts행21:35 바울이 계단 위에 이르렀을 때 백성의 폭력으로 인해 병사들에게 들려가니 
       </b>
     </div>
     <br>
@@ -757,7 +757,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts 행21:36 백성의 무리가 뒤따라 가며 외치기를 그를 없이하라 하더라 
+      <b>Acts 행21:36 백성의 무리가 뒤따라가며 외치기를 그를 없이하라 하더라 
       </b>
     </div>
     <br>
@@ -775,7 +775,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:37 바울이 영내로 끌려 들 어가면서 천부장에게 이르되 당신에게 말해도 되느냐 하니 그가 이르되 너는 그리스 말을 할 수 있느냐 
+      <b>Acts행21:37 바울이 영내로 끌려 들어가면서 천부장에게 이르되 당신에게 말해도 되느냐 하니 그가 이르되 너는 그리스 말을 할 수 있느냐 
       </b>
     </div>
     <br>
@@ -791,7 +791,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_168.jpg'>
+    <img src='../../pictures/picture_16.jpg'>
   </div>
 </div>
 
@@ -801,7 +801,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:38 너는 이전에 폭동을 일 으켜 살인자 사천 명을 이끌고 광야로 들어간 그 애굽인 이 아니냐 하는지라 
+      <b>Acts행21:38 너는 이전에 폭동을 일으켜 살인자 사천 명을 이끌고 광야로 들어간 그 애굽인이 아니냐 하는지라 
       </b>
     </div>
     <br>
@@ -827,7 +827,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:39 바울이 이르되 나는 길 리기아 다소 성읍의 유대인 이요 작지 않은 성읍의 시민이라 청컨대 나로 하 여금 백성에게 말하도록 허락하라 하니 
+      <b>Acts행21:39 바울이 이르되 나는 길리기아 다소 성읍의 유대인이요 작지 않은 성읍의 시민이라 청컨대 나로 하여금 백성에게 말하도록 허락하라 하니 
       </b>
     </div>
     <br>
@@ -843,7 +843,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_147.jpg'>
+    <img src='../../pictures/picture_142.jpg'>
   </div>
 </div>
 
@@ -853,7 +853,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts행21:40 이에 그가 허락하매 바 울이 계단 위에 서서 백성에게 손짓하 여 아주 조용하게 되었을 때 히브리어 로 말하여 이르되 
+      <b>Acts행21:40 이에 그가 허락하매 바울이 계단 위에 서서 백성에게 손짓하여 아주 조용하게 되었을 때 히브리어로 말하여 이르되 
       </b>
     </div>
     <br>
@@ -869,7 +869,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_30.jpg'>
+    <img src='../../pictures/picture_32.jpg'>
   </div>
 </div>
 

@@ -255,7 +255,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Rom.롬13:10, JST13:10 사랑은 자기 이웃에게 해를 끼치지 않으므로 사랑은 율법의 완성이 니라 
+      <b>Rom.롬13:10, JST13:10 사랑은 자기 이웃에게 해를 끼치지 않으므로 사랑은 율법의 완성이니라 
       </b>
     </div>
     <br>

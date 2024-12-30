@@ -73,7 +73,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Acts 행8:2 독실한 사람들이 스데반 을 옮겨다 매장하고 그를 위해 크게 애 곡하더라 
+      <b>Acts 행8:2 독실한 사람들이 스데반을 옮겨다 매장하고 그를 위해 크게 애곡하더라 
       </b>
     </div>
     <br>
@@ -81,7 +81,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Acts행8:3 사울에 관해 말하자면 그 는 교회를 파괴하고 각 집에 들어가 남 자와 여자를 끌어다 옥에 넘기더라 
+      <b>Acts행8:3 사울에 관해 말하자면 그는 교회를 파괴하고 각 집에 들어가 남자와 여자를 끌어다 옥에 넘기더라 
       </b>
     </div>
     <br>
