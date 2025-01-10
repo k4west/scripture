@@ -40,6 +40,9 @@ style: |
     height: 600px;
     object-fit: contain;
   }
+  b {
+    word-break: keep-all;
+  }
 
 ---
 
@@ -47,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:1 우리가 다시 우리 자 신을 추천하랴 아니면 다른 사람처럼 너희에게 추천서를 보내거나 너희로부 터 추천서를 받을 필요가 있으랴 
+      <b>2Cor. 고후 3:1 우리가 다시 우리 자신을 추천하랴 아니면 다른 사람처럼 너희에게 추천서를 보내거나 너희로부터 추천서를 받을 필요가 있으랴 
       </b>
     </div>
     <br>
@@ -73,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:3 너희가 우리의 성역을 통한 그리스도의 편지라고 분명히 선언 된 것은 먹으로 쓴 것이 아니라 살아계 신 하나님의 성령으로 쓴 것이요 돌판 에 쓴 것이 아니라 육신의 마음판에 새 긴 것이니 
+      <b>2Cor. 고후 3:3 너희가 우리의 성역을 통한 그리스도의 편지라고 분명히 선언된 것은 먹으로 쓴 것이 아니라 살아계신 하나님의 성령으로 쓴 것이요 돌판에 쓴 것이 아니라 육신의 마음판에 새긴 것이니 
       </b>
     </div>
     <br>
@@ -89,7 +92,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_139.jpg'>
+    <img src='../../pictures/picture_39.jpg'>
   </div>
 </div>
 
@@ -99,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후3:4, JST3:4 우리는 그리스 도를 통해 하나님을 향한 그런 신뢰를 가졌느니라 
+      <b>2Cor. 고후3:4, JST3:4 우리는 그리스도를 통해 하나님을 향한 그런 신뢰를 가졌느니라 
       </b>
     </div>
     <br>
@@ -107,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후3:5, JST3:5 우리는 우리에 게서 난 어떤 것을 생각하여 우리 스스 로 충분한 것이 아니라 우리의 충분함 은 하나님 에게서 나느니라 
+      <b>2Cor. 고후3:5, JST3:5 우리는 우리에게서 난 어떤 것을 생각하여 우리 스스로 충분한 것이 아니라 우리의 충분함은 하나님에게서 나느니라 
       </b>
     </div>
     <br>
@@ -125,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:6 그가 또한 우리를 새 언약의 유능한 성역자로 삼되 율법 조 문으로 하지 않고 성령으로 했나니 율 법 조문은 죽이는 것이나 성령은 생명 을 주느니라 
+      <b>2Cor. 고후 3:6 그가 또한 우리를 새 언약의 유능한 성역자로 삼되 율법 조문으로 하지 않고 성령으로 했나니 율법 조문은 죽이는 것이나 성령은 생명을 주느니라 
       </b>
     </div>
     <br>
@@ -151,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:7 그러나 돌에 써서 새 겨진 죽음의 직무도 영광스러워서 이스 라엘 자손이 모세의 얼굴을 그의 용모 의 영광으로 인해 똑바로 바라볼 수 없 었으되 그 영광은 없어지 는 것이었으니 
+      <b>2Cor. 고후 3:7 그러나 돌에 써서 새겨진 죽음의 직무도 영광스러워서 이스라엘 자손이 모세의 얼굴을 그의 용모의 영광으로 인해 똑바로 바라볼 수 없었으되 그 영광은 없어지는 것이었으니 
       </b>
     </div>
     <br>
@@ -167,7 +170,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_169.jpg'>
+    <img src='../../pictures/picture_93.jpg'>
   </div>
 </div>
 
@@ -185,7 +188,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:9 정죄의 직무가 영광스 럽다면 의로움의 직무는 영광이 더욱 뛰어나 느니라 
+      <b>2Cor. 고후 3:9 정죄의 직무가 영광스럽다면 의로움의 직무는 영광이 더욱 뛰어나느니라 
       </b>
     </div>
     <br>
@@ -203,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:10 영화롭게 되었던 것 도 이런 점에서 영광을 갖지 못한 것은 더욱 뛰어난 영광 때문이 니 
+      <b>2Cor. 고후 3:10 영화롭게 되었던 것도 이런 점에서 영광을 갖지 못한 것은 더욱 뛰어난 영광 때문이니 
       </b>
     </div>
     <br>
@@ -211,7 +214,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:11 없어지 는 것이 영광 스러웠다면 남아있는 것은 더욱 영광스 러우니라 
+      <b>2Cor. 고후 3:11 없어지는 것이 영광스러웠다면 남아있는 것은 더욱 영광스러우니라 
       </b>
     </div>
     <br>
@@ -219,7 +222,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_14.jpg'>
+    <img src='../../pictures/picture_4.jpg'>
   </div>
 </div>
 
@@ -229,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:12 그러므로 그런 소망 을 가진 우리는 매우 명백하게 말하노 니 
+      <b>2Cor. 고후 3:12 그러므로 그런 소망을 가진 우리는 매우 명백하게 말하노니 
       </b>
     </div>
     <br>
@@ -237,7 +240,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:13 자기 얼굴을 휘장으 로 가려서 이스라엘 자손으로 하여금 없어지 는 것의 종말을 똑바로 바라보지 못하게 한 모세와 같지 않으니라 
+      <b>2Cor. 고후 3:13 자기 얼굴을 휘장으로 가려서 이스라엘 자손으로 하여금 없어지는 것의 종말을 똑바로 바라보지 못하게 한 모세와 같지 않으니라 
       </b>
     </div>
     <br>
@@ -255,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:14 그러나 그들의 마음 이 가려졌으니 그 동일한 휘장이 구약 을 읽을 때 오늘날까지 벗겨지지 않고 남아있 으되 그 휘장은 그리스도 안에서 없어지거니와 
+      <b>2Cor. 고후 3:14 그러나 그들의 마음이 가려졌으니 그 동일한 휘장이 구약을 읽을 때 오늘날까지 벗겨지지 않고 남아있 으되 그 휘장은 그리스도 안에서 없어지거니와 
       </b>
     </div>
     <br>
@@ -307,7 +310,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후3:17 이제 주가 그 성령이 니 주의 성령이 있는 곳에는 자유가 있 느니라 
+      <b>2Cor. 고후3:17 이제 주가 그 성령이니 주의 성령이 있는 곳에는 자유가 있느니라 
       </b>
     </div>
     <br>
@@ -333,7 +336,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 3:18 그러나 맨얼굴로 거 울 속을 들여다보는 것처럼 주의 영광 을 바라보는 우리는 모두 주의 성령을 통해 똑같은 형상으로 변화되어 영광으 로부터 영광에 이르느니라 
+      <b>2Cor. 고후 3:18 그러나 맨얼굴로 거울 속을 들여다보는 것처럼 주의 영광을 바라보는 우리는 모두 주의 성령을 통해 똑같은 형상으로 변화되어 영광으로부터 영광에 이르느니라 
       </b>
     </div>
     <br>

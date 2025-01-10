@@ -40,6 +40,9 @@ style: |
     height: 600px;
     object-fit: contain;
   }
+  b {
+    word-break: keep-all;
+  }
 
 ---
 
@@ -47,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:1 그러나 내가 다시는 너희에게 무거운 마음으로 가지 않으리 라고 결심했노라 
+      <b>2Cor. 고후 2:1 그러나 내가 다시는 너희에게 무거운 마음으로 가지 않으리라고 결심했노라 
       </b>
     </div>
     <br>
@@ -73,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:3 내가 이런 것을 너희 에게 쓰는 것은 내가 갈 때 내가 마땅 히 기뻐해야 할 사람들 로부터 근심을 얻지 않게 하려 함이니 너희 모두에 대 해 확신하거니와 나의 기쁨은 너희 모 두의 기쁨이니라 
+      <b>2Cor. 고후 2:3 내가 이런 것을 너희에게 쓰는 것은 내가 갈 때 내가 마땅히 기뻐해야 할 사람들로부터 근심을 얻지 않게 하려 함이니 너희 모두에 대해 확신하거니와 나의 기쁨은 너희 모두의 기쁨이니라 
       </b>
     </div>
     <br>
@@ -99,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:4 많은 고난과 마음의 고뇌 가운데 많은 눈물로 너희에게 편 지를 쓰는 것은 너희로 하여금 슬퍼하게 하려 함이 아니요 너희를 향해 더욱 넘치는 나의 사랑을 알게 하려 함이라 
+      <b>2Cor. 고후 2:4 많은 고난과 마음의 고뇌 가운데 많은 눈물로 너희에게 편지를 쓰는 것은 너희로 하여금 슬퍼하게 하려 함이 아니요 너희를 향해 더욱 넘치는 나의 사랑을 알게 하려 함이라 
       </b>
     </div>
     <br>
@@ -125,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:5 그러나 누가 슬퍼하게 했어도 그가 나를 슬퍼하게 한 것은 아 니요 일부만 그러하니 나는 너희 모두 를 지나치게 책망하지 않으려 하노라 
+      <b>2Cor. 고후 2:5 그러나 누가 슬퍼하게 했어도 그가 나를 슬퍼하게 한 것은 아니요 일부만 그러하니 나는 너희 모두를 지나치게 책망하지 않으려 하노라 
       </b>
     </div>
     <br>
@@ -133,7 +136,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:6 그런 사람에게는 많은 사람으로부터 가해지는 이런 형벌로 충 분하니 
+      <b>2Cor. 고후 2:6 그런 사람에게는 많은 사람으로부터 가해지는 이런 형벌로 충분하니 
       </b>
     </div>
     <br>
@@ -141,7 +144,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_66.jpg'>
+    <img src='../../pictures/picture_61.jpg'>
   </div>
 </div>
 
@@ -159,7 +162,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:8 그러므로 내가 너희에 게 간청하노니 그를 향한 너희 사랑을 확증하라 
+      <b>2Cor. 고후 2:8 그러므로 내가 너희에게 간청하노니 그를 향한 너희 사랑을 확증하라 
       </b>
     </div>
     <br>
@@ -177,7 +180,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:9 내가 쓰는 목적은 또 한 이것이니 너희가 모든 일에 순종하 는지 너희를 입증하여 알고자 함이라 
+      <b>2Cor. 고후 2:9 내가 쓰는 목적은 또한 이것이니 너희가 모든 일에 순종하는지 너희를 입증하여 알고자 함이라 
       </b>
     </div>
     <br>
@@ -203,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:10, JST2:10 너희가 누 구에게 어떤 것을 용서하면 나도 용서 하리라 내가 용서할 자에게 어떤 것을 용서했다면 그리스도의 사람으로서 너 희를 위해 용서하는 것이요 
+      <b>2Cor. 고후 2:10, JST2:10 너희가 누구에게 어떤 것을 용서하면 나도 용서 하리라 내가 용서할 자에게 어떤 것을 용서했다면 그리스도의 사람으로서 너희를 위해 용서하는 것이요 
       </b>
     </div>
     <br>
@@ -229,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:11 사탄이 우리를 이기 지 못하게 하려 함이니 우리는 그의 계 략을 모르는 바가 아니니라 
+      <b>2Cor. 고후 2:11 사탄이 우리를 이기지 못하게 하려 함이니 우리는 그의 계략을 모르는 바가 아니니라 
       </b>
     </div>
     <br>
@@ -237,7 +240,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후2:12 더 나아가 내가 그리 스도의 복음을 전파하려고 드로아에 갔 을 때 주가 나에게 문을 열어주었으되 
+      <b>2Cor. 고후2:12 더 나아가 내가 그리스도의 복음을 전파하려고 드로아에 갔을 때 주가 나에게 문을 열어주었으되 
       </b>
     </div>
     <br>
@@ -245,7 +248,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_172.jpg'>
+    <img src='../../pictures/picture_17.jpg'>
   </div>
 </div>
 
@@ -255,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후2:13 내가 나의 형제 디도 를 만나지 못하여 나의 영이 쉼을 얻지 못한 채 그들을 떠나 그곳으로부터 마 케도니아 에 들어갔 느니라 
+      <b>2Cor. 고후2:13 내가 나의 형제 디도를 만나지 못하여 나의 영이 쉼을 얻지 못한 채 그들을 떠나 그곳으로부터 마케도니아에 들어갔느니라 
       </b>
     </div>
     <br>
@@ -281,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:14, JST2:14 이제 우리 로 하여금 그리스도 안에서 항상 승리 하게 하고 모든 곳에서 우리를 통해 그 를 아는 냄새를 나타내 시는 하나님께 감사하노 라 
+      <b>2Cor. 고후 2:14, JST2:14 이제 우리로 하여금 그리스도 안에서 항상 승리하게 하고 모든 곳에서 우리를 통해 그를 아는 냄새를 나타내시는 하나님께 감사하노라 
       </b>
     </div>
     <br>
@@ -307,7 +310,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:15, JST2:15 이는 우리 가 구원받는 자들 가운데 서나 멸망하는 자들 가운데 서나 하나님을 향한 그리스 도의 감미로운 냄새이기 때문이니 
+      <b>2Cor. 고후 2:15, JST2:15 이는 우리가 구원받는 자들 가운데서나 멸망하는 자들 가운데서나 하나님을 향한 그리스도의 감미로운 냄새이기 때문이니 
       </b>
     </div>
     <br>
@@ -333,7 +336,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:16, JST2:16 우리가 한 쪽에게는 죽음에 이르는 죽음의 냄새요 다른 쪽에게는 생명에 이르는 생명의 냄새라 이것들에 충분한 자가 누구냐 
+      <b>2Cor. 고후 2:16, JST2:16 우리가 한쪽에게는 죽음에 이르는 죽음의 냄새요 다른 쪽에게는 생명에 이르는 생명의 냄새라 이것들에 충분한 자가 누구냐 
       </b>
     </div>
     <br>
@@ -359,7 +362,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 2:17 우리는 하나님의 말 씀을 부패하게 하는 많은 사람과 같지 않고 하나님 께 속한 사람으로서 하나님이 보는 가운데 그리스도 안에서 진실 하게 말하노라 
+      <b>2Cor. 고후 2:17 우리는 하나님의 말씀을 부패하게 하는 많은 사람과 같지 않고 하나님께 속한 사람으로서 하나님이 보는 가운데 그리스도 안에서 진실하게 말하노라 
       </b>
     </div>
     <br>
@@ -375,7 +378,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_85.jpg'>
+    <img src='../../pictures/picture_8.jpg'>
   </div>
 </div>
 

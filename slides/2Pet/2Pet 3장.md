@@ -40,6 +40,9 @@ style: |
     height: 600px;
     object-fit: contain;
   }
+  b {
+    word-break: keep-all;
+  }
 
 ---
 

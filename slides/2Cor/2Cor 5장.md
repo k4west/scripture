@@ -40,14 +40,16 @@ style: |
     height: 600px;
     object-fit: contain;
   }
-
+  b {
+    word-break: keep-all;
+  }
 ---
 
 <div class="columns">
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후5:1, JST5:1 흙으로 된 우 리의 장막 집이 해체되면 손으로 만들 지 않은 집 곧 여러 하늘에 영원히 있는 하나님의 건물을 우리가 가질 것을 아노니 
+      <b>2Cor. 고후5:1, JST5:1 흙으로 된 우리의 장막 집이 해체되면 손으로 만들지 않은 집 곧 여러 하늘에 영원히 있는 하나님의 건물을 우리가 가질 것을 아노니 
       </b>
     </div>
     <br>
@@ -73,7 +75,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:2 우리는 하늘로부터 오 는 우리 집으로 옷 입기를 간절히 원하 며 이것으로 괴로워 하느니라 
+      <b>2Cor. 고후 5:2 우리는 하늘로부터 오는 우리 집으로 옷입기를 간절히 원하며 이것으로 괴로워 하느니라 
       </b>
     </div>
     <br>
@@ -99,7 +101,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:4 이 장막에 있는 우리 가 무거운 짐으로 괴로워 하는 것은 옷 을 벗고자 함이 아니라 입힌 바 되어 필멸의 것이 생명에 삼켜지게 하려 함 이라 
+      <b>2Cor. 고후 5:4 이 장막에 있는 우리가 무거운 짐으로 괴로워 하는 것은 옷을 벗고자 함이 아니라 입힌 바 되어 필멸의 것이 생명에 삼켜지게 하려 함이라 
       </b>
     </div>
     <br>
@@ -125,7 +127,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:5 이제 그것을 위해 역 사하시는 이는 하나님이 니 그가 우리에 게 성령의 간절함 을 주었느니라 
+      <b>2Cor. 고후 5:5 이제 그것을 위해 역사하시는 이는 하나님이니 그가 우리에게 성령의 간절함을 주었느니라 
       </b>
     </div>
     <br>
@@ -133,7 +135,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:6 그러므로 우리가 몸속 의 집에 있는 동안은 주로부터 떠나 있 는 것을 알고 항상 확신하노니 
+      <b>2Cor. 고후 5:6 그러므로 우리가 몸속의 집에 있는 동안은 주로부터 떠나 있는 것을 알고 항상 확신하노니 
       </b>
     </div>
     <br>
@@ -141,7 +143,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_169.jpg'>
+    <img src='../../pictures/picture_69.jpg'>
   </div>
 </div>
 
@@ -151,15 +153,15 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:7 (이는 우리가 보는 것 을 통해서 행하지 않고 신앙을 통해서 행함이라 ) (
+      <b>2Cor. 고후 5:7 (이는 우리가 보는 것을 통해서 행하지 않고 신앙을 통해서 행함이라) 
       </b>
     </div>
     <br>
-    <div class="scripture">For we walk by faith, not by sight;) 
+    <div class="scripture">(For we walk by faith, not by sight;) 
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:8 내가 이르거니와 우리 가 확신하며 기꺼이 원하는 것은 오히 려 몸을 떠나 주와 함께 있는 것이라 
+      <b>2Cor. 고후 5:8 내가 이르거니와 우리가 확신하며 기꺼이 원하는 것은 오히려 몸을 떠나 주와 함께 있는 것이라 
       </b>
     </div>
     <br>
@@ -167,7 +169,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_15.jpg'>
+    <img src='../../pictures/picture_1.jpg'>
   </div>
 </div>
 
@@ -177,7 +179,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후5:9, JST5:9 그러므로 우리 가 수고하는 것은 여기 있든지 떠나든 지 그에게 받아들여 지기 위함이라 
+      <b>2Cor. 고후5:9, JST5:9 그러므로 우리가 수고하는 것은 여기 있든지 떠나든지 그에게 받아들여지기 위함이라 
       </b>
     </div>
     <br>
@@ -203,7 +205,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:10, JST5:10 우리는 모 두 그리스도의 심판대 앞에 나타나 각 사람이 몸으로 행한 행위 곧 선하든지 악하든지 자기가 행한 일에 따라 보상 을 받으리라 
+      <b>2Cor. 고후 5:10, JST5:10 우리는 모두 그리스도의 심판대 앞에 나타나 각 사람이 몸으로 행한 행위 곧 선하든지 악하든지 자기가 행한 일에 따라 보상을 받으리라 
       </b>
     </div>
     <br>
@@ -219,7 +221,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_47.jpg'>
+    <img src='../../pictures/picture_4.jpg'>
   </div>
 </div>
 
@@ -229,7 +231,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:11 우리가 주의 무서움 을 알기에 사람들을 설득하거니와 우리 는 하나님 께 나타내졌으며 너희 양심 안에서도 나타내졌음을 내가 믿노라 
+      <b>2Cor. 고후 5:11 우리가 주의 무서움을 알기에 사람들을 설득하거니와 우리는 하나님께 나타내졌으며 너희 양심 안에서도 나타내졌음을 내가 믿노라 
       </b>
     </div>
     <br>
@@ -255,7 +257,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:12 우리가 우리 자신을 너희에게 다시 추천하지 않고 너희에게 우리를 대신하여 영광스러워할 기회를 주는 것은 외모로 영광스러워하고 마음 으로 하지 않는 자들에게 뭔가 대답할 것을 너희가 얻게 하려 함이라 
+      <b>2Cor. 고후 5:12 우리가 우리 자신을 너희에게 다시 추천하지 않고 너희에게 우리를 대신하여 영광스러워할 기회를 주는 것은 외모로 영광스러워하고 마음으로 하지 않는 자들에게 뭔가 대답할 것을 너희가 얻게 하려 함이라 
       </b>
     </div>
     <br>
@@ -281,7 +283,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:13, JST5:13 우리는 우 리가 정신 나간 것이 아님을 증언하노 니 우리가 자랑해도 그것은 하나님을 향한 것이요 우리가 진지해도 그것은 너희를 위한 것이니라 
+      <b>2Cor. 고후 5:13, JST5:13 우리는 우리가 정신 나간 것이 아님을 증언하노니 우리가 자랑해도 그것은 하나님을 향한 것이요 우리가 진지해도 그것은 너희를 위한 것이니라 
       </b>
     </div>
     <br>
@@ -307,7 +309,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:14 그리스도의 사랑이 우리를 강권하는 것은 우리가 이렇게 판단하기 때문이니 한 사람이 모든 사 람을 대신하여 죽으면 모든 사람이 죽 은 것이요 
+      <b>2Cor. 고후 5:14 그리스도의 사랑이 우리를 강권하는 것은 우리가 이렇게 판단하기 때문이니 한 사람이 모든 사람을 대신하여 죽으면 모든 사람이 죽은 것이요 
       </b>
     </div>
     <br>
@@ -333,7 +335,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:15, JST5:15 그가 모든 사람을 대신하여 죽은 것은 살아있는 그들로 하여금 지금부터는 자기들을 위 해 살지 않고 그들을 대신하여 죽었다 가 다시 살아나신 그를 위해 살게 하려 함이라 
+      <b>2Cor. 고후 5:15, JST5:15 그가 모든 사람을 대신하여 죽은 것은 살아있는 그들로 하여금 지금부터는 자기들을 위해 살지 않고 그들을 대신하여 죽었다가 다시 살아나신 그를 위해 살게 하려 함이라 
       </b>
     </div>
     <br>
@@ -359,7 +361,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:16, JST5:16 그러므로 이제부터는 우리가 다시는 육신을 따라 살지 않노니 참으로 비록 우리가 한때 육신을 따라 살았을지라도 우리가 그리 스도를 알게 된 이래로 지금부터 우리 는 더 이상 육신을 따라 살지 않노라 
+      <b>2Cor. 고후 5:16, JST5:16 그러므로 이제부터는 우리가 다시는 육신을 따라 살지 않노니 참으로 비록 우리가 한때 육신을 따라 살았을지라도 우리가 그리스도를 알게 된 이래로 지금부터 우리는 더 이상 육신을 따라 살지 않노라 
       </b>
     </div>
     <br>
@@ -385,7 +387,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:17, JST5:17 그러므로 누구든지 그리스도 안에서 살면 그는 새로운 피조물이 라 보라 옛것은 끝나고 모든 것이 새로워져서 
+      <b>2Cor. 고후 5:17, JST5:17 그러므로 누구든지 그리스도 안에서 살면 그는 새로운 피조물이라 보라 옛것은 끝나고 모든 것이 새로워져서 
       </b>
     </div>
     <br>
@@ -401,7 +403,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_146.jpg'>
+    <img src='../../pictures/picture_46.jpg'>
   </div>
 </div>
 
@@ -411,7 +413,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:18, JST5:18 예수 그리 스도를 통해 우리를 자기와 화해하게 하고 우리에게 화해의 성역을 주신 하 나님께 속한 모든 것을 받나니 
+      <b>2Cor. 고후 5:18, JST5:18 예수 그리스도를 통해 우리를 자기와 화해하게 하고 우리에게 화해의 성역을 주신 하나님께 속한 모든 것을 받나니 
       </b>
     </div>
     <br>
@@ -463,7 +465,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:20 그러므로 이제 우리 는 그리스도를 위한 대사가 되어 하나 님이 우리를 통해 너희에게 간청하는 것처럼 그리스도를 대신하여 너희에게 간청하노니 너희는 하나님과 화해하라 
+      <b>2Cor. 고후 5:20 그러므로 이제 우리는 그리스도를 위한 대사가 되어 하나님이 우리를 통해 너희에게 간청하는 것처럼 그리스도를 대신하여 너희에게 간청하노니 너희는 하나님과 화해하라 
       </b>
     </div>
     <br>
@@ -489,7 +491,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 5:21 하나님이 죄를 알지 못하는 그를 우리를 위해 죄가 되게 한 것은 우리로 하여금 그의 안에서 하나 님의 의로움이 되게 하려 함이니라 
+      <b>2Cor. 고후 5:21 하나님이 죄를 알지 못하는 그를 우리를 위해 죄가 되게 한 것은 우리로 하여금 그의 안에서 하나님의 의로움이 되게 하려 함이니라 
       </b>
     </div>
     <br>

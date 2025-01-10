@@ -40,14 +40,16 @@ style: |
     height: 600px;
     object-fit: contain;
   }
-
+  b {
+    word-break: keep-all;
+  }
 ---
 
 <div class="columns">
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:1, JST6:1 그러므로 우리 는 그리스도와 함께 일하는 자로서 너 희에게 간청하노니 너희는 하나님 의 은 혜를 헛되이 받지 말라 
+      <b>2Cor. 고후6:1, JST6:1 그러므로 우리는 그리스도와 함께 일하는 자로서 너희에게 간청하노니 너희는 하나님의 은혜를 헛되이 받지 말라 
       </b>
     </div>
     <br>
@@ -73,15 +75,15 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:2, JST6:2 (그가 이르되 나는 합당한 때에 너의 말을 들었고 구 원의 날에 너를 구원했노라 했으니 보 라 지금이 구원의 날이니라) (
+      <b>2Cor. 고후 6:2, JST6:2 (그가 이르되 나는 합당한 때에 너의 말을 들었고 구원의 날에 너를 구원했노라 했으니 보라 지금이 구원의 날이니라) 
       </b>
     </div>
     <br>
-    <div class="scripture">For he saith, I have heard thee in a time accepted, and in the day of salvation have I succored thee; behold, now is the day of salvation .) 
+    <div class="scripture">(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succored thee; behold, now is the day of salvation .) 
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:3, JST6:3 우리는 이 성 역이 비난받지 않도록 어떤 일에도 실 족거리를 주지 않고 
+      <b>2Cor. 고후6:3, JST6:3 우리는 이 성역이 비난받지 않도록 어떤 일에도 실족거리를 주지 않고 
       </b>
     </div>
     <br>
@@ -99,7 +101,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:4 모든 일에 하나님의 성역자로서 우리 자신을 입증해 보였나 니 많은 인내와 고난과 궁핍과 곤경과 
+      <b>2Cor. 고후 6:4 모든 일에 하나님의 성역자로서 우리 자신을 입증해 보였나니 많은 인내와 고난과 궁핍과 곤경과 
       </b>
     </div>
     <br>
@@ -107,7 +109,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:5, JST6:5 매 맞음과 옥 에 갇힘과 소동과 수고와 자지 못함과 먹지 못함 가운데서도 
+      <b>2Cor. 고후6:5, JST6:5 매맞음과 옥에 갇힘과 소동과 수고와 자지 못함과 먹지 못함 가운데서도 
       </b>
     </div>
     <br>
@@ -125,7 +127,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:6, JST6:6 정결함과 지식 과 오래 참음과 친절과 성령과 거짓 없 는 사랑으로 했으며 
+      <b>2Cor. 고후6:6, JST6:6 정결함과 지식과 오래 참음과 친절과 성령과 거짓 없는 사랑으로 했으며 
       </b>
     </div>
     <br>
@@ -133,7 +135,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:7, JST6:7 진리의 말씀과 하나님의 능력으로 했으며 오른손과 왼 손에 든 의로움의 무기로 했으며 
+      <b>2Cor. 고후6:7, JST6:7 진리의 말씀과 하나님의 능력으로 했으며 오른손과 왼손에 든 의로움의 무기로 했으며 
       </b>
     </div>
     <br>
@@ -151,7 +153,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:8, JST6:8 존귀와 수치로 했으며 악한 평판과 선한 평판으로 했 나니 속이는 자 같으나 참되며 
+      <b>2Cor. 고후6:8, JST6:8 존귀와 수치로 했으며 악한 평판과 선한 평판으로 했나니 속이는 자 같으나 참되며 
       </b>
     </div>
     <br>
@@ -159,7 +161,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:9 모르는 자 같으나 잘 알며 죽어가는 자 같으나 보라 우리는 살아있 으며 징계받은 자 같으나 죽임당 하지 않았으며 
+      <b>2Cor. 고후 6:9 모르는 자 같으나 잘 알며 죽어가는 자 같으나 보라 우리는 살아있으며 징계받은 자 같으나 죽임당하지 않았으며 
       </b>
     </div>
     <br>
@@ -177,7 +179,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:10, JST6:10 슬퍼하는 자 같으나 항상 기뻐하 며 가난한 자 같 으나 많은 사람을 부요하게 하며 가진 것이 없는 자 같으나 모든 것을 소유한 자니라 
+      <b>2Cor. 고후 6:10, JST6:10 슬퍼하는 자 같으나 항상 기뻐하며 가난한 자 같으나 많은 사람을 부요하게 하며 가진 것이 없는 자 같으나 모든 것을 소유한 자니라 
       </b>
     </div>
     <br>
@@ -185,7 +187,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:11 오 고린도 사람들아 우리 입이 너희에게 열려있 고 우리 마 음이 넓어졌느니라 
+      <b>2Cor. 고후 6:11 오 고린도 사람들아 우리 입이 너희에게 열려있고 우리 마음이 넓어졌느니라 
       </b>
     </div>
     <br>
@@ -211,7 +213,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:13, JST6:13 같은 보답 으로 너희도 마음을 넓히라 (나는 나의 자녀에게 하는 것처럼 말하노라 ) 
+      <b>2Cor. 고후 6:13, JST6:13 같은 보답으로 너희도 마음을 넓히라 (나는 나의 자녀에게 하는 것처럼 말하노라) 
       </b>
     </div>
     <br>
@@ -229,7 +231,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:14 너희는 믿지 않는 자 와 불공정한 멍에를 함께 메지 말라 의 로움과 불의가 어찌 사귀겠느냐 빛과 어둠이 어찌 연합하겠느냐 
+      <b>2Cor. 고후6:14 너희는 믿지 않는 자와 불공정한 멍에를 함께 메지 말라 의로움과 불의가 어찌 사귀겠느냐 빛과 어둠이 어찌 연합하겠느냐 
       </b>
     </div>
     <br>
@@ -281,7 +283,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후 6:16 하나님의 성전이 어 찌 우상과 연합하겠느냐 이는 너희가 살아계신 하나님의 성전임이라 하나님 이 이르되 내가 그들 안에 거하고 그들 안에서 행하리니 나는 그들의 하나님이 되고 그들은 나의 백성이 되리라 
+      <b>2Cor. 고후 6:16 하나님의 성전이 어찌 우상과 연합하겠느냐 이는 너희가 살아계신 하나님의 성전임이라 하나님이 이르되 내가 그들 안에 거하고 그들 안에서 행하리니 나는 그들의 하나님이 되고 그들은 나의 백성이 되리라 
       </b>
     </div>
     <br>
@@ -297,7 +299,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_168.jpg'>
+    <img src='../../pictures/picture_2.jpg'>
   </div>
 </div>
 
@@ -307,7 +309,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>2Cor. 고후6:17 그러므로 저들로부터 나와서 따로 있고 부정한 것에 손대지 말라 주가 이르노 라 그리하면 내가 너 희를 받아들 여 
+      <b>2Cor. 고후6:17 그러므로 저들로부터 나와서 따로 있고 부정한 것에 손대지 말라 주가 이르노라 그리하면 내가 너희를 받아들여 
       </b>
     </div>
     <br>
@@ -323,7 +325,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_68.jpg'>
+    <img src='../../pictures/picture_8.jpg'>
   </div>
 </div>
 
