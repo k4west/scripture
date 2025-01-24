@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:1 과거 여러 시대에 다양한 방식으로 선지자 들을 통해 조상에게 말 씀하신 하나님이 
+      <b>Heb.히1:1 과거 여러 시대에 다양한 방식으로 선지자들을 통해 조상에게 말씀하신 하나님이 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:3 그는 하나님 의 영광의 광 채요 그의 인격의 형상이요 그의 권능의 말씀으로 모든 것을 붙들고 있나니 그가 친히 우리 죄를 정결하게 하고 지 극히 높으신 이의 오른편에 앉았느니라 
+      <b>Heb.히1:3 그는 하나님의 영광의 광채요 그의 인격의 형상이요 그의 권능의 말씀으로 모든 것을 붙들고 있나니 그가 친히 우리 죄를 정결하게 하고 지극히 높으신 이의 오른편에 앉았느니라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:4 그가 천사들보다 훨씬 뛰 어난 것은 그가 그들보다 더욱 탁월한 이름을 유업으로 얻었기 때문이라 
+      <b>Heb.히1:4 그가 천사들보다 훨씬 뛰어난 것은 그가 그들보다 더욱 탁월한 이름을 유업으로 얻었기 때문이라 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:5 그가 어느 때에 천사 가 운데 누구에게 너는 나의 아들이라 오 늘 내가 너를 낳았다 했느냐 또 나는 그에게 아버지가 되고 그는 나에게 아 들이 되리라 했느냐 
+      <b>Heb.히1:5 그가 어느 때에 천사 가운데 누구에게 너는 나의 아들이라 오늘 내가 너를 낳았다 했느냐 또 나는 그에게 아버지가 되고 그는 나에게 아들이 되리라 했느냐 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:6, JST1:6 다시 그가 맏아 들을 세상에 들여보낼 때에는 그가 이 르되 하나님의 모든 천사는 그의 성역 을 타는 불꽃처럼 행하는 그에게 경배 하라 했으며 
+      <b>Heb.히1:6, JST1:6 다시 그가 맏아들을 세상에 들여보낼 때에는 그가 이르되 하나님의 모든 천사는 그의 성역을 타는 불꽃처럼 행하는 그에게 경배하라 했으며 
       </b>
     </div>
     <br>
@@ -162,17 +162,44 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히1:7, JST1:7 천사에 관해서 는 그가 이르되 천사는 성역을 베푸는 영 이라 했으나 
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_1.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Heb.히1:7, JST1:7 천사에 관해서는 그가 이르되 천사는 성역을 베푸는 영이라 했으나  
       </b>
     </div>
     <br>
     <div class="scripture">And of the angels he saith, Angels are ministering spirits. 
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
     <img src='../../pictures/picture_9.jpg'>
   </div>
 </div>
+
 
 ---
 
@@ -206,7 +233,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:9 당신은 의로움을 사랑하 고 간악함 을 미워했으니 하나님 곧 당 신의 하나님이 당신을 당신의 동료보다 높여 즐거움의 기름을 당신께 부었나이 다 
+      <b>Heb.히1:9 당신은 의로움을 사랑하고 간악함을 미워했으니 하나님 곧 당신의 하나님이 당신을 당신의 동료보다 높여 즐거움의 기름을 당신께 부었나이다 
       </b>
     </div>
     <br>
@@ -232,7 +259,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:10 주여 당신은 태초에 땅 의 기초를 놓았으며 여러 하늘은 당신 의 손으로 지은 작품이니 
+      <b>Heb.히1:10 주여 당신은 태초에 땅의 기초를 놓았으며 여러 하늘은 당신의 손으로 지은 작품이니 
       </b>
     </div>
     <br>
@@ -240,7 +267,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히1:11 그것들은 사라질 것이나 당신은 남아 있을 것이요 그것들은 모 두 옷처럼 낡아지리 이다 
+      <b>Heb.히1:11 그것들은 사라질 것이나 당신은 남아 있을 것이요 그것들은 모두 옷처럼 낡아지리이다 
       </b>
     </div>
     <br>
@@ -258,7 +285,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:12 당신이 그것들을 옷처럼 말아버 리므로 그것들이 변화될 것이나 당신은 여전하 고 당신의 햇수는 다함이 없으리이다 했느니라 
+      <b>Heb.히1:12 당신이 그것들을 옷처럼 말아버리므로 그것들이 변화될 것이나 당신은 여전하고 당신의 햇수는 다함이 없으리이다 했느니라 
       </b>
     </div>
     <br>
@@ -284,7 +311,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히1:13 어느 때든지 천사 가운 데 누구에게 그가 이르되 내가 너의 원 수를 너의 발등상 으로 삼을 때까지 나 의 오른편에 앉아 있으라 했느냐 
+      <b>Heb.히1:13 어느 때든지 천사 가운데 누구에게 그가 이르되 내가 너의 원수를 너의 발등상으로 삼을 때까지 나의 오른편에 앉아 있으라 했느냐 
       </b>
     </div>
     <br>
@@ -292,7 +319,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히1:14 그들은 모두 구원의 상 속자가 될 자들을 위해 시중하도록 보 내져서 성역을 베푸는 영들이 아니냐 
+      <b>Heb.히1:14 그들은 모두 구원의 상속자가 될 자들을 위해 시중하도록 보내져서 성역을 베푸는 영들이 아니냐 
       </b>
     </div>
     <br>

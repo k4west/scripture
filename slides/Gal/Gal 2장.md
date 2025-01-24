@@ -44,13 +44,40 @@ style: |
     word-break: keep-all;
   }
 
+
 ---
 
 <div class="columns">
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:2 내가 계시에 따라 올라가 서 이방인 가운데 전파하는 복음을 그 들에게 전하되 명성 있는 자들에게는 개인적으로 전하여 어떻게 해서든지 내 가 달려가거 나 달려온 것이 헛되지 않 게 하려 했느니라 
+      <b>Gal.갈2:1 그 후 십사 년이 지나서 내가 바나바와 함께 디도를 데리고 예루살렘으로 다시 올라갔으며 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
+    </div>
+    <br>
+    <div class="scripture">
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_25.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Gal.갈2:2 내가 계시에 따라 올라가서 이방인 가운데 전파하는 복음을 그들에게 전하되 명성 있는 자들에게는 개인적으로 전하여 어떻게 해서든지 내가 달려가거나 달려온 것이 헛되지 않게 하려 했느니라 
       </b>
     </div>
     <br>
@@ -66,7 +93,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_161.jpg'>
+    <img src='../../pictures/picture_16.jpg'>
   </div>
 </div>
 
@@ -76,7 +103,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:3 나와 함께 있던 그리스 사 람 디도 역시 할례받 도록 강요당하 지 않았거니와 
+      <b>Gal.갈2:3 나와 함께 있던 그리스 사람 디도 역시 할례받도록 강요당하지 않았거니와 
       </b>
     </div>
     <br>
@@ -92,7 +119,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_136.jpg'>
+    <img src='../../pictures/picture_17.jpg'>
   </div>
 </div>
 
@@ -102,7 +129,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:4, JST2:4 우리가 예수 그리 스도 안에서 누리는 자유를 은밀히 엿 보아 우리를 속박으로 끌어들이고자 하 는 거짓 형제들에 의해 부지중에 이끌 려 들어간 어떤 이들이 있었으되 
+      <b>Gal.갈2:4, JST2:4 우리가 예수 그리스도 안에서 누리는 자유를 은밀히 엿보아 우리를 속박으로 끌어들이고자 하는 거짓 형제들에 의해 부지중에 이끌려 들어간 어떤 이들이 있었으되 
       </b>
     </div>
     <br>
@@ -128,7 +155,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:5 우리가 그들에게 한 시도 굴복하지 않은 것은 복음의 진리가 계 속해서 너희와 함께하도록 하려 함이라 
+      <b>Gal.갈2:5 우리가 그들에게 한 시도 굴복하지 않은 것은 복음의 진리가 계속해서 너희와 함께하도록 하려 함이라 
       </b>
     </div>
     <br>
@@ -144,7 +171,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_75.jpg'>
+    <img src='../../pictures/picture_7.jpg'>
   </div>
 </div>
 
@@ -154,7 +181,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:6, JST2:6 그러나 그들이 무 엇이 되었든 어떤 것이 된 것처럼 보일 지라도 그것은 나에게 중요하지 않으니 라 하나님은 사람을 차별하여 대하지 않나니 이는 무엇이 된 것처럼 보이는 자들이 대회에서 나에게 더해준 것이 아무것도 없음이라 
+      <b>Gal.갈2:6, JST2:6 그러나 그들이 무엇이 되었든 어떤 것이 된 것처럼 보일 지라도 그것은 나에게 중요하지 않으니라 하나님은 사람을 차별하여 대하지 않나니 이는 무엇이 된 것처럼 보이는 자들이 대회에서 나에게 더해준 것이 아무것도 없음이라 
       </b>
     </div>
     <br>
@@ -170,7 +197,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_33.jpg'>
+    <img src='../../pictures/picture_3.jpg'>
   </div>
 </div>
 
@@ -206,11 +233,11 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:8 (이는 베드로 안에서 효과 적으로 역사하 여 할례자의 사도직을 맡 기신 그가 나의 안에서 이방인을 향해 강하게 역사했음이라) (
+      <b>Gal.갈2:8 (이는 베드로 안에서 효과적으로 역사하여 할례자의 사도직을 맡기신 그가 나의 안에서 이방인을 향해 강하게 역사했음이라) 
       </b>
     </div>
     <br>
-    <div class="scripture">For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles;) 
+    <div class="scripture">(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles;) 
     </div>
     <br>
     <div class="scripture">
@@ -232,7 +259,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:9 기둥으로 여겨지는 야고보 와 게바와 요한도 나에게 주어진 은혜 를 알고 나와 바나바에게 친교의 오른 손을 내밀어 우리는 이방인에게 가고 그들은 할례자 에게 가기로 했느니라 
+      <b>Gal.갈2:9 기둥으로 여겨지는 야고보와 게바와 요한도 나에게 주어진 은혜를 알고 나와 바나바에게 친교의 오른손을 내밀어 우리는 이방인에게 가고 그들은 할례자에게 가기로 했느니라 
       </b>
     </div>
     <br>
@@ -258,7 +285,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:10, JST2:10 단지 그들은 가 난한 자들을 기억해 주기를 우리에게 원했는데 그것은 나도 기꺼이 행하려던 것이라 
+      <b>Gal.갈2:10, JST2:10 단지 그들은 가난한 자들을 기억해 주기를 우리에게 원했는데 그것은 나도 기꺼이 행하려던 것이라 
       </b>
     </div>
     <br>
@@ -266,7 +293,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈2:11 그러나 베드로가 안디옥 에 왔을 때는 그가 책망받 을 일이 있으 므로 내가 그와 얼굴을 마주하여 맞섰 나니 
+      <b>Gal.갈2:11 그러나 베드로가 안디옥에 왔을 때는 그가 책망받을 일이 있으므로 내가 그와 얼굴을 마주하여 맞섰나니 
       </b>
     </div>
     <br>
@@ -284,7 +311,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:12 이는 야고보 가 보낸 어떤 사람들이 오기 전에 그가 이방인 과 함 께 먹다가 그들이 오매 할례자인 그들 을 두려워하여 그가 물러가 따로 앉았 음이라 
+      <b>Gal.갈2:12 이는 야고보가 보낸 어떤 사람들이 오기 전에 그가 이방인과 함께 먹다가 그들이 오매 할례자인 그들을 두려워하여 그가 물러가 따로 앉았음이라 
       </b>
     </div>
     <br>
@@ -310,7 +337,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:13 이에 다른 유대인 들도 그 와 함께 가식적으로 행하므로 바나바도 그들의 가식에 이끌렸느니 라 
+      <b>Gal.갈2:13 이에 다른 유대인 들도 그와 함께 가식적으로 행하므로 바나바도 그들의 가식에 이끌렸느니라 
       </b>
     </div>
     <br>
@@ -336,7 +363,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:14 그러나 나는 그들이 복음 의 진리대로 올바르게 행하지 않는 것 을 보고 그들 모두 앞에서 베드로에게 이르되 유대인인 너가 이방인의 방식을 좇아 살고 유대인 이 행하는 것처럼 살 지 않으면서 어찌하여 너는 이방인 으로 하여금 유대인이 행하는 것처럼 살도록 강요하느냐 했노라 
+      <b>Gal.갈2:14 그러나 나는 그들이 복음의 진리대로 올바르게 행하지 않는 것을 보고 그들 모두 앞에서 베드로에게 이르되 유대인인 너가 이방인의 방식을 좇아 살고 유대인이 행하는 것처럼 살지 않으면서 어찌하여 너는 이방인으로 하여금 유대인이 행하는 것처럼 살도록 강요하느냐 했노라 
       </b>
     </div>
     <br>
@@ -362,7 +389,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:15 본래 유대인 이요 이방인 에 속한 죄인이 아닌 우리는 
+      <b>Gal.갈2:15 본래 유대인이요 이방인에 속한 죄인이 아닌 우리는 
       </b>
     </div>
     <br>
@@ -388,7 +415,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:16 사람이 율법의 행위를 통 해서가 아니라 예수 그리스도 에 대한 신앙을 통해서 의롭게 됨을 알기에 우 리가 예수 그리스도를 믿는 것도 율법 의 행위를 통해서가 아니라 그리스도에 대한 신앙을 통해서 의롭게 되려 함이 니 율법의 행위를 통해서는 아무 육신 도 의롭게 될 수 없느니라 
+      <b>Gal.갈2:16 사람이 율법의 행위를 통해서가 아니라 예수 그리스도에 대한 신앙을 통해서 의롭게 됨을 알기에 우리가 예수 그리스도를 믿는 것도 율법의 행위를 통해서가 아니라 그리스도에 대한 신앙을 통해서 의롭게 되려 함이니 율법의 행위를 통해서는 아무 육신도 의롭게 될 수 없느니라 
       </b>
     </div>
     <br>
@@ -414,7 +441,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:17 그러나 우리가 그리스도 를 통해 의롭게 되려 하는 과정에서 우 리 자신도 죄인으로 발견되면 그리스도 가 죄의 성역자가 되느냐 결코 그럴 수 없느니라 
+      <b>Gal.갈2:17 그러나 우리가 그리스도를 통해 의롭게 되려 하는 과정에서 우리 자신도 죄인으로 발견되면 그리스도가 죄의 성역자가 되느냐 결코 그럴 수 없느니라 
       </b>
     </div>
     <br>
@@ -422,11 +449,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈2:18 내가 헐었던 것을 다시 세우면 나 스스로 나를 범법자로 만드 는 것이니 
+      <b> 
       </b>
     </div>
     <br>
-    <div class="scripture">For if I build again the things which I destroyed, I make myself a trans gressor. 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
@@ -440,7 +467,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:19 내가 율법을 통해서 율법 에 대해 죽은 것은 하나님을 향해 살고 자 함이라 
+      <b>Gal.갈2:18 내가 헐었던 것을 다시 세우면 나 스스로 나를 범법자로 만드는 것이니  
+      </b>
+    </div>
+    <br>
+    <div class="scripture">For if I build again the things which I destroyed, I make myself a trans gressor.
+    </div>
+    <br>
+    <div class="scripture">
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture"> 
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_1.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Gal.갈2:19 내가 율법을 통해서 율법에 대해 죽은 것은 하나님을 향해 살고자 함이라 
       </b>
     </div>
     <br>
@@ -466,7 +519,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:20 나는 그리스도와 함께 십 자가에 못 박혔으나 내가 아직 살아있 는 것은 내가 아니요 그리스도가 나의 안에 사는 것이니 지금 내가 육신으로 사는 삶은 나를 사랑하여 나를 위해 자 신을 내어 주신 하나님의 아들에 대한 신앙으로 사는 것이라 
+      <b>Gal.갈2:20 나는 그리스도와 함께 십자가에 못 박혔으나 내가 아직 살아있는 것은 내가 아니요 그리스도가 나의 안에 사는 것이니 지금 내가 육신으로 사는 삶은 나를 사랑하여 나를 위해 자신을 내어 주신 하나님의 아들에 대한 신앙으로 사는 것이라 
       </b>
     </div>
     <br>
@@ -492,7 +545,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈2:21 나는 하나님의 은혜를 폐 하지 않노니 의로움이 율법을 통해 오 는 것이면 그리스도는 헛되이 죽은 것 이니라 
+      <b>Gal.갈2:21 나는 하나님의 은혜를 폐하지 않노니 의로움이 율법을 통해 오는 것이면 그리스도는 헛되이 죽은 것 이니라 
       </b>
     </div>
     <br>
@@ -508,7 +561,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_15.jpg'>
+    <img src='../../pictures/picture_5.jpg'>
   </div>
 </div>
 

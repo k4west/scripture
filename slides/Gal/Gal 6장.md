@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:1, JST6:1 형제들아 어떤 사 람이 잘못에 빠지면 영적인 너희는 온 유한 영으로 그런 자를 회복하 고 너 자 신을 살펴서 너 또한 시험받지 않도록 하라 
+      <b>Gal.갈6:1, JST6:1 형제들아 어떤 사람이 잘못에 빠지면 영적인 너희는 온유한 영으로 그런 자를 회복하고 너 자신을 살펴서 너 또한 시험받지 않도록 하라 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:2 너희는 서로의 짐을 져서 그리스도의 율법을 성취하 라 
+      <b>Gal.갈6:2 너희는 서로의 짐을 져서 그리스도의 율법을 성취하라 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:3 어떤 사람이 자기가 아무 것도 아니면서 무엇이 된 것으로 생각 하면 그는 자기를 속이는 것이라 
+      <b>Gal.갈6:3 어떤 사람이 자기가 아무 것도 아니면서 무엇이 된 것으로 생각하면 그는 자기를 속이는 것이라 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:4 그러나 각 사람이 자기 행 위를 입증하면 기뻐할 것이 자기 안에 만 있고 다른 사람 안에는 있지 않으리 니 
+      <b>Gal.갈6:4 그러나 각 사람이 자기 행위를 입증하면 기뻐할 것이 자기 안에만 있고 다른 사람 안에는 있지 않으리니 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:5 이는 각 사람이 자기 짐을 져야 할 것임이 라 
+      <b>Gal.갈6:5 이는 각 사람이 자기 짐을 져야 할 것임이라 
       </b>
     </div>
     <br>
@@ -110,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:6 말씀 안에서 배우는 자는 모든 선한 것으로 가르치 시는 이와 소 통하라 
+      <b>Gal.갈6:6 말씀 안에서 배우는 자는 모든 선한 것으로 가르치시는 이와 소통하라 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:7 속지 말라 하나님은 조롱 받지 않나니 이는 사람이 무엇을 뿌리 든지 그대로 거둘 것임이 라 
+      <b>Gal.갈6:7 속지 말라 하나님은 조롱 받지 않나니 이는 사람이 무엇을 뿌리든지 그대로 거둘 것임이라 
       </b>
     </div>
     <br>
@@ -136,7 +136,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:8 자기 육신을 위해 뿌리는 자는 육신으로부터 부패함 을 거둘 것이 나 성령을 위해 뿌리는 자는 성령으로 부터 영생을 거두리라 
+      <b>Gal.갈6:8 자기 육신을 위해 뿌리는 자는 육신으로부터 부패함을 거둘 것이나 성령을 위해 뿌리는 자는 성령으로부터 영생을 거두리라 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:9 선을 행하는 가운데 지치 지 말자 우리가 낙심하지 않으면 적절 한 시기에 거두리라 
+      <b>Gal.갈6:9 선을 행하는 가운데 지치지 말자 우리가 낙심하지 않으면 적절한 시기에 거두리라 
       </b>
     </div>
     <br>
@@ -162,7 +162,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:10 그러므로 기회가 되는 대 로 모든 사람에게 선을 행하되 특별히 신앙의 권속에 속한 자들에 게 하자 
+      <b>Gal.갈6:10 그러므로 기회가 되는 대로 모든 사람에게 선을 행하되 특별히 신앙의 권속에 속한 자들에게 하자 
       </b>
     </div>
     <br>
@@ -188,15 +188,15 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:12, JST6:12 육신에 모양을 내기 원하는 자들이 너희에게 할례받도 록 강요하는 것은 단지 그들이 그리스 도의 십자가로 인한 박해를 받지 않으 려는 것뿐이니 
+      <b> 
       </b>
     </div>
     <br>
-    <div class="scripture">As many as desire to make a fair show in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ. 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_13.jpg'>
+    <img src='../../pictures/picture_14.jpg'>
   </div>
 </div>
 
@@ -206,7 +206,32 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:13 할례받은 그들 자신도 율 법을 지키지 않으면서 너희로 하여금 할례받 게 하려는 것은 그들이 너희 육 신으로 자랑하 려 함이라 
+      <b>Gal.갈6:12, JST6:12 육신에 모양을 내기 원하는 자들이 너희에게 할례받도록 강요하는 것은 단지 그들이 그리스도의 십자가로 인한 박해를 받지 않으려는 것뿐이니
+      </b>
+    </div>
+    <br>
+    <div class="scripture">As many as desire to make a fair show in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ. 
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_13.jpg'>
+  </div>
+</div>
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Gal.갈6:13 할례받은 그들 자신도 율법을 지키지 않으면서 너희로 하여금 할례받게 하려는 것은 그들이 너희 육신으로 자랑하려 함이라 
       </b>
     </div>
     <br>
@@ -232,7 +257,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:14 그러나 나는 우리 주 예 수 그리스도 의 십자가 외에는 결코 자 랑하지 않으리니 그를 통해 세상은 나 에 대해 십자가에 못 박혔고 나는 세상 에 대해 못 박혔느 니라 
+      <b>Gal.갈6:14 그러나 나는 우리 주 예수 그리스도의 십자가 외에는 결코 자랑하지 않으리니 그를 통해 세상은 나에 대해 십자가에 못 박혔고 나는 세상에 대해 못 박혔느니라 
       </b>
     </div>
     <br>
@@ -258,7 +283,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈6:15 예수 그리스도 안에서는 할례나 무할례나 아무런 유익이 없고 새로운 피조물이 되는 것이 중요하 니라 
+      <b>Gal.갈6:15 예수 그리스도 안에서는 할례나 무할례나 아무런 유익이 없고 새로운 피조물이 되는 것이 중요하니라 
       </b>
     </div>
     <br>
@@ -292,7 +317,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈6:18 형제들아 우리 주 예수 그리스도의 은혜가 너희 영과 함께하기 를 원하노라 아멘 
+      <b>Gal.갈6:18 형제들아 우리 주 예수 그리스도의 은혜가 너희 영과 함께하기를 원하노라 아멘 
       </b>
     </div>
     <br>

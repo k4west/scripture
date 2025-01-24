@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:1 너는 올바른 교리가 되 는 것을 말하여 
+      <b>Titus 딛2:1 너는 올바른 교리가 되는 것을 말하여 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Titus 딛2:2 연로한 남자로 하여금 진지하고 신중하고 자제하며 신앙과 사 랑과 인내 안에서 올바르 게 행하도록 하라 
+      <b>Titus 딛2:2 연로한 남자로 하여금 진지하고 신중하고 자제하며 신앙과 사랑과 인내 안에서 올바르게 행하도록 하라 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Titus 딛2:4 그들이 젊은 여자를 가 르쳐 진지하게 하고 남편을 사랑하고 자녀를 사랑하며 
+      <b>Titus 딛2:4 그들이 젊은 여자를 가르쳐 진지하게 하고 남편을 사랑하고 자녀를 사랑하며 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:5 신중하고 정숙하고 가정 을 돌보고 선하고 남편에게 순종하게 하여 하나님의 말씀이 모독받지 않게 하라 
+      <b>Titus 딛2:5 신중하고 정숙하고 가정을 돌보고 선하고 남편에게 순종하게 하여 하나님의 말씀이 모독받지 않게 하라 
       </b>
     </div>
     <br>
@@ -110,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Titus 딛2:6, JST2:6 젊은 남자도 이 렇게 진지한 마음이 되도록 권고하 고 
+      <b>Titus 딛2:6, JST2:6 젊은 남자도 이렇게 진지한 마음이 되도록 권고하고 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:7, JST2:7 모든 일에서 너 자신이 선한 일의 본을 보이되 교리 안 에서 순수함 과 신중함과 진실함 을 보이 며 
+      <b>Titus 딛2:7, JST2:7 모든 일에서 너 자신이 선한 일의 본을 보이되 교리 안에서 순수함과 신중함과 진실함을 보이며 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:8 비난받을 수 없는 올바 른 말을 하여 반대파에 속한 자로 하여 금 너에 관해 악한 말을 하지 못하고 부끄럽게 하라 
+      <b>Titus 딛2:8 비난받을 수 없는 올바른 말을 하여 반대파에 속한 자로 하여금 너에 관해 악한 말을 하지 못하고 부끄럽게 하라 
       </b>
     </div>
     <br>
@@ -206,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:11, JST2:11 모든 사람에 게 구원을 가져오시는 하나님의 은혜가 나타나 서 
+      <b>Titus 딛2:11, JST2:11 모든 사람에게 구원을 가져오시는 하나님의 은혜가 나타나서 
       </b>
     </div>
     <br>
@@ -214,7 +214,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Titus 딛2:12 우리를 가르쳐 경건하 지 않은 것과 세상의 탐욕을 부인하 게 하고 이 현세에서 진지하고 의롭고 경 건하게 살게 하며 
+      <b>Titus 딛2:12 우리를 가르쳐 경건하지 않은 것과 세상의 탐욕을 부인하게 하고 이 현세에서 진지하고 의롭고 경건하게 살게 하며 
       </b>
     </div>
     <br>
@@ -232,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:13, JST2:13 복된 소망과 크신 하나님 과 우리의 구원자 예수 그 리스도의 영광스러운 나타남 을 고대하 게 했나니 
+      <b>Titus 딛2:13, JST2:13 복된 소망과 크신 하나님과 우리의 구원자 예수 그리스도의 영광스러운 나타남을 고대하게 했나니 
       </b>
     </div>
     <br>
@@ -258,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Titus 딛2:14 그가 우리를 위해 자기 를 내준 것은 모든 간악함 으로부터 우 리를 대속하여 자기 앞에 정결하고 선 한 일에 열심인 특별한 백성이 되게 하 려 함이라 
+      <b>Titus 딛2:14 그가 우리를 위해 자기를 내준 것은 모든 간악함으로부터 우리를 대속하여 자기 앞에 정결하고 선한 일에 열심인 특별한 백성이 되게 하려 함이라 
       </b>
     </div>
     <br>
@@ -266,7 +266,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Titus 딛2:15 이런 것을 말하고 권고 하며 모든 권세로 꾸짖어 아무도 너를 멸시하지 못하게 하라 
+      <b>Titus 딛2:15 이런 것을 말하고 권고하며 모든 권세로 꾸짖어 아무도 너를 멸시하지 못하게 하라 
       </b>
     </div>
     <br>

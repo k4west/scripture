@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:1 주인들아 너희에게도 하늘 에 주인이 있음을 알고 너희 종들에게 정의와 공평을 베풀라 
+      <b>Col.골4:1 주인들아 너희에게도 하늘에 주인이 있음을 알고 너희 종들에게 정의와 공평을 베풀라 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Col.골4:2 계속해서 기도하 는 가운데 감사함으로 깨어있으라 
+      <b>Col.골4:2 계속해서 기도하는 가운데 감사함으로 깨어있으라 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:3 또한 하나님이 우리에게 말씀의 문을 열어 주어 우리가 그리스 도의 비밀을 말하도록 우리를 위해 기 도하라 나 또한 그것을 위해 매인 바 되었나니 
+      <b>Col.골4:3 또한 하나님이 우리에게 말씀의 문을 열어 주어 우리가 그리스도의 비밀을 말하도록 우리를 위해 기도하라 나 또한 그것을 위해 매인 바 되었나니 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Col.골4:4 이는 나로 하여금 마땅히 말해야 할 것을 밝히 드러내게 하려 함 이라 
+      <b>Col.골4:4 이는 나로 하여금 마땅히 말해야 할 것을 밝히 드러내게 하려 함이라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:5 밖에 있는 자들을 향해서 는 지혜롭게 행하여 때를 활용하라 
+      <b>Col.골4:5 밖에 있는 자들을 향해서는 지혜롭게 행하여 때를 활용하라 
       </b>
     </div>
     <br>
@@ -110,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Col.골4:6 너희 말을 소금으로 맛을 내는 것처럼 항상 은혜롭게 하여 각 사 람에게 마땅히 대답할 것을 알도록 하 라 
+      <b>Col.골4:6 너희 말을 소금으로 맛을 내는 것처럼 항상 은혜롭게 하여 각 사람에게 마땅히 대답할 것을 알도록 하라 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:7, JST4:7 두기고가 나의 모 든 사정을 너희에게 알려주리니 그는 사랑하는 형제요 주 안에서 신실한 성 역자요 동료 종이니라 
+      <b>Col.골4:7, JST4:7 두기고가 나의 모든 사정을 너희에게 알려주리니 그는 사랑하는 형제요 주 안에서 신실한 성역자요 동료 종이니라 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:8, JST4:8 내가 그를 너희에 게 보낸 것은 같은 목적이니 그로 하여 금 너희 사정을 알고 너희 마음을 위로 하게 하려 함이요 
+      <b>Col.골4:8, JST4:8 내가 그를 너희에게 보낸 것은 같은 목적이니 그로 하여금 너희 사정을 알고 너희 마음을 위로하게 하려 함이요 
       </b>
     </div>
     <br>
@@ -206,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:10, JST4:10 나와 함께 갇힌 자 된 아리스다고와 바나바의 조카 마 가와 (마가에 관해서 는 너희가 명받았 으니 그가 너희에게 가면 그를 받아들 이라) 
+      <b>Col.골4:10, JST4:10 나와 함께 갇힌 자 된 아리스다고와 바나바의 조카 마가와 (마가에 관해서는 너희가 명받았으니 그가 너희에게 가면 그를 받아들이라) 
       </b>
     </div>
     <br>
@@ -232,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:11, JST4:11 유스도라 하는 예수가 너희에게 인사하 느니라 그들은 할례자에 속한 사람들이 니 이들만이 하 나님의 왕국에서 나의 동역자들이 요 나 에게 위로가 되었던 자들이라 
+      <b>Col.골4:11, JST4:11 유스도라 하는 예수가 너희에게 인사하느니라 그들은 할례자에 속한 사람들이니 이들만이 하나님의 왕국에서 나의 동역자들이요 나에게 위로가 되었던 자들이라 
       </b>
     </div>
     <br>
@@ -258,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:12, JST4:12 너희 가운데 하 나요 그리스도의 종인 에바브라가 너희 에게 인사하 느니라 그는 너희가 하나님 의 모든 뜻 안에서 완전하게 서고 완성 되도록 너희를 위해 항상 기도하며 열 심히 수고하나니 
+      <b>Col.골4:12, JST4:12 너희 가운데 하나요 그리스도의 종인 에바브라가 너희에게 인사하느니라 그는 너희가 하나님의 모든 뜻 안에서 완전하게 서고 완성 되도록 너희를 위해 항상 기도하며 열심히 수고하나니 
       </b>
     </div>
     <br>
@@ -284,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:13 내가 증언하거니와 그는 너희와 라오디게아와 히에라볼리에 있 는 자들을 위해 큰 열의가 있느니라 
+      <b>Col.골4:13 내가 증언하거니와 그는 너희와 라오디게아와 히에라볼리에 있는 자들을 위해 큰 열의가 있느니라 
       </b>
     </div>
     <br>
@@ -292,7 +292,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Col.골4:14 사랑받는 의사 누가와 데 마가 너희에게 인사하느니라 
+      <b>Col.골4:14 사랑받는 의사 누가와 데마가 너희에게 인사하느니라 
       </b>
     </div>
     <br>
@@ -310,7 +310,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:15 라오디게아에 있는 형제 들과 눔바와 그의 집에 있는 교회에 인 사하라 
+      <b>Col.골4:15 라오디게아에 있는 형제들과 눔바와 그의 집에 있는 교회에 인사하라 
       </b>
     </div>
     <br>
@@ -318,11 +318,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Col.골4:16 이 편지를 너희 가운데서 읽은 후에 라오디게아 사람들의 교회에 서도 읽게 하고 또한 라오디게아 로부터 오는 편지를 너희가 읽으라 
+      <b>
       </b>
     </div>
     <br>
-    <div class="scripture">And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea. 
+    <div class="scripture"> 
     </div>         
   </div>
   <div class="image-container">
@@ -336,7 +336,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Col.골4:17 아깁보에게 일러 주 안에 서 너가 받은 성역에 주의를 기울여 그 것을 성취하 게 하라 
+      <b>Col.골4:16 이 편지를 너희 가운데서 읽은 후에 라오디게아 사람들의 교회에서도 읽게 하고 또한 라오디게아로부터 오는 편지를 너희가 읽으라
+      </b>
+    </div>
+    <br>
+    <div class="scripture">And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea. 
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_11.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Col.골4:17 아깁보에게 일러 주 안에서 너가 받은 성역에 주의를 기울여 그것을 성취하게 하라 
       </b>
     </div>
     <br>
@@ -344,7 +370,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Col.골4:18 나 바울은 친필로 인사하 노니 내가 매인 것을 기억하라 은혜가 너희와 함께하기를 원하노라 아멘 
+      <b>Col.골4:18 나 바울은 친필로 인사하노니 내가 매인 것을 기억하라 은혜가 너희와 함께하기를 원하노라 아멘 
       </b>
     </div>
     <br>

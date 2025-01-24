@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:1 그러므로 하늘의 부름에 참여한 거룩한 형제들 아 우리 믿음의 사도이며 대제사장이신 예수 그리스도 를 생각하라 
+      <b>Heb.히3:1 그러므로 하늘의 부름에 참여한 거룩한 형제들아 우리 믿음의 사도이며 대제사장이신 예수 그리스도를 생각하라 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:3, JST3:3 그가 모세보다 더 큰 영광에 합당하다고 헤아려 지는 것은 집을 지은 사람이 그 집보다 존귀 한 것과 같으니라 
+      <b>Heb.히3:3, JST3:3 그가 모세보다 더 큰 영광에 합당하다고 헤아려 지는 것은 집을 지은 사람이 그 집보다 존귀한 것과 같으니라 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:4 집마다 어떤 사람에 의해 지어졌으되 모든 것을 지으신 이는 하 나님이라 
+      <b>Heb.히3:4 집마다 어떤 사람에 의해 지어졌으되 모든 것을 지으신 이는 하나님이라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:5 모세는 주의 모든 집에서 종으로서 신실하여 이후에 말하는 것들 을 증거했으나 
+      <b>Heb.히3:5 모세는 주의 모든 집에서 종으로서 신실하여 이후에 말하는 것들을 증거했으나 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:6 그리스도는 자기 집을 다 스리는 아들로서 신실했나니 우리가 소 망의 확신과 기쁨을 끝까지 굳게 붙들 면 우리가 바로 그의 집이라 
+      <b>Heb.히3:6 그리스도는 자기 집을 다스리는 아들로서 신실했나니 우리가 소망의 확신과 기쁨을 끝까지 굳게 붙들면 우리가 바로 그의 집이라 
       </b>
     </div>
     <br>
@@ -136,7 +136,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:7, JST3:7 그러므로 성령이 이른 대로 오늘 너희가 그의 음성을 듣 거든 
+      <b>Heb.히3:7, JST3:7 그러므로 성령이 이른 대로 오늘 너희가 그의 음성을 듣거든 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:8 광야에서 시험의 날에 격 노하게 한 것처럼 너희 마음을 완악하 게 하지 말라 
+      <b>Heb.히3:8 광야에서 시험의 날에 격노하게 한 것처럼 너희 마음을 완악하게 하지 말라 
       </b>
     </div>
     <br>
@@ -162,7 +162,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:9 그때 너희 조상은 사십 년 동안 나를 시험하고 입증하 며 내가 행하는 일을 보았으므로 
+      <b>Heb.히3:9 그때 너희 조상은 사십 년 동안 나를 시험하고 입증하며 내가 행하는 일을 보았으므로 
       </b>
     </div>
     <br>
@@ -180,7 +180,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:10 내가 그 세대에 게 한탄 하여 이르기를 그들은 마음속으로 항상 잘못을 범하고 나의 길을 알지 못하는 도다 했으며 
+      <b>Heb.히3:10 내가 그 세대에게 한탄하여 이르기를 그들은 마음속으로 항상 잘못을 범하고 나의 길을 알지 못하는도다 했으며 
       </b>
     </div>
     <br>
@@ -206,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:12 형제들아 너희 가운데 불신앙의 악한 마음을 가진 자가 있어 살아계신 하나님으로부터 떠나지 않도 록 조심하고 
+      <b>Heb.히3:12 형제들아 너희 가운데 불신앙의 악한 마음을 가진 자가 있어 살아계신 하나님으로부터 떠나지 않도록 조심하고 
       </b>
     </div>
     <br>
@@ -214,11 +214,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:13, JST3:13 오늘이라 하는 동안 매일 서로 권고하여 너희 가운데 누구라도 죄의 속임으로 인해 완악하게 되지 않게 하라 
+      <b> 
       </b>
     </div>
     <br>
-    <div class="scripture">But exhort one another daily, while it is called Today ; lest any of you be hardened through the deceitfulness of sin. 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
@@ -232,7 +232,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:14 우리가 처음 확신을 끝 까지 굳건하게 붙들면 그리스도에 참여 하는 자가 되나니 
+      <b>Heb.히3:13, JST3:13 오늘이라 하는 동안 매일 서로 권고하여 너희 가운데 누구라도 죄의 속임으로 인해 완악하게 되지 않게 하라 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">But exhort one another daily, while it is called Today ; lest any of you be hardened through the deceitfulness of sin.  
+    </div>
+    <br>
+    <div class="scripture">
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_0.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Heb.히3:14 우리가 처음 확신을 끝까지 굳건하게 붙들면 그리스도에 참여하는 자가 되나니 
       </b>
     </div>
     <br>
@@ -240,7 +266,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:15, JST3:15 오늘 너희가 그의 음성을 듣거든 격노하게 하던 때 처럼 너희 마음을 완악하게 하지 말라 고 일렀거니와 
+      <b>Heb.히3:15, JST3:15 오늘 너희가 그의 음성을 듣거든 격노하게 하던 때처럼 너희 마음을 완악하게 하지 말라고 일렀거니와 
       </b>
     </div>
     <br>
@@ -258,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:16 어떤 사람들은 듣고도 격노하게 했느니라 그러나 모세를 통해 애굽에서 나온 모두가 그런 것은 아니 었느니라 
+      <b>Heb.히3:16 어떤 사람들은 듣고도 격노하게 했느니라 그러나 모세를 통해 애굽에서 나온 모두가 그런 것은 아니었느니라 
       </b>
     </div>
     <br>
@@ -266,11 +292,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:17, JST3:17 그러면 그가 누구에게 사십 년 동안 한탄했느냐 죄 를 지어 그 시체가 광야에 엎드러진 자 들에게가 아니냐 
+      <b>
       </b>
     </div>
     <br>
-    <div class="scripture">But with whom was he grieved forty years? was it not with them that had sinned, whose carcasses fell in the wilderness? 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
@@ -284,7 +310,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히3:18 또 그가 누구에게 맹세 하여 자기 안식에 들어오지 못하리라 했느냐 믿지 않은 자들에게가 아니냐 
+      <b>Heb.히3:17, JST3:17 그러면 그가 누구에게 사십 년 동안 한탄했느냐 죄를 지어 그 시체가 광야에 엎드러진 자들에게가 아니냐 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">But with whom was he grieved forty years? was it not with them that had sinned, whose carcasses fell in the wilderness?
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture"> 
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_7.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Heb.히3:18 또 그가 누구에게 맹세하여 자기 안식에 들어오지 못하리라 했느냐 믿지 않은 자들에게가 아니냐 
       </b>
     </div>
     <br>
@@ -292,7 +344,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히3:19 그러므로 그들이 들어가 지 못한 것은 불신앙 때문임을 우리가 아느니라 
+      <b>Heb.히3:19 그러므로 그들이 들어가지 못한 것은 불신앙 때문임을 우리가 아느니라 
       </b>
     </div>
     <br>

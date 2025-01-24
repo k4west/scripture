@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:2, JST6:2 너희 아버지와 어 머니를 공경하라 그것은 약속이 있는 첫 계명이니 
+      <b>Eph.엡6:2, JST6:2 너희 아버지와 어머니를 공경하라 그것은 약속이 있는 첫 계명이니 
       </b>
     </div>
     <br>
@@ -66,7 +66,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_174.jpg'>
+    <img src='../../pictures/picture_175.jpg'>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:3 그것은 너희가 잘되고 너 희로 하여금 땅에서 장수하게 하려 함 이라 
+      <b>Eph.엡6:3 그것은 너희가 잘되고 너희로 하여금 땅에서 장수하게 하려 함이라 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:4 아버지들아 너희 자녀를 분노하게 하지 말고 주의 교훈과 훈계 로 양육하 라 
+      <b>Eph.엡6:4 아버지들아 너희 자녀를 분노하게 하지 말고 주의 교훈과 훈계로 양육하라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:5 종들아 육신에 따라 너희 주인 된 자들에게 순종하기를 그리스도 에게 하는 것처럼 순전한 마음 가운데 두려움과 떨림으로 하되 
+      <b>Eph.엡6:5 종들아 육신에 따라 너희 주인된 자들에게 순종하기를 그리스도에게 하는 것처럼 순전한 마음 가운데 두려움과 떨림으로 하되 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:6, JST6:6 사람을 기쁘게 하 는 자처럼 눈가림으로 하지 말고 그리 스도의 종으로서 마음으로부터 하나님 의 뜻을 행하여 
+      <b>Eph.엡6:6, JST6:6 사람을 기쁘게 하는 자처럼 눈가림으로 하지 말고 그리스도의 종으로서 마음으로부터 하나님의 뜻을 행하여
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:8 어떤 사람이 무엇이든 선 한 일을 하면 매인 자나 자유로운 자나 똑같은 상을 주로부터 받을 것을 너희 가 아느니라 
+      <b>Eph.엡6:8 어떤 사람이 무엇이든 선한 일을 하면 매인 자나 자유로운 자나 똑같은 상을 주로부터 받을 것을 너희가 아느니라 
       </b>
     </div>
     <br>
@@ -180,7 +180,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:9 주인들아 너희도 그들에 게 위협을 그치고 똑같이 행하라 너희 주인도 하늘에 있고 그는 사람을 차별 하여 대하는 일이 없는 것을 너희가 아 느니라 
+      <b>Eph.엡6:9 주인들아 너희도 그들에게 위협을 그치고 똑같이 행하라 너희 주인도 하늘에 있고 그는 사람을 차별하여 대하는 일이 없는 것을 너희가 아느니라 
       </b>
     </div>
     <br>
@@ -206,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:10 마지막으로 나의 형제들 아 주 안에서 그리고 그의 능력의 권능 안에서 강하게 되라 
+      <b>Eph.엡6:10 마지막으로 나의 형제들아 주 안에서 그리고 그의 능력의 권능 안에서 강하게 되라 
       </b>
     </div>
     <br>
@@ -214,7 +214,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:11, JST6:11 하나님의 전신 갑주를 입어 악마의 간교한 계략에 맞 설 수 있도록 하라 
+      <b>Eph.엡6:11, JST6:11 하나님의 전신 갑주를 입어 악마의 간교한 계략에 맞설 수 있도록 하라 
       </b>
     </div>
     <br>
@@ -232,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:12 우리의 씨름은 살과 피 를 대적하는 것이 아니요 주권들과 권 능들을 대적하고 이 세상 어둠의 통치 자들을 대적하고 높은 곳에 있는 영적 인 사악함을 대적하는 것이므로 
+      <b>Eph.엡6:12 우리의 씨름은 살과 피를 대적하는 것이 아니요 주권들과 권능들을 대적하고 이 세상 어둠의 통치 자들을 대적하고 높은 곳에 있는 영적인 사악함을 대적하는 것이므로 
       </b>
     </div>
     <br>
@@ -258,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:13, JST6:13 하나님의 전신 갑주를 취하여 악한 시대에 맞서고 모 든 일을 완수하여 서도록 하라 
+      <b>Eph.엡6:13, JST6:13 하나님의 전신 갑주를 취하여 악한 시대에 맞서고 모든 일을 완수하여 서도록 하라 
       </b>
     </div>
     <br>
@@ -266,7 +266,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:14 그러므로 진리로 허리에 띠를 띠고 의로움의 가슴판을 입고 일 어서서 
+      <b>Eph.엡6:14 그러므로 진리로 허리에 띠를 띠고 의로움의 가슴판을 입고 일어서서 
       </b>
     </div>
     <br>
@@ -284,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:15 평화의 복음에 관한 준 비로 너의 발에 신을 신되 
+      <b>Eph.엡6:15 평화의 복음에 관한 준비로 너의 발에 신을 신되 
       </b>
     </div>
     <br>
@@ -318,7 +318,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:18 성령 안에서 모든 기도 와 간구로 항상 기도하고 모든 성도를 위한 모든 끈기와 간구로 깨어 살피며 
+      <b>Eph.엡6:18 성령 안에서 모든 기도와 간구로 항상 기도하고 모든 성도를 위한 모든 끈기와 간구로 깨어 살피며 
       </b>
     </div>
     <br>
@@ -344,7 +344,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:20 내가 그것을 위해 결박 당한 대사가 된 것은 나로 하여금 그 안에서 마땅히 말해야 할 것을 담대히 말할 수 있게 하려 함이라 
+      <b>Eph.엡6:20 내가 그것을 위해 결박당한 대사가 된 것은 나로 하여금 그 안에서 마땅히 말해야 할 것을 담대히 말할 수 있게 하려 함이라 
       </b>
     </div>
     <br>
@@ -362,7 +362,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:21 그러나 나의 사정과 내 가 어떻게 하는지를 너희도 알게 하노 니 사랑하는 형제요 주 안에서 신실한 성역자인 두기고가 모든 것을 너희에게 알려주리라 
+      <b>Eph.엡6:21 그러나 나의 사정과 내가 어떻게 하는지를 너희도 알게 하노니 사랑하는 형제요 주 안에서 신실한 성역자인 두기고가 모든 것을 너희에게 알려주리라 
       </b>
     </div>
     <br>
@@ -388,7 +388,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:22 나는 이같은 목적으로 그를 너희에게 보냈나니 이는 너희로 하여금 우리 사정을 알게 하려 함이요 그가 너희 마음을 위로하게 하려 함이 니라 
+      <b>Eph.엡6:22 나는 이같은 목적으로 그를 너희에게 보냈나니 이는 너희로 하여금 우리 사정을 알게 하려 함이요 그가 너희 마음을 위로하게 하려 함이니라 
       </b>
     </div>
     <br>
@@ -396,11 +396,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡6:23 아버지 하나님과 주 예 수 그리스도 로부터 오는 평강과 신앙이 함께하는 사랑이 형제들에게 있기를 원 하고 
+      <b>
       </b>
     </div>
     <br>
-    <div class="scripture">Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. 
+    <div class="scripture"> 
     </div>         
   </div>
   <div class="image-container">
@@ -409,12 +409,36 @@ style: |
 </div>
 
 ---
-
 <div class="columns">
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡6:24 우리 주 예수 그리스도 를 진실하게 사랑하는 모든 사람에게 은혜가 함께하 기를 원하노라 아멘 
+      <b>Eph.엡6:23 아버지 하나님과 주 예수 그리스도로부터 오는 평강과 신앙이 함께하는 사랑이 형제들에게 있기를 원하고 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. 
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture"> 
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_3.jpg'>
+  </div>
+</div>
+
+---
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Eph.엡6:24 우리 주 예수 그리스도를 진실하게 사랑하는 모든 사람에게 은혜가 함께하기를 원하노라 아멘 
       </b>
     </div>
     <br>

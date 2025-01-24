@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:1 사람이 감독 직분을 원하면 선한 일을 원하는 것이라 는 이 말이 참되도다 
+      <b>1Tim. 딤전 3:1 사람이 감독 직분을 원하면 선한 일을 원하는 것이라는 이 말이 참되도다 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:2, JST3:2 그러므로 감 독은 흠이 없고 한 아내의 남편이 요 깨 어있으며 진지하고 행실이 선하며 손님 대접하기를 힘쓰고 가르치기를 잘하며 
+      <b>1Tim. 딤전 3:2, JST3:2 그러므로 감독은 흠이 없고 한 아내의 남편이요 깨어있으며 진지하고 행실이 선하며 손님 대접하기를 힘쓰고 가르치기를 잘하며 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:3 술에 빠지지 않고 때 리지 않으며 더러운 이익을 탐내지 않 고 인내하 며 다투지 않고 탐욕을 부리 지 않으며 
+      <b>1Tim. 딤전 3:3 술에 빠지지 않고 때리지 않으며 더러운 이익을 탐내지 않고 인내하며 다투지 않고 탐욕을 부리지 않으며 
       </b>
     </div>
     <br>
@@ -102,15 +102,15 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전3:5 (사람이 자기 집을 다 스릴 줄 알지 못하면 어떻게 하나님의 교회를 돌보겠느냐 ) (
+      <b>1Tim. 딤전3:5 (사람이 자기 집을 다스릴 줄 알지 못하면 어떻게 하나님의 교회를 돌보겠느냐) 
       </b>
     </div>
     <br>
-    <div class="scripture">For if a man know not how to rule his own house, how shall he take care of the church of God?) 
+    <div class="scripture">(For if a man know not how to rule his own house, how shall he take care of the church of God?) 
     </div>
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전3:6 교만으로 높아져서 악 마의 정죄에 빠지지 않도록 새로 입교 한 자가 아니어야 하며 
+      <b>1Tim. 딤전3:6 교만으로 높아져서 악마의 정죄에 빠지지 않도록 새로 입교한 자가 아니어야 하며 
       </b>
     </div>
     <br>
@@ -136,11 +136,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:8, JST3:8 이와 마찬가 지로 집사들도 신중하고 일구이언하지 않고 술에 빠지지 않고 더러운 이익을 탐내지 않으며 
+      <b>
       </b>
     </div>
     <br>
-    <div class="scripture">Likewise the deacons must be grave, not double -tongued , not given to much wine, not greedy of filthy lucre; 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
@@ -154,7 +154,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전3:9 정결한 양심으로 신앙 의 비밀을 가진 자라야 하되 
+      <b>1Tim. 딤전 3:8, JST3:8 이와 마찬가지로 집사들도 신중하고 일구이언하지 않고 술에 빠지지 않고 더러운 이익을 탐내지 않으며 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">Likewise the deacons must be grave, not double -tongued , not given to much wine, not greedy of filthy lucre; 
+    </div>
+    <br>
+    <div class="scripture">
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_6.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>1Tim. 딤전3:9 정결한 양심으로 신앙의 비밀을 가진 자라야 하되 
       </b>
     </div>
     <br>
@@ -162,7 +188,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:10 이런 사람들 도 먼저 입증하고 나서 흠이 없으면 집사의 직 분을 맡길 것이요 
+      <b>1Tim. 딤전 3:10 이런 사람들도 먼저 입증하고 나서 흠이 없으면 집사의 직분을 맡길 것이요 
       </b>
     </div>
     <br>
@@ -180,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:11 그들의 아내들도 신 중하고 험담하는 자가 되지 않고 진지 하며 모든 일에 신실한 자라야 하느니 라 
+      <b>1Tim. 딤전 3:11 그들의 아내들도 신중하고 험담하는 자가 되지 않고 진지하며 모든 일에 신실한 자라야 하느니라 
       </b>
     </div>
     <br>
@@ -206,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전3:13 집사의 직분을 잘 수 행한 사람들은 자기를 위해 좋은 지위 를 얻으며 예수 그리스도 에 대한 신앙 안에서 큰 담대함을 얻느니라 
+      <b>1Tim. 딤전3:13 집사의 직분을 잘 수행한 사람들은 자기를 위해 좋은 지위를 얻으며 예수 그리스도에 대한 신앙 안에서 큰 담대함을 얻느니라 
       </b>
     </div>
     <br>
@@ -214,7 +240,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전3:14 내가 너에게 속히 가 기를 소망하며 이것을 쓰거니와 
+      <b>1Tim. 딤전3:14 내가 너에게 속히 가기를 소망하며 이것을 쓰거니와 
       </b>
     </div>
     <br>
@@ -232,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:15 내가 오래 지체하면 하나님의 집 곧 살아계신 하나님의 교 회에서 어떻게 처신해야 할지를 너가 알기 바라노라 
+      <b>1Tim. 딤전 3:15 내가 오래 지체하면 하나님의 집 곧 살아계신 하나님의 교회에서 어떻게 처신해야 할지를 너가 알기 바라노라 
       </b>
     </div>
     <br>
@@ -258,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Tim. 딤전 3:16, JST3:16 진리의 기 둥과 터는 (논란의 여지 없이 경건의 비밀은 크도다) 하나님이 육신으로 나 타나 성령으로 의롭게 되고 천사들에게 보이고 이방인에게 전파되 고 세상에서 믿은 바 되어 영광 가운데 올려진 것이 라 
+      <b>1Tim. 딤전 3:16, JST3:16 진리의 기둥과 터는 (논란의 여지 없이 경건의 비밀은 크도다) 하나님이 육신으로 나타나 성령으로 의롭게 되고 천사들에게 보이고 이방인에게 전파되고 세상에서 믿은 바 되어 영광 가운데 올려진 것이라 
       </b>
     </div>
     <br>

@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:1 그러므로 지극히 사랑하 고 그리운 형제들 곧 나의 기쁨이요 왕 관인 지극히 사랑하는 자들아 주 안에 굳게 서라 
+      <b>Philip. 빌4:1 그러므로 지극히 사랑하고 그리운 형제들 곧 나의 기쁨이요 왕관인 지극히 사랑하는 자들아 주 안에 굳게 서라 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:2 내가 유오디아에게 간청 하며 순두게에게 간청하노니 주 안에서 같은 마음을 품으라 
+      <b>Philip. 빌4:2 내가 유오디아에게 간청하며 순두게에게 간청하노니 주 안에서 같은 마음을 품으라 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:3, JST4:3 또한 참된 동역 자인 너희에게 간청하노니 복음 안에서 나와 글레멘드 와 다른 나의 동료 일꾼 들과 함께 수고한 여자들을 도우라 그 들의 이름이 생명책 에 있느니라 
+      <b>Philip. 빌4:3, JST4:3 또한 참된 동역자인 너희에게 간청하노니 복음 안에서 나와 글레멘드와 다른 나의 동료 일꾼들과 함께 수고한 여자들을 도우라 그들의 이름이 생명책에 있느니라 
       </b>
     </div>
     <br>
@@ -110,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:5 모든 사람으로 하여금 너희 절제를 알게 하라 주가 가까우 니 라 
+      <b>Philip. 빌4:5 모든 사람으로 하여금 너희 절제를 알게 하라 주가 가까우니라 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:6, JST4:6 아무 일에도 괴 로워하지 말고 모든 일에 감사함으로 기도하고 간구하여 너희 요청을 하나님 께 알리라 
+      <b>Philip. 빌4:6, JST4:6 아무 일에도 괴로워하지 말고 모든 일에 감사함으로 기도하고 간구하여 너희 요청을 하나님께 알리라 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:7 그러면 모든 이해력을 뛰어넘는 하나님의 평강이 예수 그리스 도를 통해 너희 마음과 생각을 지키리 라 
+      <b>Philip. 빌4:7 그러면 모든 이해력을 뛰어넘는 하나님의 평강이 예수 그리스도를 통해 너희 마음과 생각을 지키리라 
       </b>
     </div>
     <br>
@@ -180,7 +180,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:8 마지막으로 형제들아 무 엇이든 참되고 무엇이든 정직하고 무엇 이든 의롭고 무엇이든 정결하고 무엇이 든 사랑스럽고 무엇이든 선한 평판이 있으면 거기에 어떤 유덕한 것이 있으 며 어떤 칭찬할 만한 것이 있는지 이것 들을 생각하라 
+      <b>Philip. 빌4:8 마지막으로 형제들아 무엇이든 참되고 무엇이든 정직하고 무엇이든 의롭고 무엇이든 정결하고 무엇이든 사랑스럽고 무엇이든 선한 평판이 있으면 거기에 어떤 유덕한 것이 있으며 어떤 칭찬할 만한 것이 있는지 이것들을 생각하라 
       </b>
     </div>
     <br>
@@ -206,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:9 너희가 배우고 받고 듣 고 나의 안에서 본 것을 행하라 그리하 면 평강의 하나님이 너희와 함께하리라 
+      <b>Philip. 빌4:9 너희가 배우고 받고 듣고 나의 안에서 본 것을 행하라 그리하면 평강의 하나님이 너희와 함께하리라 
       </b>
     </div>
     <br>
@@ -232,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:10 그러나 너희가 나를 생각하는 마음이 결국 다시 넘치게 된 것을 주 안에서 크게 기뻐하 노니 너희 도 그것에 대해 염려했으나 너희에게 기회가 없었느니라 
+      <b>Philip. 빌4:10 그러나 너희가 나를 생각하는 마음이 결국 다시 넘치게 된 것을 주 안에서 크게 기뻐하노니 너희도 그것에 대해 염려했으나 너희에게 기회가 없었느니라 
       </b>
     </div>
     <br>
@@ -258,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:11 나는 궁핍함에 관해 말하는 것이 아니니 이는 내가 어떤 처 지에 있든지 그것으로 만족하는 법을 배웠음이라 
+      <b>Philip. 빌4:11 나는 궁핍함에 관해 말하는 것이 아니니 이는 내가 어떤 처지에 있든지 그것으로 만족하는 법을 배웠음이라 
       </b>
     </div>
     <br>
@@ -284,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:12, JST4:12 나는 비천에 처할 줄도 알고 풍부에 처할 줄도 아노 니 어디서나 모든 일에서 배고픔과 굶 주림과 풍족함과 궁핍에 처하는 법을 배웠노라 
+      <b>Philip. 빌4:12, JST4:12 나는 비천에 처할 줄도 알고 풍부에 처할 줄도 아노니 어디서나 모든 일에서 배고픔과 굶주림과 풍족함과 궁핍에 처하는 법을 배웠노라 
       </b>
     </div>
     <br>
@@ -292,11 +292,37 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:13 나를 강하게 하시는 그리스도를 통해서 나는 모든 일을 할 수 있느니라 
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_13.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Philip. 빌4:13 나를 강하게 하시는 그리스도를 통해서 나는 모든 일을 할 수 있느니라
       </b>
     </div>
     <br>
     <div class="scripture">I can do all things through Christ which strengtheneth me. 
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
@@ -310,7 +336,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:14 그럼에도 불구하고 너 희가 나의 고난에 참여한 것은 잘한 일 이라 
+      <b>Philip. 빌4:14 그럼에도 불구하고 너희가 나의 고난에 참여한 것은 잘한 일이라 
       </b>
     </div>
     <br>
@@ -336,7 +362,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:15 빌립보 사람들아 너희 도 알거니와 복음의 초기에 내가 마케 도니아 로부터 떠날 때 주고 받는 일에 서 나와 함께 참여한 교회가 너희밖에 없었느니라 
+      <b>Philip. 빌4:15 빌립보 사람들아 너희도 알거니와 복음의 초기에 내가 마케도니아로부터 떠날 때 주고 받는 일에서 나와 함께 참여한 교회가 너희밖에 없었느니라 
       </b>
     </div>
     <br>
@@ -362,7 +388,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:16 데살로니가에 있을 때 에도 너희가 한 두 번 나에게 쓸 것을 보냈으나 
+      <b>Philip. 빌4:16 데살로니가에 있을 때에도 너희가 한두 번 나에게 쓸 것을 보냈으나 
       </b>
     </div>
     <br>
@@ -414,7 +440,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:19 그러나 나의 하나님은 예수 그리스도 를 통한 영광 안에서 그 의 부요함에 따라 너희에게 필요한 모 든 것을 공급해 주리니 
+      <b>Philip. 빌4:19 그러나 나의 하나님은 예수 그리스도를 통한 영광 안에서 그의 부요함에 따라 너희에게 필요한 모든 것을 공급해 주리니 
       </b>
     </div>
     <br>
@@ -422,7 +448,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:20, JST4:20 하나님 우리 아버지 께 영광이 영원히 있기를 원하노 라 아멘 
+      <b>Philip. 빌4:20, JST4:20 하나님 우리 아버지께 영광이 영원히 있기를 원하노라 아멘 
       </b>
     </div>
     <br>
@@ -440,7 +466,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:21 예수 그리스도 안에 있는 모든 성도에게 인사하라 나와 함 께 있는 형제들이 너희에게 인사하느니 라 
+      <b>Philip. 빌4:21 예수 그리스도 안에 있는 모든 성도에게 인사하라 나와 함께 있는 형제들이 너희에게 인사하느니라 
       </b>
     </div>
     <br>
@@ -466,7 +492,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Philip. 빌4:23 우리 주 예수 그리스 도의 은혜가 너희 모두와 함께하기를 원하노라 아멘 
+      <b>Philip. 빌4:23 우리 주 예수 그리스도의 은혜가 너희 모두와 함께하기를 원하노라 아멘 
       </b>
     </div>
     <br>

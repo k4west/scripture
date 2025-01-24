@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:1 그러므로 너희는 사랑스 러운 자녀처럼 하나님을 따르는 자가 되고 
+      <b>Eph.엡5:1 그러므로 너희는 사랑스러운 자녀처럼 하나님을 따르는 자가 되고 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:2, JST5:2 그리스도가 우리 를 사랑하여 우리를 위해 자신을 감미 로운 냄새를 위한 헌물과 희생물로 하 나님께 드린 것처럼 사랑 안에서 행하 라 
+      <b>Eph.엡5:2, JST5:2 그리스도가 우리를 사랑하여 우리를 위해 자신을 감미로운 냄새를 위한 헌물과 희생물로 하나님께 드린 것처럼 사랑 안에서 행하라 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:3 성도된 자로서 간음과 모 든 부정함이나 탐욕은 너희 가운데 한 번도 언급되게 하지 말고 
+      <b>Eph.엡5:3 성도된 자로서 간음과 모든 부정함이나 탐욕은 너희 가운데 한 번도 언급되게 하지 말고 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:4 더러움이나 어리석은 대 화나 농담도 적합하지 않으니 오히려 감사하 는 말을 하라 
+      <b>Eph.엡5:4 더러움이나 어리석은 대화나 농담도 적합하지 않으니 오히려 감사하는 말을 하라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:5 너희가 이것을 알거니와 간음하는 자나 부정한 자나 탐욕을 부 리는 자 곧 우상 숭배하는 자는 그리스 도와 하나님의 왕국에 아무런 유업이 없느니라 
+      <b>Eph.엡5:5 너희가 이것을 알거니와 간음하는 자나 부정한 자나 탐욕을 부리는 자 곧 우상 숭배하는 자는 그리스도와 하나님의 왕국에 아무런 유업이 없느니라 
       </b>
     </div>
     <br>
@@ -118,7 +118,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_92.jpg'>
+    <img src='../../pictures/picture_2.jpg'>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:6 아무도 너희를 헛된 말로 속이지 못하게 하라 이런 것 때문에 하 나님의 진노가 불순종의 자녀 위에 임 하나니 
+      <b>Eph.엡5:6 아무도 너희를 헛된 말로 속이지 못하게 하라 이런 것 때문에 하나님의 진노가 불순종의 자녀 위에 임하나니 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:8, JST5:8 너희는 한때 어둠 이었으나 지금은 너희가 주 안에서 빛 이 되었으니 빛의 자녀로서 행하여 
+      <b>Eph.엡5:8, JST5:8 너희는 한때 어둠이었으나 지금은 너희가 주 안에서 빛이 되었으니 빛의 자녀로서 행하여 
       </b>
     </div>
     <br>
@@ -162,11 +162,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:9 (성령의 열매는 모든 선과 의로움과 진리 안에 있느니라 ) (
+      <b>Eph.엡5:9 (성령의 열매는 모든 선과 의로움과 진리 안에 있느니라) 
       </b>
     </div>
     <br>
-    <div class="scripture">For the fruit of the Spirit is in all goo dness and righteousness and truth;) 
+    <div class="scripture">(For the fruit of the Spirit is in all goo dness and righteousness and truth;) 
     </div>         
   </div>
   <div class="image-container">
@@ -180,15 +180,15 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:10 주께 합당한 것을 입증 하며 Prov
+      <b>Eph.엡5:10 주께 합당한 것을 입증하며 
       </b>
     </div>
     <br>
-    <div class="scripture">ing what is acceptable unto the Lord. 
+    <div class="scripture">Proving what is acceptable unto the Lord. 
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:11 열매 맺지 못하는 어둠 의 일과 교제를 끊고 오히려 그들을 꾸 짖으라 
+      <b>Eph.엡5:11 열매 맺지 못하는 어둠의 일과 교제를 끊고 오히려 그들을 꾸짖으라 
       </b>
     </div>
     <br>
@@ -214,7 +214,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:13 그러나 책망받 는 모든 것은 빛에 의해 나타나 나니 무엇이든 나타나 게 하는 것은 빛이니라 
+      <b>Eph.엡5:13 그러나 책망받는 모든 것은 빛에 의해 나타나나니 무엇이든 나타나게 하는 것은 빛이니라 
       </b>
     </div>
     <br>
@@ -232,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:14 그러므로 그가 이르되 잠자는 자여 깨어나 죽음으로부터 살아 날지어다 그리스도가 너에게 빛을 주리 라 하느니라 
+      <b>Eph.엡5:14 그러므로 그가 이르되 잠자는 자여 깨어나 죽음으로부터 살아날지어다 그리스도가 너에게 빛을 주리라 하느니라 
       </b>
     </div>
     <br>
@@ -240,7 +240,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:15 그러므로 너희는 신중하 게 행하여 어리석은 자가 되지 말고 지 혜로운 자가 되도록 조심하며 
+      <b>Eph.엡5:15 그러므로 너희는 신중하게 행하여 어리석은 자가 되지 말고 지혜로운 자가 되도록 조심하며 
       </b>
     </div>
     <br>
@@ -258,15 +258,15 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:16 때를 활용하 라 시대가 악하니라 Re
+      <b>Eph.엡5:16 때를 활용하라 시대가 악하니라 
       </b>
     </div>
     <br>
-    <div class="scripture">deeming the time, because the days are evil. 
+    <div class="scripture">Redeeming the time, because the days are evil. 
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:17, JST5:17 그러므로 너희 는 지혜 없는 자가 되지 말고 주의 뜻 이 무엇인지 깨닫는 자가 되라 
+      <b>Eph.엡5:17, JST5:17 그러므로 너희는 지혜 없는 자가 되지 말고 주의 뜻이 무엇인지 깨닫는 자가 되라 
       </b>
     </div>
     <br>
@@ -284,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:18 술 취하지 말라 거기에 는 무절제가 있나니 성령으로 충만하게 되라 
+      <b>Eph.엡5:18 술 취하지 말라 거기에는 무절제가 있나니 성령으로 충만하게 되라 
       </b>
     </div>
     <br>
@@ -292,7 +292,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:19 시와 찬송과 영적인 노 래를 부르며 너희 마음으로 주께 노래 하고 선율을 만들라 
+      <b>Eph.엡5:19 시와 찬송과 영적인 노래를 부르며 너희 마음으로 주께 노래 하고 선율을 만들라 
       </b>
     </div>
     <br>
@@ -310,7 +310,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:20 모든 일에 대해 우리 주 예수 그리스도의 이름으로 아버지 하나 님께 항상 감사하 고 
+      <b>Eph.엡5:20 모든 일에 대해 우리 주 예수 그리스도의 이름으로 아버지 하나님께 항상 감사하고 
       </b>
     </div>
     <br>
@@ -318,7 +318,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:21 하나님을 두려워하는 가 운데 서로에게 순종하라 
+      <b>Eph.엡5:21 하나님을 두려워하는 가운데 서로에게 순종하라 
       </b>
     </div>
     <br>
@@ -336,7 +336,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:22 아내들아 남편에게 순종 하기를 주께 하는 것처럼 하라 
+      <b>Eph.엡5:22 아내들아 남편에게 순종하기를 주께 하는 것처럼 하라 
       </b>
     </div>
     <br>
@@ -362,7 +362,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:24 그러므로 교회가 그리스 도에게 복종하는 것처럼 아내들도 모든 일에서 자기 남편에게 복종하라 
+      <b>Eph.엡5:24 그러므로 교회가 그리스도에게 복종하는 것처럼 아내들도 모든 일에서 자기 남편에게 복종하라 
       </b>
     </div>
     <br>
@@ -370,7 +370,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:25 남편들아 아내 사랑하기 를 그리스도가 교회를 사랑한 것처럼 하라 그가 교회를 위해 자신을 준 것은 
+      <b>Eph.엡5:25 남편들아 아내 사랑하기를 그리스도가 교회를 사랑한 것처럼 하라 그가 교회를 위해 자신을 준 것은 
       </b>
     </div>
     <br>
@@ -388,7 +388,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:26 말씀을 통해 물 씻음으 로 교회를 성결하고 정결하게 하려 함 이요 
+      <b>Eph.엡5:26 말씀을 통해 물 씻음으로 교회를 성결하고 정결하게 하려 함이요 
       </b>
     </div>
     <br>
@@ -396,7 +396,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:27 흠이나 주름이나 그런 것이 없는 영광스러운 교회로 자기에게 돌리려 함이요 그것으로 하여금 거룩하 게 되어 책망받을 것이 없게 하려 함이 라 
+      <b>Eph.엡5:27 흠이나 주름이나 그런 것이 없는 영광스러운 교회로 자기에게 돌리려 함이요 그것으로 하여금 거룩하게 되어 책망받을 것이 없게 하려 함이라 
       </b>
     </div>
     <br>
@@ -414,7 +414,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:28 그러므로 남자는 마땅히 아내를 자기 몸처럼 사랑해야 하나니 아내를 사랑하는 자는 자기를 사랑하 느 니라 
+      <b>Eph.엡5:28 그러므로 남자는 마땅히 아내를 자기 몸처럼 사랑해야 하나니 아내를 사랑하는 자는 자기를 사랑하느니라 
       </b>
     </div>
     <br>
@@ -448,7 +448,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:31 이런 이유로 남자는 자 기 아버지와 어머니를 떠나 아내와 결 합하여 그들 둘이 하나의 육신이 되어 야 하느니라 
+      <b>Eph.엡5:31 이런 이유로 남자는 자기 아버지와 어머니를 떠나 아내와 결합하여 그들 둘이 하나의 육신이 되어야 하느니라 
       </b>
     </div>
     <br>
@@ -456,7 +456,7 @@ style: |
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_49.jpg'>
+    <img src='../../pictures/picture_4.jpg'>
   </div>
 </div>
 
@@ -466,7 +466,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Eph.엡5:32 이것은 큰 비밀이 라 그 러나 나는 그리스도와 교회에 관해 말 하노라 
+      <b>Eph.엡5:32 이것은 큰 비밀이라 그러나 나는 그리스도와 교회에 관해 말하노라 
       </b>
     </div>
     <br>
@@ -474,7 +474,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Eph.엡5:33 그러나 너희 각 사람은 특별히 아내를 자기처럼 사랑하고 아내 는 조심하여 남편을 공경하라 
+      <b>Eph.엡5:33 그러나 너희 각 사람은 특별히 아내를 자기처럼 사랑하고 아내는 조심하여 남편을 공경하라 
       </b>
     </div>
     <br>

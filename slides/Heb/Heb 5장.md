@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:1 사람들 가운데서 택한 모 든 대제사장 은 하나님 께 속한 일에 관 해 사람들을 위해 성임되어 죄를 위한 예물과 희생물을 바치나니 
+      <b>Heb.히5:1 사람들 가운데서 택한 모든 대제사장은 하나님께 속한 일에 관해 사람들을 위해 성임되어 죄를 위한 예물과 희생물을 바치나니 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:2 그가 무지한 자와 길에서 벗어난 자를 불쌍히 여길 수 있는 것은 자신도 연약함 가운데 싸여 있기 때문 이라 
+      <b>Heb.히5:2 그가 무지한 자와 길에서 벗어난 자를 불쌍히 여길 수 있는 것은 자신도 연약함 가운데 싸여있기 때문이라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:4, JST5:4 이 존귀는 아무 도 스스로 취하지 못하고 아론처럼 하 나님에게서 부름 받은 자라야 하나니 
+      <b>Heb.히5:4, JST5:4 이 존귀는 아무도 스스로 취하지 못하고 아론처럼 하나님에게서 부름 받은 자라야 하나니 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:5, JST5:5 그리스도 역시 스스로 영광을 취하여 대제사장이 된 것이 아니요 그에게 이르되 너는 나의 아들이라 오늘 내가 너를 낳았노라 하 신 이가 
+      <b>Heb.히5:5, JST5:5 그리스도 역시 스스로 영광을 취하여 대제사장이 된 것이 아니요 그에게 이르되 너는 나의 아들이라 오늘 내가 너를 낳았노라 하신 이가 
       </b>
     </div>
     <br>
@@ -180,11 +180,11 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:7 (멜기세덱은 육신으로 있 던 날에 그를 죽음으로부터 구원하기에 능하신 이에게 강한 부르짖음과 눈물로 기도와 간구를 드렸고 그가 두려워하는 것에 대해 들은 바 되었나니 (
+      <b>Heb.히5:7 (멜기세덱은 육신으로 있던 날에 그를 죽음으로부터 구원하기에 능하신 이에게 강한 부르짖음과 눈물로 기도와 간구를 드렸고 그가 두려워하는 것에 대해 들은 바 되었나니 
       </b>
     </div>
     <br>
-    <div class="scripture">Who in the days of his flesh, when he had offered up prayers and suppl ications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared; 
+    <div class="scripture">(Who in the days of his flesh, when he had offered up prayers and suppl ications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared; 
     </div>
     <br>
     <div class="scripture">
@@ -206,7 +206,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:8 그가 비록 한 아들이었어 도 그가 받은 고난을 통해 순종을 배웠 느니라 ) 
+      <b>Heb.히5:8 그가 비록 한 아들이었어도 그가 받은 고난을 통해 순종을 배웠느니라 ) 
       </b>
     </div>
     <br>
@@ -214,7 +214,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히5:9 완전하게 된 그는 그에게 순종하는 모든 사람을 위해 영원한 구 원의 창시자가 되어 
+      <b>Heb.히5:9 완전하게 된 그는 그에게 순종하는 모든 사람을 위해 영원한 구원의 창시자가 되어 
       </b>
     </div>
     <br>
@@ -232,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:10, JST5:10 하나님 에게서 멜기세덱의 반차를 좇은 대제사장이라 불렸느니라 
+      <b>Heb.히5:10, JST5:10 하나님에게서 멜기세덱의 반차를 좇은 대제사장이라 불렸느니라 
       </b>
     </div>
     <br>
@@ -240,7 +240,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히5:11 멜기세덱에 관해서는 할 말이 많으나 너희가 듣는 것이 둔하므 로 말하기 어렵도다 
+      <b>Heb.히5:11 멜기세덱에 관해서는 할 말이 많으나 너희가 듣는 것이 둔하므로 말하기 어렵도다 
       </b>
     </div>
     <br>
@@ -258,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:12 한때 너희는 교사가 되 어 마땅했으나 누군가 너희에게 하나님 의 말씀의 첫째 되는 원리를 다시 가르 치는 것이 필요하게 되었고 단단한 음 식이 아니라 젖이 필요한 자가 되었도 다 
+      <b>Heb.히5:12 한때 너희는 교사가 되어 마땅했으나 누군가 너희에게 하나님의 말씀의 첫째되는 원리를 다시 가르치는 것이 필요하게 되었고 단단한 음식이 아니라 젖이 필요한 자가 되었도다 
       </b>
     </div>
     <br>
@@ -284,19 +284,19 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Heb.히5:13, JST5:13 젖을 먹는 자 마다 의로움의 말씀에 능숙하지 못한 것은 그가 아기이기 때문이라 
+      <b style="font-size: 17pt;">Heb.히5:13, JST5:13 젖을 먹는 자마다 의로움의 말씀에 능숙하지 못한 것은 그가 아기이기 때문이라 
       </b>
     </div>
     <br>
-    <div class="scripture">For everyone that useth milk is unskillful in the word of righteousness; for he is a babe. 
+    <div class="scripture" >For everyone that useth milk is unskillful in the word of righteousness; for he is a babe. 
     </div>
     <br>
     <div class="scripture">
-      <b>Heb.히5:14 그러나 단단한 음식은 장성한 자에게 속한 것이니 그들은 감 각을 사용함으로써 선악을 분별할 만큼 단련된 자들이라 
+      <b style="font-size: 17pt;">Heb.히5:14 그러나 단단한 음식은 장성한 자에게 속한 것이니 그들은 감각을 사용함으로써 선악을 분별할 만큼 단련된 자들이라 
       </b>
     </div>
     <br>
-    <div class="scripture">But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
+    <div class="scripture" style="font-size: 17pt;">But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.
     </div>         
   </div>
   <div class="image-container">

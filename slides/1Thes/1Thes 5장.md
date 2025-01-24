@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:1 그러나 형제들아 때 와 절기에 관해서는 내가 너희에게 쓸 필요가 없나니 
+      <b>1Thes. 살전 5:1 그러나 형제들아 때와 절기에 관해서는 내가 너희에게 쓸 필요가 없나니 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:2 이는 주의 날이 밤에 도둑처럼 오는 것을 너희가 완전히 알 기 때문이라 
+      <b>1Thes. 살전5:2 이는 주의 날이 밤에 도둑처럼 오는 것을 너희가 완전히 알기 때문이라 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:3 사람들이 평화롭고 안전하다 하고 말하는 그때에 아이 밴 여자에게 진통이 임하는 것처럼 갑작스 러운 파멸이 그들에게 임하므로 그들이 피하지 못하리라 
+      <b>1Thes. 살전 5:3 사람들이 평화롭고 안전하다 하고 말하는 그때에 아이 밴 여자에게 진통이 임하는 것처럼 갑작스러운 파멸이 그들에게 임하므로 그들이 피하지 못하리라 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:4 그러나 형제들아 너 희는 어둠 속에 있지 않으니 그날이 도 둑처럼 너희를 덮치지 못하리라 
+      <b>1Thes. 살전 5:4 그러나 형제들아 너희는 어둠 속에 있지 않으니 그날이 도둑처럼 너희를 덮치지 못하리라 
       </b>
     </div>
     <br>
@@ -110,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:5 너희는 모두 빛의 자 녀요 낮의 자녀라 우리는 밤에 속하지 않고 어둠에 속하지도 않으니 
+      <b>1Thes. 살전5:5 너희는 모두 빛의 자녀요 낮의 자녀라 우리는 밤에 속하지 않고 어둠에 속하지도 않으니 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:6 다른 사람들이 하는 것처럼 잠자지 말고 깨어있 어 진지하자 
+      <b>1Thes. 살전 5:6 다른 사람들이 하는 것처럼 잠자지 말고 깨어있어 진지하자 
       </b>
     </div>
     <br>
@@ -136,7 +136,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:7 잠자는 자들은 밤에 자고 술 취하는 자들은 밤에 취하거니 와 
+      <b>1Thes. 살전 5:7 잠자는 자들은 밤에 자고 술 취하는 자들은 밤에 취하거니와 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:8, JST5:8 낮에 속한 우리는 진지하여 신앙과 사랑의 가슴판 을 입고 구원의 소망을 투구로 쓰자 
+      <b>1Thes. 살전 5:8, JST5:8 낮에 속한 우리는 진지하여 신앙과 사랑의 가슴판을 입고 구원의 소망을 투구로 쓰자 
       </b>
     </div>
     <br>
@@ -162,11 +162,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:9 하나님은 우리를 진 노에 이르도록 세우지 않고 우리 주 예 수 그리스도를 통해 구원을 얻도록 세 웠나니 
+      <b>
       </b>
     </div>
     <br>
-    <div class="scripture">For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ, 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
@@ -180,7 +180,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:10 그가 우리를 위해 죽은 것은 우리가 깨어있 든지 자고 있 든지 우리로 하여금 그와 함께 살게 하 려 함이라 
+      <b>1Thes. 살전 5:9 하나님은 우리를 진노에 이르도록 세우지 않고 우리 주 예수 그리스도를 통해 구원을 얻도록 세웠나니 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
+    </div>
+    <br>
+    <div class="scripture">
+      <b>
+      </b>
+    </div>
+    <br>
+    <div class="scripture"> 
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_141.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>1Thes. 살전 5:10 그가 우리를 위해 죽은 것은 우리가 깨어있든지 자고 있든지 우리로 하여금 그와 함께 살게 하려 함이라 
       </b>
     </div>
     <br>
@@ -188,7 +214,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:11 그러므로 너희가 하 는 것처럼 함께 위로하고 서로 교화하 라 
+      <b>1Thes. 살전5:11 그러므로 너희가 하는 것처럼 함께 위로하고 서로 교화하라 
       </b>
     </div>
     <br>
@@ -206,7 +232,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:12, JST5:12 형제들아 너희에게 간청하노니 너희 가운데서 수 고하고 주 안에서 너희를 감리하고 너 희에게 훈계하는 자들을 알며 
+      <b>1Thes. 살전 5:12, JST5:12 형제들아 너희에게 간청하노니 너희 가운데서 수고하고 주 안에서 너희를 감리하고 너희에게 훈계하는 자들을 알며 
       </b>
     </div>
     <br>
@@ -214,7 +240,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:13 그들의 행위로 인해 사랑 안에서 그들을 매우 귀하게 여기 며 너희 가운데 서로 평화롭 게 지내라 
+      <b>1Thes. 살전5:13 그들의 행위로 인해 사랑 안에서 그들을 매우 귀하게 여기며 너희 가운데 서로 평화롭게 지내라 
       </b>
     </div>
     <br>
@@ -232,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:14 형제들아 너희에게 권고하노니 제멋대로 행하는 자는 경고 하고 마음 약한 자는 위로하며 연약한 자는 붙들어주고 모든 사람에게 인내하 라 
+      <b>1Thes. 살전 5:14 형제들아 너희에게 권고하노니 제멋대로 행하는 자는 경고 하고 마음 약한 자는 위로하며 연약한 자는 붙들어주고 모든 사람에게 인내하라 
       </b>
     </div>
     <br>
@@ -258,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:15 주의하여 어떤 사람 에게든지 악으로 악을 갚는 자가 없게 하고 너희 가운데서와 모든 사람을 향 해 항상 선한 것을 따르라 
+      <b>1Thes. 살전5:15 주의하여 어떤 사람에게든지 악으로 악을 갚는 자가 없게 하고 너희 가운데서와 모든 사람을 향해 항상 선한 것을 따르라 
       </b>
     </div>
     <br>
@@ -266,11 +292,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:16 항상 기뻐하라 Rejoice 
+      <b>1Thes. 살전5:16 항상 기뻐하라 
       </b>
     </div>
     <br>
-    <div class="scripture">evermore. 
+    <div class="scripture">Rejoice evermore. 
     </div>         
   </div>
   <div class="image-container">
@@ -284,11 +310,11 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:17 끊임없이 기도하라 Pray w
+      <b>1Thes. 살전5:17 끊임없이 기도하라 
       </b>
     </div>
     <br>
-    <div class="scripture">ithout ceasing. 
+    <div class="scripture">Pray without ceasing. 
     </div>
     <br>
     <div class="scripture">
@@ -310,19 +336,19 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:19 성령을 소멸하지 말 라 Que
+      <b>1Thes. 살전5:19 성령을 소멸하지 말라 
       </b>
     </div>
     <br>
-    <div class="scripture">nch not the Spirit. 
+    <div class="scripture">Quench not the Spirit. 
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:20 예언을 멸시하지 말 라 Des
+      <b>1Thes. 살전5:20 예언을 멸시하지 말라 
       </b>
     </div>
     <br>
-    <div class="scripture">pise not prophesyings. 
+    <div class="scripture">Despise not prophesyings. 
     </div>         
   </div>
   <div class="image-container">
@@ -336,7 +362,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:21 모든 것을 입증하 여 선한 것을 굳게 붙들라 
+      <b>1Thes. 살전5:21 모든 것을 입증하여 선한 것을 굳게 붙들라 
       </b>
     </div>
     <br>
@@ -344,11 +370,11 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:22 모든 형태의 악을 버리라 A
+      <b>1Thes. 살전 5:22 모든 형태의 악을 버리라 
       </b>
     </div>
     <br>
-    <div class="scripture">bstain from all appearance of evil. 
+    <div class="scripture">Abstain from all appearance of evil. 
     </div>         
   </div>
   <div class="image-container">
@@ -362,7 +388,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:23 평강의 하나님이 너 희를 온전히 성결하게 하기를 원하노니 우리 주 예수 그리스도가 올 때까지 너 희 온 영과 영혼과 몸이 흠 없이 보존 되기를 하나님께 기도하노라 
+      <b>1Thes. 살전5:23 평강의 하나님이 너희를 온전히 성결하게 하기를 원하노니 우리 주 예수 그리스도가 올 때까지 너희 온 영과 영혼과 몸이 흠 없이 보존 되기를 하나님께 기도하노라 
       </b>
     </div>
     <br>
@@ -370,7 +396,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:24 너희를 부르시는 이 는 신실하니 그가 또한 그것을 행하리 라 
+      <b>1Thes. 살전5:24 너희를 부르시는 이는 신실하니 그가 또한 그것을 행하리라 
       </b>
     </div>
     <br>
@@ -388,7 +414,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:25 형제들아 우리를 위 해 기도하라 
+      <b>1Thes. 살전5:25 형제들아 우리를 위해 기도하라 
       </b>
     </div>
     <br>
@@ -396,7 +422,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전5:26, JST5:26 거룩한 인 사로 모든 형제에게 인사하라 
+      <b>1Thes. 살전5:26, JST5:26 거룩한 인사로 모든 형제에게 인사하라 
       </b>
     </div>
     <br>
@@ -414,7 +440,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:27 내가 주를 통해 너 희에게 명하노니 모든 거룩한 형제에게 이 편지를 읽어주라 
+      <b>1Thes. 살전 5:27 내가 주를 통해 너희에게 명하노니 모든 거룩한 형제에게 이 편지를 읽어주라 
       </b>
     </div>
     <br>
@@ -422,7 +448,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>1Thes. 살전 5:28 우리 주 예수 그리 스도의 은혜가 너희와 함께하 기를 원하 노라 아멘 
+      <b>1Thes. 살전 5:28 우리 주 예수 그리스도의 은혜가 너희와 함께하기를 원하 노라 아멘 
       </b>
     </div>
     <br>

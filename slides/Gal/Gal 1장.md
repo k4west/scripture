@@ -50,7 +50,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:1 (사람에게 속하지 않고 사 람을 통하지도 않았으며 예수 그리스도 와 그를 죽음으로부터 살리신 아버지 하나님 을 통해) 사도된 바울은 
+      <b>Gal.갈1:1 (사람에게 속하지 않고 사람을 통하지도 않았으며 예수 그리스도와 그를 죽음으로부터 살리신 아버지 하나님을 통해) 사도된 바울은 
       </b>
     </div>
     <br>
@@ -58,7 +58,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:2 함께 있는 모든 형제와 더 불어 갈라디아 여러 교회에 편지하노니 
+      <b>Gal.갈1:2 함께 있는 모든 형제와 더불어 갈라디아 여러 교회에 편지하노니 
       </b>
     </div>
     <br>
@@ -76,7 +76,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:3 아버지 하나님과 우리 주 예수 그리스도 로부터 은혜와 평강이 너 희에게 있기를 원하노라 
+      <b>Gal.갈1:3 아버지 하나님과 우리 주 예수 그리스도로부터 은혜와 평강이 너희에게 있기를 원하노라 
       </b>
     </div>
     <br>
@@ -84,7 +84,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:4 그가 우리 죄를 위해 자신 을 주신 것은 하나님 우리 아버지 의 뜻 에 따라 현재의 악한 세상으로부터 우 리를 건져내 려 함이었으니 
+      <b>Gal.갈1:4 그가 우리 죄를 위해 자신을 주신 것은 하나님 우리 아버지의 뜻에 따라 현재의 악한 세상으로부터 우리를 건져내려 함이었으니 
       </b>
     </div>
     <br>
@@ -102,7 +102,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:5 그에게 영광이 영원히 있 기를 원하노라 아멘 
+      <b>Gal.갈1:5 그에게 영광이 영원히 있기를 원하노라 아멘 
       </b>
     </div>
     <br>
@@ -110,7 +110,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:6 나는 너희가 그리스도 의 은혜 안으로 너희를 부르신 그로부터 그렇게 속히 떠나 다른 복음으로 옮겨 간 것에 놀랐나니 
+      <b>Gal.갈1:6 나는 너희가 그리스도의 은혜 안으로 너희를 부르신 그로부터 그렇게 속히 떠나 다른 복음으로 옮겨 간 것에 놀랐나니 
       </b>
     </div>
     <br>
@@ -128,7 +128,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:7 그것은 다른 복음이 아닐 지라도 너희를 괴롭게 하는 자들이 있 어 그리스도의 복음을 굽게 하려는 것 이라 
+      <b>Gal.갈1:7 그것은 다른 복음이 아닐 지라도 너희를 괴롭게 하는 자들이 있어 그리스도의 복음을 굽게 하려는 것이라 
       </b>
     </div>
     <br>
@@ -136,7 +136,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:8 그러나 우리나 하늘에서 온 천사라도 우리가 너희에게 전파한 복음 외에 다른 복음을 전파하 는 자에 게 저주가 있도다 
+      <b>Gal.갈1:8 그러나 우리나 하늘에서 온 천사라도 우리가 너희에게 전파한 복음 외에 다른 복음을 전파하는 자에게 저주가 있도다 
       </b>
     </div>
     <br>
@@ -154,7 +154,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:9 우리가 전에 말한 것처럼 지금 내가 다시 이르노니 누구든지 너 희가 받아들인 복음 외에 다른 복음을 전파하 는 자에게 저주가 있도다 
+      <b>Gal.갈1:9 우리가 전에 말한 것처럼 지금 내가 다시 이르노니 누구든지 너희가 받아들인 복음 외에 다른 복음을 전파하는 자에게 저주가 있도다 
       </b>
     </div>
     <br>
@@ -180,7 +180,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:10, JST1:10 지금 내가 사람 을 기쁘게 하랴 하나님을 기쁘게 하랴 내가 사람을 기쁘게 하기를 구하랴 내 가 지금까지 사람을 기쁘게 했다면 나 는 그리스도의 종이 아니니라 
+      <b>Gal.갈1:10, JST1:10 지금 내가 사람을 기쁘게 하랴 하나님을 기쁘게 하랴 내가 사람을 기쁘게 하기를 구하랴 내가 지금까지 사람을 기쁘게 했다면 나는 그리스도의 종이 아니니라 
       </b>
     </div>
     <br>
@@ -188,15 +188,15 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:11 형제들아 내가 너희에게 보증하거니와 나에게서 전파된 복음은 사람을 좇는 것이 아니니 
+      <b>
       </b>
     </div>
     <br>
-    <div class="scripture">But I certify you, brethren, that the gospel which was preached of me is not after man. 
+    <div class="scripture">
     </div>         
   </div>
   <div class="image-container">
-    <img src='../../pictures/picture_108.jpg'>
+    <img src='../../pictures/picture_10.jpg'>
   </div>
 </div>
 
@@ -206,7 +206,33 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:12 그것은 내가 사람에게서 받은 것도 아니요 배운 것도 아니요 예 수 그리스도의 계시를 통한 것이라 
+      <b>Gal.갈1:11 형제들아 내가 너희에게 보증하거니와 나에게서 전파된 복음은 사람을 좇는 것이 아니니 
+      </b>
+    </div>
+    <br>
+    <div class="scripture">But I certify you, brethren, that the gospel which was preached of me is not after man.
+    </div>
+    <br>
+    <div class="scripture">
+      <b> 
+      </b>
+    </div>
+    <br>
+    <div class="scripture"> 
+    </div>         
+  </div>
+  <div class="image-container">
+    <img src='../../pictures/picture_13.jpg'>
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="scriptures">
+    <br>
+    <div class="scripture">
+      <b>Gal.갈1:12 그것은 내가 사람에게서 받은 것도 아니요 배운 것도 아니요 예수 그리스도의 계시를 통한 것이라 
       </b>
     </div>
     <br>
@@ -232,7 +258,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:13 과거에 유대인의 종교 안 에 있을 때의 나에 행동에 관해 너희가 들었거니와 내가 하나님의 교회를 심히 박해하여 황폐하게 했나니 
+      <b>Gal.갈1:13 과거에 유대인의 종교 안에 있을 때의 나의 행동에 관해 너희가 들었거니와 내가 하나님의 교회를 심히 박해하여 황폐하게 했나니 
       </b>
     </div>
     <br>
@@ -258,7 +284,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:14 나의 조상의 전통에 관해 심히 큰 열의를 가진 나는 유대인의 종 교에서 나의 민족 가운데 같은 부류의 많은 사람보다 유익을 얻었으나 
+      <b>Gal.갈1:14 나의 조상의 전통에 관해 심히 큰 열의를 가진 나는 유대인의 종교에서 나의 민족 가운데 같은 부류의 많은 사람보다 유익을 얻었으나 
       </b>
     </div>
     <br>
@@ -266,7 +292,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:15 모태로부터 구별하여 그 의 은혜를 통해 나를 부르신 하나님이 
+      <b>Gal.갈1:15 모태로부터 구별하여 그의 은혜를 통해 나를 부르신 하나님이 
       </b>
     </div>
     <br>
@@ -284,7 +310,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:16 그의 아들을 나의 안에 드러내 기를 기뻐하여 나로 하여금 이방 인 가운데 그를 전파하게 했을 때 내가 즉시 혈육과 의논하지 않고 
+      <b>Gal.갈1:16 그의 아들을 나의 안에 드러내기를 기뻐하여 나로 하여금 이방인 가운데 그를 전파하게 했을 때 내가 즉시 혈육과 의논하지 않고 
       </b>
     </div>
     <br>
@@ -310,7 +336,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:17 나보다 먼저 사도 된 자 들을 만나려고 예루살렘으로 올라가지 도 않고 아라비아로 들어갔다가 다시 다메섹으로 돌아갔노라 
+      <b>Gal.갈1:17 나보다 먼저 사도된 자 들을 만나려고 예루살렘으로 올라가지도 않고 아라비아로 들어갔다가 다시 다메섹으로 돌아갔노라 
       </b>
     </div>
     <br>
@@ -318,7 +344,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:18 그 후 삼 년이 지나서 예 루살렘으로 올라가 베드로를 만나고 그 와 함께 십오 일을 머물렀 으나 
+      <b>Gal.갈1:18 그 후 삼 년이 지나서 예루살렘으로 올라가 베드로를 만나고 그와 함께 십오 일을 머물렀으나 
       </b>
     </div>
     <br>
@@ -362,7 +388,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:21 그 후에 내가 시리아 와 길리기아 지역에 들어갔으되 
+      <b>Gal.갈1:21 그 후에 내가 시리아와 길리기아 지역에 들어갔으되 
       </b>
     </div>
     <br>
@@ -370,7 +396,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:22 그리스도 안에 있는 유대 의 교회들 이 나를 얼굴로 알지 못하고 
+      <b>Gal.갈1:22 그리스도 안에 있는 유대의 교회들이 나를 얼굴로 알지 못하고 
       </b>
     </div>
     <br>
@@ -388,7 +414,7 @@ style: |
   <div class="scriptures">
     <br>
     <div class="scripture">
-      <b>Gal.갈1:23, JST1:23 그들이 들은 것 은 오직 과거에 우리를 박해하던 자가 지금은 한때 자기가 멸하던 신앙을 전 파한다는 말뿐이라 
+      <b>Gal.갈1:23, JST1:23 그들이 들은 것은 오직 과거에 우리를 박해하던 자가 지금은 한때 자기가 멸하던 신앙을 전파한다는 말뿐이라 
       </b>
     </div>
     <br>
@@ -396,7 +422,7 @@ style: |
     </div>
     <br>
     <div class="scripture">
-      <b>Gal.갈1:24, JST1:24 이에 그들이 나 로 인해 하나님께 영광을 돌렸느니라 
+      <b>Gal.갈1:24, JST1:24 이에 그들이 나로 인해 하나님께 영광을 돌렸느니라 
       </b>
     </div>
     <br>
@@ -407,30 +433,3 @@ style: |
     <img src='../../pictures/picture_43.jpg'>
   </div>
 </div>
-
----
-
-<div class="columns">
-  <div class="scriptures">
-    <br>
-    <div class="scripture">
-      <b>Gal.갈2:1 그 후 십사 년이 지나서 내가 바나바와 함께 디도를 데리고 예 루살렘으로 다시 올라갔으며 
-      </b>
-    </div>
-    <br>
-    <div class="scripture">Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
-    </div>
-    <br>
-    <div class="scripture">
-      <b>
-      </b>
-    </div>
-    <br>
-    <div class="scripture">
-    </div>         
-  </div>
-  <div class="image-container">
-    <img src='../../pictures/picture_25.jpg'>
-  </div>
-</div>
-
